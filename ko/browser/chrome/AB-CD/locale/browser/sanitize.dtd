@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "전체">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+
 <!ENTITY clearTimeDuration.dateColumn     "방문일">
 <!ENTITY clearTimeDuration.nameColumn     "이름">
 

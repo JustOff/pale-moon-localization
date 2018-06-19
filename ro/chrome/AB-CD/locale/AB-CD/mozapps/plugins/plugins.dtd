@@ -9,7 +9,7 @@
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY unsupportedPlatform.learnMore                       "Află mai multe…">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
-<!ENTITY unsupportedPlatform.post                            "">
+
 
 <!ENTITY missingPlugin                                       "Este necesar un plugin pentru a afișa acest conținut.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
@@ -18,13 +18,13 @@
 <!ENTITY checkForUpdates                                     "Verifică pentru actualizări…">
 <!ENTITY disabledPlugin                                      "Acest plugin este dezactivat.">
 <!ENTITY blockedPlugin.label                                 "Plugin-ul a fost dezactivat pentru protecția dumneavoastră.">
-<!ENTITY hidePluginBtn.label                                 "Hide plugin">
+
 <!ENTITY managePlugins                                       "Gestionați pluginurile…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
-<!ENTITY reloadPlugin.pre                                    "">
+
 <!ENTITY reloadPlugin.middle                                 "Reîncarcă pagina">
 <!ENTITY reloadPlugin.post                                   " pentru a încerca din nou.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
@@ -39,4 +39,4 @@
 
 <!ENTITY plugin.file                                         "Fișier">
 <!ENTITY plugin.mimeTypes                                    "Tipuri MIME">
-<!ENTITY plugin.flashProtectedMode.label                     "Enable Adobe Flash protected mode">
+

@@ -11,10 +11,10 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ude af stand til at oprette forbindelse">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
 
 <!ENTITY deniedPortAccess.title "Adgang til denne adresse er underlagt begrænsninger">
-<!ENTITY deniedPortAccess.longDesc "<p>The requested address specified a port (e.g. <q>palemoon.org:25</q> for port 25 on palemoon.org) normally used for purposes <em>other</em> than Web browsing. The browser has canceled the request for your protection and security.</p>">
+
 
 <!ENTITY dnsNotFound.title "Serveren blev ikke fundet">
 <!ENTITY dnsNotFound.longDesc "
@@ -52,12 +52,12 @@
 ">
 
 <!ENTITY netInterrupt.title "Forbindelsen blev afbrudt">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
 
 <!ENTITY notCached.title "Siden er udløbet">
 <!ENTITY notCached.longDesc "<p>Den forespurgte side er ikke tilgængelig i cacheen.</p><ul><li>Af sikkerhedshensyn henter &brandShortName; ikke automatisk følsomme sider igen.</li><li>Klik for at prøve at hente siden igen fra webstedet.</li></ul>">
 
-<!ENTITY netOffline.title "Offline mode">
+
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Vælg &quot;Prøv igen&quot; for at skifte til online-tilstand og genindlæse siden.</li>
@@ -79,17 +79,13 @@
 ">
 
 <!ENTITY netReset.title "Forbindelsen blev nulstillet">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
 
 <!ENTITY netTimeout.title "Forbindelsens tidsfrist udløb">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "The address wasn't understood">
-<!ENTITY unknownProtocolFound.longDesc "
-<ul>
-  <li>You might need to install other software to open this address.</li>
-</ul>
-">
+
+
+
 
 <!ENTITY proxyConnectFailure.title "Proxyserveren afviser forbindelser">
 <!ENTITY proxyConnectFailure.longDesc "
@@ -124,12 +120,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
-<!ENTITY nssFailure2.longDesc2 "
-<ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+
 
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -147,10 +138,7 @@
 ">
 
 <!ENTITY malwareBlocked.title "Websted mistænkt for at sprede skadelige programmer!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='https://www.stopbadware.org/request-review' >request a review</a>.</p>
-">
+
 
 <!ENTITY phishingBlocked.title "Mistænkt netsvindel!">
 <!ENTITY phishingBlocked.longDesc "
@@ -158,19 +146,11 @@
 <p>Denne type netsvindel er kendt som phishing-angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
 ">
 
-<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<!ENTITY xssBlockMode.title "Blocked by XSS Filter">
-<!ENTITY xssBlockMode.longDesc "
-<ul>
-  <li>&brandShortName; blocked further actions on this page, because it contains 
-    injected JavaScript code.</li>
-  <li>Loading of this page has been suspended because of either the explicit request
-    by the website to block this page in case of XSS attacks, or because &brandShortName;
-    has been configured to block pages in that situation.</li>
-</ul>
-">
+
+
+
+
 
 <!ENTITY corruptedContentError.title "Fejlbehæftet indhold">
 <!ENTITY corruptedContentError.longDesc "<p>Siden, du forsøger at se, kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul>">
@@ -192,20 +172,20 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY errorReporting.title "Report this error">
-<!ENTITY errorReporting.longDesc "Reporting the address and certificate information for <span id='hostname'></span> will help us identify and block malicious sites. Thanks for helping create a safer web!">
-<!ENTITY errorReporting.automatic "Automatically report errors in the future">
-<!ENTITY errorReporting.learnMore "Learn more…">
-<!ENTITY errorReporting.sending "Sending report">
-<!ENTITY errorReporting.sent "Report sent">
-<!ENTITY errorReporting.report "Report">
-<!ENTITY errorReporting.tryAgain "Try again">
 
-<!ENTITY remoteXUL.title "Remote XUL">
+
+
+
+
+
+
+
+
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Unable to Connect Securely">
+
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "Advanced info: ssl_error_unsupported_version">
-<!ENTITY sslv3Used.learnMore "Learn More…">
+
+

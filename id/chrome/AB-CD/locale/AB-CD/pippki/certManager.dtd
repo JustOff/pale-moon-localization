@@ -19,7 +19,7 @@
 <!ENTITY certmgr.detail.general_tab.title     "Umum">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Rincian">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+
 
 <!ENTITY certmgr.pending.label                "Saat ini memverifikasi sertifikat…">
 <!ENTITY certmgr.subjectinfo.label            "Dikeluarkan Untuk">
@@ -27,20 +27,20 @@
 <!ENTITY certmgr.periodofvalidity.label       "Masa Berlaku" >
 <!ENTITY certmgr.fingerprints.label           "Sidik jari">
 <!ENTITY certmgr.certdetail.title             "Rincian Sertifikat">
-<!ENTITY certmgr.certdetail.cn                "Common Name (CN)">
+
 <!ENTITY certmgr.certdetail.o                 "Organisasi (O)">
 <!ENTITY certmgr.certdetail.ou                "Unit Organisasi (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Nomor Seri">
 <!ENTITY certmgr.certdetail.sha256fingerprint "Sidik jari SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Sidik jari SHA-1">
 
-<!ENTITY certmgr.editcacert.title             "Edit CA certificate trust settings">
-<!ENTITY certmgr.editcert.edittrust           "Edit trust settings:">
+
+
 <!ENTITY certmgr.editcert.trustssl            "Sertifikat ini bisa mengidentifikasi situs web.">
 <!ENTITY certmgr.editcert.trustemail          "Sertifikat ini dapat mengidentifikasi pengguna email.">
 <!ENTITY certmgr.editcert.trustobjsign        "Sertifikat ini bisa mengidentifikasi pembuat perangkat lunak.">
-<!ENTITY certmgr.editemailcert.title          "Edit email certificate trust settings">
-<!ENTITY certmgr.editemailcert.edittrust      "Edit certificate trust settings:">
+
+
 <!ENTITY certmgr.editemailcert.dotrust        "Percayai keaslian sertifikat ini.">
 <!ENTITY certmgr.editemailcert.donttrust      "Jangan Percaya keaslian sertifikat ini.">
 
@@ -48,7 +48,7 @@
 
 <!ENTITY certmgr.certname                     "Nama Sertifikat">
 <!ENTITY certmgr.certserver                   "Server">
-<!ENTITY certmgr.override_lifetime            "Lifetime">
+
 <!ENTITY certmgr.tokenname                    "Perangkat Keamanan">
 <!ENTITY certmgr.begins                       "Dimulai Pada">
 <!ENTITY certmgr.expires                      "Berakhir Pada">
@@ -56,29 +56,29 @@
 <!ENTITY certmgr.serial                       "Nomor Seri">
 
 <!ENTITY certmgr.close.label                  "Tutup">
-<!ENTITY certmgr.close.accesskey              "C">
+
 <!ENTITY certmgr.view2.label                  "Lihat…">
-<!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey              "E">
-<!ENTITY certmgr.editca.label                 "Edit CA Trust">
-<!ENTITY certmgr.editca.accesskey             "d">
+
+
+
+
+
 <!ENTITY certmgr.export.label                 "Ekspor…">
-<!ENTITY certmgr.export.accesskey             "x">
+
 <!ENTITY certmgr.delete2.label                "Hapus…">
-<!ENTITY certmgr.delete2.accesskey            "D">
+
 <!ENTITY certmgr.delete_builtin.label         "Hapus atau Ketidakpercayaan…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
+
 <!ENTITY certmgr.backup2.label                "Cadangan…">
-<!ENTITY certmgr.backup2.accesskey            "B">
+
 <!ENTITY certmgr.backupall2.label             "Cadangkan Semua…">
-<!ENTITY certmgr.backupall2.accesskey         "k">
+
 <!ENTITY certmgr.restore2.label               "Impor…">
-<!ENTITY certmgr.restore2.accesskey           "m">
+
 <!ENTITY certmgr.details.label                "Sertifikat Bidang">
-<!ENTITY certmgr.details.accesskey            "F">
+
 <!ENTITY certmgr.fields.label                 "Bidang Nilai">
-<!ENTITY certmgr.fields.accesskey             "V">
+
 <!ENTITY certmgr.hierarchy.label              "Sertifikat Hirarki">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Tambahkan Pengecualian…">

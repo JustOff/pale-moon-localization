@@ -26,11 +26,11 @@
 <!ENTITY insertRelatedAfterCurrent.label    "Inserir lapelas relacionadas xunto á actual">
 <!ENTITY contextLoadInBackground.label      "Ao realizar unha busca contextual, cambiar ao momento á nova lapela">
 <!ENTITY closeWindowWithLastTab.label       "Pechar a xanela cando se peche a última lapela">
-<!ENTITY showTabPreviews.label              "Show previews when switching tabs with Ctrl+Tab">
+
 
 <!ENTITY newtabPage.label                   "Ao abrir unha nova lapela, mostrar:">
-<!ENTITY newtabPage.custom.label            "A custom URL">
+
 <!ENTITY newtabPage.blank.label             "Unha páxina en branco">
 <!ENTITY newtabPage.home.label              "A páxina de inicio de Pale Moon">
-<!ENTITY newtabPage.myhome.label            "My home page">
+
 <!ENTITY newtabPage.quickdial.label         "A páxina de marcación rápida">

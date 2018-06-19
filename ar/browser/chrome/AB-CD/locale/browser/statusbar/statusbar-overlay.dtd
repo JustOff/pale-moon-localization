@@ -4,7 +4,7 @@
 <!ENTITY status4evar.progress.widget.title "مقياس التقدم">
 <!ENTITY status4evar.throbber.widget.title "مؤشر النشاط">
 <!ENTITY status4evar.download.widget.title "حالة التنزيل">
-<!ENTITY status4evar.options.widget.title "Status Bar Preferences">
+
 <!ENTITY status4evar.options.widget.label "شريط حالة Pale Moon">
-<!ENTITY status4evar.menu.options.label "Status Bar Preferences">
+
 

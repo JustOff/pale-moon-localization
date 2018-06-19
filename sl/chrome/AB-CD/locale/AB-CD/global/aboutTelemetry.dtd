@@ -12,9 +12,7 @@
   Telemetrija je <span>izključena</span>.
 ">
 
-<!ENTITY aboutTelemetry.generalDataSection "
-  General Data
-">
+
 
 <!ENTITY aboutTelemetry.slowSqlSection "
   Počasni stavki SQL
@@ -24,25 +22,19 @@
   Sesutja brskalnika
 ">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Thread Hangs
-">
+
 
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrami
 ">
 
-<!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Keyed Histograms
-">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Enostavne meritve
 ">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "
-  Add-on Details
-">
+
 
 <!ENTITY aboutTelemetry.lateWritesSection "
   Poznejša pisanja
@@ -56,9 +48,7 @@
   Histogrami dodatkov
 ">
 
-<!ENTITY aboutTelemetry.toggle "
-  Click to toggle section
-">
+
 
 <!ENTITY aboutTelemetry.emptySection "
   (Ni zbranih podatkov)
@@ -76,6 +66,4 @@
   Prikaži neobdelane podatke sesutij
 ">
 
-<!ENTITY aboutTelemetry.filterText "
-  Filter (strings or /regexp/)
-">
+

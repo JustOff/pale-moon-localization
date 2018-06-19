@@ -12,9 +12,9 @@
 <!ENTITY previous.accesskey "P">
 <!ENTITY previous.tooltip "ವಾಕ್ಯದ ಹಿಂದಿನ ಇರುವಿಕೆಯನ್ನು ಹುಡುಕು">
 <!ENTITY findCloseButton.tooltip "ಹುಡುಕು ಪಟ್ಟಿಯನ್ನು ಮುಚ್ಚು">
-<!ENTITY highlightAll.label "Highlight All">
-<!ENTITY highlightAll.accesskey "a">
-<!ENTITY highlightAll.tooltiptext "Highlight all occurrences of the phrase">
-<!ENTITY caseSensitive.label "Match Case">
-<!ENTITY caseSensitive.accesskey "c">
-<!ENTITY caseSensitive.tooltiptext "Search with case sensitivity">
+
+
+
+
+
+

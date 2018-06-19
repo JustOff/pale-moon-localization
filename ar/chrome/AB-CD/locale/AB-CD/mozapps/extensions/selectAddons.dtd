@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
+
 
 <!ENTITY checking.heading            "يتحقق من إضافاتك">
 <!ENTITY checking.progress.label     "يتحقق من توافقية إضافاتك مع هذه النسخة من &brandShortName;.">
@@ -18,13 +18,13 @@
 <!ENTITY select.action               "الإجراء">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
-<!ENTITY select.action.style         "width: 35ch;">
+
 <!ENTITY select.source               "ثبتها">
 <!ENTITY select.name                 "الاسم">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
-<!ENTITY select.name.style           "width: 33ch;">
+
 
 <!ENTITY confirm.heading             "اختر إضافاتك">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"

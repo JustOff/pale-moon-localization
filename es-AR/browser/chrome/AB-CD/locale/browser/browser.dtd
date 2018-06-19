@@ -521,17 +521,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "c">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
 
 <!ENTITY fullZoomReduceCmd.label        "Alejar">
 <!ENTITY fullZoomReduceCmd.accesskey    "j">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
 
 <!ENTITY fullZoomResetCmd.label         "Restablecer">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+
 
 <!ENTITY fullZoomToggleCmd.label        "Zoom en el texto solamente">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">

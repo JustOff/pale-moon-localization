@@ -53,7 +53,7 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip2 "Log CSS errors and warnings">
+
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "記錄 JavaScript 例外錯誤">
@@ -73,8 +73,8 @@
 <!ENTITY btnConsoleInfo         "資訊">
 <!ENTITY btnConsoleWarnings     "警告">
 <!ENTITY btnConsoleLog          "記錄">
-<!ENTITY btnConsoleXhr          "XHR">
-<!ENTITY btnConsoleReflows      "Reflows">
+
+
 
 <!ENTITY filterOutput.placeholder "過濾輸出">
 <!ENTITY btnClear.label        "清除">
@@ -83,13 +83,13 @@
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+
 
 <!ENTITY copyURLCmd.label     "複製鏈結網址">
 <!ENTITY copyURLCmd.accesskey "a">

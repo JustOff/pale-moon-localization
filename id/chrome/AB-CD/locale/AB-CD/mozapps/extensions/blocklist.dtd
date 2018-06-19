@@ -4,10 +4,10 @@
 
 <!ENTITY blocklist.title             "Pengaya mungkin menyebabkan masalah">
 <!ENTITY blocklist.style             "lebar: 45em; tinggi: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause issues:">
-<!ENTITY blocklist.softblocked       "It is highly recommended, but not required, that you restart with these add-ons disabled.">
+
+
 <!ENTITY blocklist.hardblocked       "Add-on ini memiliki risiko tinggi menyebabkan masalah stabilitas atau keamanan dan telah diblokir, namun restart diperlukan untuk menonaktifkannya sepenuhnya.">
-<!ENTITY blocklist.softandhard       "Some listed add-ons have a high risk of causing stability or security problems and have been blocked. For the others it is highly recommended, but not required, that you restart with them disabled.">
+
 <!ENTITY blocklist.moreinfo          "Informasi lebih lanjut">
 
 <!ENTITY blocklist.accept.label      "Mulai ulang &brandShortName;">

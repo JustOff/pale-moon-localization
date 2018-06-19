@@ -52,8 +52,8 @@
 <!ENTITY cmd.open.accesskey                "A">
 <!ENTITY cmd.open_window.label             "Abrir nunha nova xanela">
 <!ENTITY cmd.open_window.accesskey         "n">
-<!ENTITY cmd.open_private_window.label     "Open in a New Private Window">
-<!ENTITY cmd.open_private_window.accesskey "P">
+
+
 <!ENTITY cmd.open_tab.label                "Abrir nunha nova lapela">
 <!ENTITY cmd.open_tab.accesskey            "v">
 <!ENTITY cmd.open_all_in_tabs.label        "Abrir todo en lapelas">

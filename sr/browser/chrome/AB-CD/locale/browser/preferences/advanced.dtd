@@ -98,10 +98,10 @@
 
 <!ENTITY offlineNotify.label             "Обавести ме када веб-сајт затражи да смести податке за коришћење ван мреже">
 <!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineAppsPermissions.label    "When a website asks to store data for offline use:">
-<!ENTITY offlineAppsPermissions.Allow    "Allow by default">
-<!ENTITY offlineAppsPermissions.Ask      "Always ask">
-<!ENTITY offlineAppsPermissions.Deny     "Deny">
+
+
+
+
 <!ENTITY offlineNotifyExceptions.label   "Изузеци">
 <!ENTITY offlineNotifyExceptions.accesskey "И">
 
@@ -112,13 +112,13 @@
 <!ENTITY offlineAppRemove.confirm        "Уклони податке о сајту">
 
 <!ENTITY certificateTab.label            "Certificates">
-<!ENTITY certGroup.label                 "Personal Certificate">
+
 <!ENTITY certSelection.description       "Када сервер затражи мој лични сертификат:">
 <!ENTITY certs.auto                      "Изабери аутоматски">
 <!ENTITY certs.auto.accesskey            "и">
 <!ENTITY certs.ask                       "Питај ме сваки пут">
 <!ENTITY certs.ask.accesskey             "т">
-<!ENTITY ocspGroup.label                 "Certificate Validation">
+
 <!ENTITY enableOCSP.label                "Користи мрежни протокол за сертификацију (ОЦСП, OCSP) за потврду тренутне важности сертификата">
 <!ENTITY enableOCSP.accesskey            "К">
 <!ENTITY requireOCSP.label               "Када веза са сервером за ОЦСП не успе, сматрај да је сертификат неважећи">
@@ -128,21 +128,21 @@
 <!ENTITY viewSecurityDevices.label       "Безбедоносни уређаји">
 <!ENTITY viewSecurityDevices.accesskey   "Б">
 
-<!ENTITY UACompatGroup.label    "Compatibility">
-<!ENTITY UACompat.label         "User Agent Mode:">
-<!ENTITY UACompat.Native        "Native">
-<!ENTITY UACompat.Gecko         "Gecko Compatibility">
-<!ENTITY UACompat.Firefox       "Firefox Compatibility">
 
-<!ENTITY scrollparamTab.label               "Scrolling">
-<!ENTITY smoothscroll.explain.label         "The parameters below only have an effect if smooth scrolling is enabled overall with the checkbox above.">
-<!ENTITY smoothscroll.to                    "to">
-<!ENTITY smoothscroll.params.label          "Smooth scrolling parameters">
-<!ENTITY smoothscroll.mousewheel.label      "Smooth scroll with mouse wheel">
-<!ENTITY smoothscroll.mousewheel.duration   "Mouse wheel scroll duration:">
-<!ENTITY smoothscroll.arrowkeys.label       "Smooth scroll with arrow keys">
-<!ENTITY smoothscroll.arrowkeys.duration    "Arrow keys scroll duration:">
-<!ENTITY smoothscroll.pagekeys.label        "Smooth scroll page up/down">
-<!ENTITY smoothscroll.pagekeys.duration     "Page up/down scroll duration:">
-<!ENTITY smoothscroll.scrollbar.label       "Smooth scroll with scrollbars">
-<!ENTITY smoothscroll.scrollbar.duration    "Scrollbar smooth scroll duration:">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

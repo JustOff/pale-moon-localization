@@ -521,17 +521,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "Y">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
 
 <!ENTITY fullZoomReduceCmd.label        "Uzaklaş">
 <!ENTITY fullZoomReduceCmd.accesskey    "U">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
 
 <!ENTITY fullZoomResetCmd.label         "Sıfırla">
 <!ENTITY fullZoomResetCmd.accesskey     "S">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+
 
 <!ENTITY fullZoomToggleCmd.label        "Sadece metni yakınlaştır">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">

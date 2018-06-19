@@ -5,7 +5,7 @@
 
 <!ENTITY migrationWizard.title          "Asistent de import">
 
-<!ENTITY importFrom.label               "Import Preferences, Bookmarks, History, Passwords and other data from:">
+
 <!ENTITY importFromUnix.label           "Importă preferințe, semne de carte, istoric, parole și alte date din:">
 <!ENTITY importFromBookmarks.label      "Importă semne de carte din:">
 

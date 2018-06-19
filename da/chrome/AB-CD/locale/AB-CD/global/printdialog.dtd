@@ -15,19 +15,19 @@
 <!ENTITY propertiesButton.label "Egenskaber…">
 <!ENTITY propertiesButton.accesskey "E">
 <!ENTITY descText.label "Printerbeskrivelse:">
-<!ENTITY printer.label "Printer">
+
 <!ENTITY printerInput.label "Printernavn:">
 <!ENTITY printerInput.accesskey "n">
 
 <!ENTITY printrangeGroup.label "Udskrivningsområde">
 <!ENTITY allpagesRadio.label "Alle sider">
-<!ENTITY allpagesRadio.accesskey "A">
+
 <!ENTITY rangeRadio.label  "Sider">
 <!ENTITY rangeRadio.accesskey  "S">
 <!ENTITY frompageInput.label  "fra">
 <!ENTITY frompageInput.accesskey  "f">
 <!ENTITY topageInput.label  "til">
-<!ENTITY topageInput.accesskey  "t">
+
 <!ENTITY selectionRadio.label "Markeringen">
 <!ENTITY selectionRadio.accesskey "M">
 

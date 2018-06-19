@@ -6,15 +6,15 @@
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
 <!ENTITY next.label "Næste">
-<!ENTITY next.accesskey "N">
+
 <!ENTITY next.tooltip "Find den næste forekomst">
 <!ENTITY previous.label "Forrige">
 <!ENTITY previous.accesskey "F">
 <!ENTITY previous.tooltip "Find den forrige forekomst">
 <!ENTITY findCloseButton.tooltip "Luk søgebjælke">
-<!ENTITY highlightAll.label "Highlight All">
-<!ENTITY highlightAll.accesskey "a">
-<!ENTITY highlightAll.tooltiptext "Highlight all occurrences of the phrase">
-<!ENTITY caseSensitive.label "Match Case">
-<!ENTITY caseSensitive.accesskey "c">
-<!ENTITY caseSensitive.tooltiptext "Search with case sensitivity">
+
+
+
+
+
+

@@ -3,23 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+
 
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Ažuriraj">
-<!ENTITY resetPass.label              "Reset">
+
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Upravljaj računom">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "View Quota">
+
 <!ENTITY changePassword2.label        "Promijeni lozinku…">
 <!ENTITY myRecoveryKey.label          "Moj ključ popravka">
-<!ENTITY resetSync2.label             "Reset Sync…">
+
 
 <!ENTITY pairDevice.label             "Upari uređaj">
 
@@ -40,7 +40,7 @@
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Naziv uređaja:">
 <!ENTITY syncDeviceName.accesskey   "c">
-<!ENTITY unlinkDevice.label           "Unlink This Device">
+
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Uvjeti usluge">

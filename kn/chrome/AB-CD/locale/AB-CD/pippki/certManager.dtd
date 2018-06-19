@@ -24,7 +24,7 @@
 <!ENTITY certmgr.pending.label                "ಪ್ರಸ್ತುತ ಪ್ರಮಾಣಪತ್ರ ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ...">
 <!ENTITY certmgr.subjectinfo.label            "ಇವರಿಗೆ ನೀಡಲಾಗಿದೆ">
 <!ENTITY certmgr.issuerinfo.label             "ಇವರಿಂದ ನೀಡಲಾಗಿದೆ">
-<!ENTITY certmgr.periodofvalidity.label       "Period of Validity" >
+
 <!ENTITY certmgr.fingerprints.label           "ಬೆರಳಗುರುತು">
 <!ENTITY certmgr.certdetail.title             "ಪ್ರಮಾಣಪತ್ರ ವಿವರ">
 <!ENTITY certmgr.certdetail.cn                "ಸಾಮಾನ್ಯ ಹೆಸರು (CN)">
@@ -50,7 +50,7 @@
 <!ENTITY certmgr.certserver                   "ಸರ್ವರ್">
 <!ENTITY certmgr.override_lifetime            "ಜೀವಮಾನ">
 <!ENTITY certmgr.tokenname                    "ಸುರಕ್ಷತೆ ಸಾಧನ">
-<!ENTITY certmgr.begins                       "Begins On">
+
 <!ENTITY certmgr.expires                      "ಈ ದಿನದಂದು ಅವಧಿಯನ್ನು ಮೀರುತ್ತದೆ">
 <!ENTITY certmgr.email                        "ಇ-ಮೇಲ್ ವಿಳಾಸ">
 <!ENTITY certmgr.serial                       "ಕ್ರಮ ಸಂಖ್ಯೆ">
@@ -80,7 +80,7 @@
 <!ENTITY certmgr.fields.label                 "ಸ್ಥಾನಗಳ ಮೌಲ್ಯ">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "ಪ್ರಮಾಣಪತ್ರ ಶ್ರೇಣಿ ವ್ಯವಸ್ಥೆ">
-<!ENTITY certmgr.hierarchy.accesskey2         "H">
+
 <!ENTITY certmgr.addException.label           "ವಿನಾಯಿತಿ ಸೇರಿಸಿ...">
 <!ENTITY certmgr.addException.accesskey       "x">
 

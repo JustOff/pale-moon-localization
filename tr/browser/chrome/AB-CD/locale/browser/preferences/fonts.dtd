@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback.desc        "Bu karakter kodlaması, kendi kodlamasını tanımlayamayan eski içerikler için kullanılır.">
 
 <!ENTITY languages.customize.Fallback.auto        "Mevcut Mevkii İçin Varsayılan">
-<!ENTITY languages.customize.Fallback.utf8        "UTF-8">
+
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arapça">

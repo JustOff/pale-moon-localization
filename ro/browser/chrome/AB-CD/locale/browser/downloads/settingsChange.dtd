@@ -4,4 +4,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  settingsChangePreferences.label  "Setările pot fi schimbate din fila „Aplicații” din fereastra de preferințe &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "Settings can be changed using the Applications tab in &brandShortName;'s Preferences.">
+

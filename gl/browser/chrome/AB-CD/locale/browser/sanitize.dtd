@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "Todo">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+
 <!ENTITY clearTimeDuration.dateColumn     "Data de visita">
 <!ENTITY clearTimeDuration.nameColumn     "Nome">
 
@@ -44,8 +44,8 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "Datos de sitios web sen conexión">
 <!ENTITY itemOfflineApps.accesskey         "o">
-<!ENTITY itemConnectivityData.label        "Site Connectivity Data">
-<!ENTITY itemConnectivityData.accesskey    "N">
+
+
 <!ENTITY itemActiveLogins.label            "Sesións activas">
 <!ENTITY itemActiveLogins.accesskey        "S">
 <!ENTITY itemSitePreferences.label         "Preferencias do sitio">

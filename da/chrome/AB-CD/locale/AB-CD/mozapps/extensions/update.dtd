@@ -7,7 +7,7 @@
 <!ENTITY  offline.title                   "&brandShortName; arbejder offline">
 <!ENTITY  offline.description             "&brandShortName; er nødt til at gå online for at se om opdateringer er tilgængelige til dine tilføjelser, for at gøre dem kompatible med denne version.">
 <!ENTITY  offline.toggleOffline.label     "Gå online nu.">
-<!ENTITY  offline.toggleOffline.accesskey "G">
+
 
 <!ENTITY  mismatch.win.title              "Inkompatible tilføjelser">
 <!ENTITY  mismatch.top.label              "Følgende tilføjelser er ikke kompatible med denne version af &brandShortName; og er blevet deaktiveret:">

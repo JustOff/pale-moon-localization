@@ -4,4 +4,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  settingsChangePreferences.label  "&brandShortName;ನ ಆದ್ಯತೆಗಳಲ್ಲಿರುವ ಅನ್ವಯ ಗುಂಡಿಯನ್ನು ಬಳಸಿಕೊಂಡು ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸಬಹುಗಾಗಿದೆ.">
-<!ENTITY  settingsChangeOptions.label      "Settings can be changed using the Applications tab in &brandShortName;'s Preferences.">
+

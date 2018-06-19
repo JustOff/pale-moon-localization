@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "ಆಡ್‌-ಆನ್‌ಗಳ ವ್ಯವಸ್ಥಾಪಕ">
 
 <!ENTITY search.placeholder                   "ಎಲ್ಲಾ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಹುಡುಕು">
-<!ENTITY search.buttonlabel                   "Search">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -102,7 +102,7 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "ತೆಗೆದುಹಾಕು">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "Debug">
+
 <!ENTITY cmd.showPreferencesWin.label         "ಆಯ್ಕೆಗಳು">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ಈ ಆಡ್‌-ಆನ್‌ನ ಆಯ್ಕೆಗಳನ್ನು ಬದಲಾಯಿಸಿ">
 <!ENTITY cmd.showPreferencesUnix.label        "ಆದ್ಯತೆಗಳು">
@@ -207,8 +207,8 @@
 <!ENTITY addon.loadingReleaseNotes.label      "ಲೋಡ್ ಆಗುತ್ತಿದೆ…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "ಕ್ಷಮಿಸಿ, ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಾಗ ಒಂದು ದೋಷ ಉಂಟಾಗಿದೆ.">
 
-<!ENTITY addon.nativeAddon                    "This add-on directly targets Pale Moon">
-<!ENTITY addon.compatAddon                    "This add-on targets Mozilla Firefox and runs in compatibility mode">
+
+
 
 <!ENTITY addon.createdBy.label                "ಇವರಿಂದ ">
 
@@ -224,10 +224,10 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "What's this? Telemetry may install and run experiments from time to time.">
-<!ENTITY experiment.info.learnmore "Learn More">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Telemetry Settings">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY setting.learnmore "Learn More…">
+
+
+
+
+
+

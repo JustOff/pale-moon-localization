@@ -10,10 +10,10 @@
 <!ENTITY title      "Poveži">
 <!ENTITY header     "Poveži se na udaljeni uređaj">
 <!ENTITY host       "Adresa:">
-<!ENTITY port       "Port:">
+
 <!ENTITY connect    "Poveži">
 <!ENTITY connecting "Povezivanje…">
-<!ENTITY availableAddons "Available remote add-ons:">
+
 <!ENTITY availableTabs "Dostupne udaljene kartice:">
 <!ENTITY availableProcesses "Dostupni udaljeni procesi:">
 <!ENTITY connectionError "Greška:">
@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "The Developer Tools can debug remote devices (Pale Moon for Android, for example). Make sure that you have turned on the 'Remote debugging' option in the remote device. For more, see the ">
-<!ENTITY remoteDocumentation "documentation">
-<!ENTITY remoteHelpSuffix ".">
+
+
+
 

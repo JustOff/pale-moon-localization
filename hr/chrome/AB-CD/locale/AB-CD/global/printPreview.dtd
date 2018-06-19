@@ -7,7 +7,7 @@
 <!ENTITY pageSetup.label      "Postavke stranice...">
 <!ENTITY pageSetup.accesskey  "s">
 <!ENTITY page.label           "Stranica:">
-<!ENTITY page.accesskey       "a">
+
 <!ENTITY of.label             "od">
 <!ENTITY scale.label          "Omjer:">
 <!ENTITY scale.accesskey      "m">
@@ -17,18 +17,18 @@
 <!ENTITY landscape.accesskey  "P">
 <!ENTITY close.label          "Zatvori">
 <!ENTITY close.accesskey      "Z">
-<!ENTITY p30.label            "30&#37;">
-<!ENTITY p40.label            "40&#37;">
-<!ENTITY p50.label            "50&#37;">
-<!ENTITY p60.label            "60&#37;">
-<!ENTITY p70.label            "70&#37;">
-<!ENTITY p80.label            "80&#37;">
-<!ENTITY p90.label            "90&#37;">
-<!ENTITY p100.label           "100&#37;">
-<!ENTITY p125.label           "125&#37;">
-<!ENTITY p150.label           "150&#37;">
-<!ENTITY p175.label           "175&#37;">
-<!ENTITY p200.label           "200&#37;">
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY Custom.label         "Prilagođeno...">
 <!ENTITY ShrinkToFit.label    "Smanji da pristaje stranici">
 <!ENTITY customPrompt.title   "Prilagođen omjer...">

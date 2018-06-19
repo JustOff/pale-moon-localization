@@ -17,7 +17,7 @@
   -  the corresponding box is hovered. -->
 
 <!ENTITY title                  "Conectare">
-<!ENTITY margin.tooltip         "margin">
-<!ENTITY border.tooltip         "border">
+
+
 <!ENTITY padding.tooltip        "umplutură">
 <!ENTITY content.tooltip        "conținut">

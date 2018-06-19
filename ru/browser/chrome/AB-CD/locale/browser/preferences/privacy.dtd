@@ -29,7 +29,7 @@
 <!-- LOCALIZATION NOTE (locbar.pre.accessKey): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
 <!ENTITY  locbar.pre.accessKey          "с">
 <!-- LOCALIZATION NOTE (locbar.post.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.post.label             "">
+
 <!-- LOCALIZATION NOTE (locbar.both.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
 <!ENTITY  locbar.both.label             "из журнала и закладок">
 <!-- LOCALIZATION NOTE (locbar.nothing.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
@@ -62,7 +62,7 @@
 <!ENTITY  historyHeader.remember.label     "будет запоминать историю">
 <!ENTITY  historyHeader.dontremember.label "не будет запоминать историю">
 <!ENTITY  historyHeader.custom.label       "будет использовать ваши настройки хранения истории">
-<!ENTITY  historyHeader.post.label         "">
+
 
 <!ENTITY  rememberDescription.label      "&brandShortName; будет помнить историю посещений, загрузок, поиска, сохранять данные форм и хранить куки, оставленные посещёнными вами веб-сайтами.">
 

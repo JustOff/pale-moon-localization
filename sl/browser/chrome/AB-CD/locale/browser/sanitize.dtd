@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "Vse">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+
 <!ENTITY clearTimeDuration.dateColumn     "Datum obiska">
 <!ENTITY clearTimeDuration.nameColumn     "Ime">
 
@@ -44,8 +44,8 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "R">
 <!ENTITY itemOfflineApps.label             "Podatke pri delu brez povezave">
 <!ENTITY itemOfflineApps.accesskey         "B">
-<!ENTITY itemConnectivityData.label        "Site Connectivity Data">
-<!ENTITY itemConnectivityData.accesskey    "N">
+
+
 <!ENTITY itemActiveLogins.label            "Aktivne prijave">
 <!ENTITY itemActiveLogins.accesskey        "A">
 <!ENTITY itemSitePreferences.label         "Nastavitve strani">

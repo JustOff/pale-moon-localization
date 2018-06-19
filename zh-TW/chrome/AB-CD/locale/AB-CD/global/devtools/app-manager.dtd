@@ -20,7 +20,7 @@
 <!ENTITY device.debugApp "偵錯">
 <!ENTITY device.debugAppTooltip "打開開發人員工具連接到此設備上的應用">
 <!ENTITY device.name "名稱">
-<!ENTITY device.plain "Plain (default)">
+
 <!ENTITY device.privileged "特權">
 <!ENTITY device.certified "認證">
 <!ENTITY device.allow "允許">
@@ -33,7 +33,7 @@
 <!ENTITY device.installedAppsTooltip "查看設備上安裝的應用程式的清單。一些應用程式，如經認證的應用程式，可以排除這種觀點。">
 <!ENTITY device.permissions "許可權">
 <!ENTITY device.permissionsTooltip "查看清單的許可權可以訪問不同類型的應用程式">
-<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+
 <!ENTITY device.browserTabs "瀏覽器分頁">
 <!ENTITY device.browserTabsTooltip "所連接的設備的瀏覽器中查看分頁的清單">
 <!ENTITY device.debugBrowserTab "偵錯">

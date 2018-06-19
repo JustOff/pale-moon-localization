@@ -46,9 +46,9 @@
 <!ENTITY  license.introText               "Uvjeti korištenja ovog programa.">
 <!ENTITY  license.instructionText         "Molim pročitajte sljedeći licenčni sporazum. Za pregled ostatka licence, upotrijebite kliznu traku.">
 <!ENTITY  license.accept                  "Prihvaćam uvjete ovog licenčnog sporazuma">
-<!ENTITY  license.accept.accesskey        "c">
+
 <!ENTITY  license.decline                 "NE prihvaćam uvjete ovog licenčnog sporazuma">
-<!ENTITY  license.decline.accesskey       "T">
+
 
 <!ENTITY  incompatibleList.title          "Nekompatibilni dodaci pronađeni">
 

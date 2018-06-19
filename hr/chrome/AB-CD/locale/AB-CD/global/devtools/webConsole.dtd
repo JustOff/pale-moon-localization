@@ -51,13 +51,13 @@
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
-<!ENTITY btnPageNet.accesskeyMacOSX "t">
-<!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip2 "Log CSS errors and warnings">
-<!ENTITY btnPageCSS.accesskey "C">
-<!ENTITY btnPageJS.label    "JS">
+
+
+
+
+
 <!ENTITY btnPageJS.tooltip  "Zapisuj JavaScript iznimke">
-<!ENTITY btnPageJS.accesskey  "J">
+
 <!ENTITY btnPageSecurity.label "Sigurnost">
 <!ENTITY btnPageSecurity.tooltip "Zapisuj sigurnosne greške i upozorenja">
 <!ENTITY btnPageSecurity.accesskey "s">
@@ -68,32 +68,32 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Zapisivanje">
 <!ENTITY btnPageLogging.tooltip "Zapisuj poruke poslane na window.console objekt">
-<!ENTITY btnPageLogging.accesskey3 "L">
+
 <!ENTITY btnConsoleErrors       "Greške">
 <!ENTITY btnConsoleInfo         "Informacije">
 <!ENTITY btnConsoleWarnings     "Upozorenja">
 <!ENTITY btnConsoleLog          "Zapisnik">
-<!ENTITY btnConsoleXhr          "XHR">
-<!ENTITY btnConsoleReflows      "Reflows">
+
+
 
 <!ENTITY filterOutput.placeholder "Rezultati filtra">
 <!ENTITY btnClear.label        "Očisti">
 <!ENTITY btnClear.tooltip      "Očisti sadržaj Web konzole">
-<!ENTITY btnClear.accesskey    "r">
 
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+ <!-- + is above this key on many keyboards -->
+
+
+
+
+
+
+
 
 <!ENTITY copyURLCmd.label     "Kopiraj lokaciju poveznice">
-<!ENTITY copyURLCmd.accesskey "a">
 
-<!ENTITY closeCmd.key         "W">
-<!ENTITY findCmd.key          "F">
-<!ENTITY clearOutputCtrl.key  "L">
+
+
+
+

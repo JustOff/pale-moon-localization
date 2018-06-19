@@ -14,8 +14,8 @@
 <!ENTITY tabs.context.openMultipleTabs.label          "Åbn valgte faneblade">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "v">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "Bogmærk dette faneblad…">
-<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "B">
+
 <!ENTITY tabs.context.bookmarkMultipleTabs.label      "Bogmærk valgte faneblade…">
-<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "B">
+
 <!ENTITY tabs.context.refreshList.label               "Genopfrisk liste">
 <!ENTITY tabs.context.refreshList.accesskey           "G">

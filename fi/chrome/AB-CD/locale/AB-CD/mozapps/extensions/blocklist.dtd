@@ -4,10 +4,10 @@
 
 <!ENTITY blocklist.title             "Lisäosat voivat aiheuttaa ongelmia">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause issues:">
-<!ENTITY blocklist.softblocked       "It is highly recommended, but not required, that you restart with these add-ons disabled.">
+
+
 <!ENTITY blocklist.hardblocked       "Näiden lisäosien tiedetään usein aiheuttavan vakaus- ja turvallisuusongelmia ja ne on estetty. Ohjelma tulee kuitenkin käynnistää uudelleen, jotta ne voidaan kunnolla poistaa käytöstä.">
-<!ENTITY blocklist.softandhard       "Some listed add-ons have a high risk of causing stability or security problems and have been blocked. For the others it is highly recommended, but not required, that you restart with them disabled.">
+
 <!ENTITY blocklist.moreinfo          "Lisätietoja">
 
 <!ENTITY blocklist.accept.label      "Käynnistä &brandShortName; uudelleen">

@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback.desc        "Ten zestaw znaków jest używany na stronach, które same nie określają zestawu znaków.">
 
 <!ENTITY languages.customize.Fallback.auto        "Domyślnie dla danego regionu">
-<!ENTITY languages.customize.Fallback.utf8        "UTF-8">
+
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arabski">

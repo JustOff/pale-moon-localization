@@ -4,7 +4,7 @@
 <!ENTITY status4evar.progress.widget.title "Đèn Tiến trình">
 <!ENTITY status4evar.throbber.widget.title "Đèn Hoạt động">
 <!ENTITY status4evar.download.widget.title "Trạng thái Tải về">
-<!ENTITY status4evar.options.widget.title "Status Bar Preferences">
+
 <!ENTITY status4evar.options.widget.label "Thanh trạng thái Pale Moon">
-<!ENTITY status4evar.menu.options.label "Status Bar Preferences">
+
 

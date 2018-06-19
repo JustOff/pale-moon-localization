@@ -9,7 +9,7 @@
 
 <!ENTITY            profilename.label      "Profilnavn:">
 
-<!ENTITY            start.label            "Start &brandShortName;">
+
 <!ENTITY            exit.label             "Afslut">
 
 <!ENTITY            availprofiles.label    "Tilgængelige profiler">
@@ -27,5 +27,5 @@
 <!ENTITY            offlineState.label    "Arbejd offline">
 <!ENTITY            offlineState.accesskey "A">
 
-<!ENTITY            useSelected.label       "Use the selected profile without asking at startup">
-<!ENTITY            useSelected.accesskey   "s">
+
+

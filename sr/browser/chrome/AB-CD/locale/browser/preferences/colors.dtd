@@ -6,12 +6,12 @@
 <!ENTITY  window.width                    "50em">
 <!ENTITY  window.macWidth                 "43em">
 
-<!ENTITY  overridePageColors.label        "Override the colors specified by the page with my selections above:">
-<!ENTITY  overridePageColors.accesskey    "O">
 
-<!ENTITY  overridePageColors.always.label "Always">
-<!ENTITY  overridePageColors.auto.label   "Only with High Contrast themes">
-<!ENTITY  overridePageColors.never.label  "Never">
+
+
+
+
+
 
 <!ENTITY  color                           "Текст и позадина">
 <!ENTITY  textColor.label                 "Текст:">

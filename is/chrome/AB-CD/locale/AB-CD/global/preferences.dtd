@@ -4,6 +4,6 @@
 
 <!ENTITY  windowClose.key                         "w">
 <!ENTITY  preferencesDefaultTitleMac.title        "Valkostir">
-<!ENTITY  preferencesDefaultTitleWin.title        "Preferences">
+
 <!ENTITY  preferencesCloseButton.label            "Loka">
 <!ENTITY  preferencesCloseButton.accesskey        "L">

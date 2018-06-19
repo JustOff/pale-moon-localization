@@ -43,8 +43,8 @@
 <!ENTITY setup.tosLink.label        "利用規約">
 <!ENTITY setup.tosAgree2.label      "と">
 <!ENTITY setup.ppLink.label         "プライバシーポリシー">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+
+
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; はプライバシーを大切にします">

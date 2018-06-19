@@ -4,7 +4,7 @@
 <!ENTITY status4evar.progress.widget.title "Merilnik napredka">
 <!ENTITY status4evar.throbber.widget.title "Kazalnik dejavnosti">
 <!ENTITY status4evar.download.widget.title "Status prenosa">
-<!ENTITY status4evar.options.widget.title "Status Bar Preferences">
+
 <!ENTITY status4evar.options.widget.label "Vrstica stanja Pale Moon">
-<!ENTITY status4evar.menu.options.label "Status Bar Preferences">
+
 

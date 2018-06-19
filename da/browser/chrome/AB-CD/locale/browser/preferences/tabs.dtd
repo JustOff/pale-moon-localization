@@ -21,16 +21,16 @@
 <!ENTITY showTabsInTaskbar.accesskey      "W">
 
 <!ENTITY showTabBar.label                   "Vis altid faneblads-menuen">
-<!ENTITY showTabBar.accesskey               "b">
+
 
 <!ENTITY insertRelatedAfterCurrent.label    "Indsætte relaterede faner ved siden af den aktuelle fane">
 <!ENTITY contextLoadInBackground.label      "Når du udføre en indholdsøgning, skift til den nye fane">
 <!ENTITY closeWindowWithLastTab.label       "Luk vinduet, når den sidste fane er lukket">
-<!ENTITY showTabPreviews.label              "Show previews when switching tabs with Ctrl+Tab">
+
 
 <!ENTITY newtabPage.label                   "Når du åbner en ny fane, Vis:">
-<!ENTITY newtabPage.custom.label            "A custom URL">
+
 <!ENTITY newtabPage.blank.label             "Tom side">
 <!ENTITY newtabPage.home.label              "Pale Moon-startsiden">
-<!ENTITY newtabPage.myhome.label            "My home page">
+
 <!ENTITY newtabPage.quickdial.label         "Siden Quickdial">

@@ -4,10 +4,10 @@
 
 <!ENTITY blocklist.title             "ಆಡ್-ಆನ್‌ಗಳು ತೊಂದರೆಯನ್ನು ನೀಡುತ್ತಿರಬಹುದು">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause issues:">
-<!ENTITY blocklist.softblocked       "It is highly recommended, but not required, that you restart with these add-ons disabled.">
+
+
 <!ENTITY blocklist.hardblocked       "ಈ ಆಡ್-ಆನ್‌ಗಳು ಸ್ಥಿರತೆ ಹಾಗು ಸುರಕ್ಷತಾ ತೊಂದರೆಗಳಿಗೆ ಕಾರಣವಾಗುವ ಅಪಾಯವನ್ನು ಹೊಂದಿದೆ ಹಾಗು ಇದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ, ಆದರೆ ಅವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಅಶಕ್ತಗೊಳಿಸಲು ಅವನ್ನು ಮರಳಿ ಆರಂಭಿಸುವ ಅಗತ್ಯವಿರುತ್ತದೆ.">
-<!ENTITY blocklist.softandhard       "Some listed add-ons have a high risk of causing stability or security problems and have been blocked. For the others it is highly recommended, but not required, that you restart with them disabled.">
+
 <!ENTITY blocklist.moreinfo          "ಹೆಚ್ಚಿನ ಮಾಹಿತಿ">
 
 <!ENTITY blocklist.accept.label      "&brandShortName; ಅನ್ನು ಮರಳಿ ಆರಂಭಿಸಿ">

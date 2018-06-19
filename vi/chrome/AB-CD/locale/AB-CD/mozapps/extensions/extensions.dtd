@@ -210,8 +210,8 @@ một số tiện ích tốt nhất và thông dụng nhất để bạn thử."
 <!ENTITY addon.loadingReleaseNotes.label      "Đang mở…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Xin lỗi, nhưng có một lỗi khi đang mở ghi chú phát hành.">
 
-<!ENTITY addon.nativeAddon                    "This add-on directly targets Pale Moon">
-<!ENTITY addon.compatAddon                    "This add-on targets Mozilla Firefox and runs in compatibility mode">
+
+
 
 <!ENTITY addon.createdBy.label                "Bởi ">
 
@@ -227,10 +227,10 @@ một số tiện ích tốt nhất và thông dụng nhất để bạn thử."
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "What's this? Telemetry may install and run experiments from time to time.">
+
 <!ENTITY experiment.info.learnmore "Tìm hiểu Thêm">
 <!ENTITY experiment.info.learnmore.accesskey "T">
-<!ENTITY experiment.info.changetelemetry "Telemetry Settings">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
+
+
 
 <!ENTITY setting.learnmore "Tìm hiểu Thêm…">

@@ -29,7 +29,7 @@
 <!-- LOCALIZATION NOTE (locbar.pre.accessKey): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
 <!ENTITY  locbar.pre.accessKey          "u">
 <!-- LOCALIZATION NOTE (locbar.post.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.post.label             "">
+
 <!-- LOCALIZATION NOTE (locbar.both.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
 <!ENTITY  locbar.both.label             "Histórico e marcadores">
 <!-- LOCALIZATION NOTE (locbar.nothing.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
@@ -62,7 +62,7 @@
 <!ENTITY  historyHeader.remember.label     "Memorizar o histórico">
 <!ENTITY  historyHeader.dontremember.label "Não memorizar o histórico">
 <!ENTITY  historyHeader.custom.label       "Utilizar definições personalizadas">
-<!ENTITY  historyHeader.post.label         "">
+
 
 <!ENTITY  rememberDescription.label      "O &brandShortName; irá memorizar a navegação, descargas, formulários e histórico de pesquisa bem como manter os cookies dos sites que visitar.">
 

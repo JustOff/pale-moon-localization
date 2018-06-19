@@ -67,8 +67,8 @@ can reach it easily. -->
 <!ENTITY goOfflineCmd.label "Bekerja offline">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY restartCmd.label "Restart…">
-<!ENTITY restartCmd.accesskey "R">
+
+
 
 <!ENTITY menubarCmd.label "Halaman Bar">
 <!ENTITY menubarCmd.accesskey "M">
@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 <!ENTITY permissions.label            "Izin">
-<!ENTITY permissions.accesskey        "m">
+
 
 <!ENTITY webDeveloperMenu.label       "Pengembang Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -297,8 +297,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Pilih Semua">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd2.label       "Preferences">
-<!ENTITY preferencesCmd2.accesskey     "P">
+
+
 <!ENTITY preferencesCmdUnix.label       "Preferensi">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
@@ -312,7 +312,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "Sidebar">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "Customize"> 
+ 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY viewTabsOnTop.label            "Tab di atas">
 <!ENTITY viewTabsOnTop.accesskey        "T">
@@ -330,14 +330,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuEdit.label "Sunting">
 <!ENTITY appMenuCustomize.label "Sesuaikan">
-<!ENTITY appMenuToolbarLayout.label "Toolbar Layout">
+
 <!ENTITY appMenuSidebars.label "Sidebar">
 <!ENTITY appMenuFind.label "Temukan…">
 <!ENTITY appMenuUnsorted.label "Bookmark belum tersortir">
 <!ENTITY appMenuWebDeveloper.label "Pengembang Web">
 <!ENTITY appMenuGettingStarted.label "Mulai">
-<!ENTITY appMenuSafeMode.label "Restart in Safe Mode…">
-<!ENTITY appMenuSafeMode.accesskey "R">
+
+
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Cari atau masukkan alamat">
@@ -521,17 +521,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "Saya">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
 
 <!ENTITY fullZoomReduceCmd.label        "Zoom Out">
 <!ENTITY fullZoomReduceCmd.accesskey    "Hai">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
 
 <!ENTITY fullZoomResetCmd.label         "Setel ulang">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+
 
 <!ENTITY fullZoomToggleCmd.label        "Hanya Teks Besar">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
@@ -552,9 +552,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomInButton.tooltip           "Perbesar">
 <!ENTITY zoomControls.label             "Kontrol perbesar/perkecil">
 
-<!ENTITY appMenuRestart.label           "Restart…">
+
 <!ENTITY appMenuRestart.accesskey       "R">
-<!ENTITY appMenuRestartCmd.commandkey   "R">
+
 
 <!ENTITY quitApplicationCmdWin.label       "Keluar"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -580,8 +580,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageReportIcon.tooltip            "Mengubah setelan munculan pemblokiran untuk website ini">
 
 <!ENTITY allowPopups.accesskey "p">
-<!ENTITY editPopupSettingsUnix.label "Edit Pop-up Blocker Preferences">
-<!ENTITY editPopupSettings.label "Edit Pop-up Blocker Preferences">
+
+
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 

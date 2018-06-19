@@ -9,7 +9,7 @@
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY unsupportedPlatform.learnMore                       "Learn More…">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
-<!ENTITY unsupportedPlatform.post                            "">
+
 
 <!ENTITY missingPlugin                                       "Потребан је прикључак за приказ овог садржаја.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
@@ -18,13 +18,13 @@
 <!ENTITY checkForUpdates                                     "Check for updates…">
 <!ENTITY disabledPlugin                                      "Овај прикључак је искључен.">
 <!ENTITY blockedPlugin.label                                 "Овај прикључак је блокиран ради ваше безбедности.">
-<!ENTITY hidePluginBtn.label                                 "Hide plugin">
+
 <!ENTITY managePlugins                                       "Управљање прикључцима…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
-<!ENTITY reloadPlugin.pre                                    "">
+
 <!ENTITY reloadPlugin.middle                                 "Освежи страницу">
 <!ENTITY reloadPlugin.post                                   " да покушате поново.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
@@ -39,4 +39,4 @@
 
 <!ENTITY plugin.file                                         "File">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">
-<!ENTITY plugin.flashProtectedMode.label                     "Enable Adobe Flash protected mode">
+

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  addons.label                  "Add-ons">
+
 
 <!ENTITY  warnAddonInstall.label        "Advar mig når websteder forsøger at installere tilføjelser">
 <!ENTITY  warnAddonInstall.accesskey    "A">
@@ -23,11 +23,11 @@
 <!ENTITY  addonExceptions.label         "Undtagelser…">
 <!ENTITY  addonExceptions.accesskey     "t">
 
-<!ENTITY  addonSecuritylevel            "Add-on security level:">
-<!ENTITY  addonSecurityLevel_Off        "Off: No add-ons will be blocked (dangerous)">
-<!ENTITY  addonSecurityLevel_Low        "Low: Block only add-ons with severe security and stability issues">
-<!ENTITY  addonSecurityLevel_High       "Medium: Block all harmful add-ons (default, recommended)">
-<!ENTITY  addonSecurityLevel_Extreme    "High: Block all add-ons with known issues">
+
+
+
+
+
 
 <!ENTITY  passwords.label               "Adgangskoder">
 
@@ -36,8 +36,8 @@
 <!ENTITY  passwordExceptions.label      "Undtagelser…">
 <!ENTITY  passwordExceptions.accesskey  "U">
 
-<!ENTITY  autofillPasswords.label       "Automatically fill in log-in details">
-<!ENTITY  autofillPasswords.accesskey   "A">
+
+
 
 <!ENTITY  useMasterPassword.label        "Benyt en hovedadgangskode">
 <!ENTITY  useMasterPassword.accesskey    "B">
@@ -47,12 +47,12 @@
 <!ENTITY  savedPasswords.label            "Gemte adgangskoder…">
 <!ENTITY  savedPasswords.accesskey        "G">
 
-<!ENTITY  SecProto.label             "Security Protocols">
-<!ENTITY  enableHSTS.label           "Enable Strict Transport Security (HSTS)">
-<!ENTITY  enableHSTS.accesskey       "S">
-<!ENTITY  enableHPKP.label           "Enable Certificate Key Pinning (HPKP)">
-<!ENTITY  enableHPKP.accesskey       "C">
 
-<!ENTITY  XSSFilt.label              "XSS Filter">
+
+
+
+
+
+
 <!ENTITY  enableXSSFilt.label        "Anvend XSS filter">
-<!ENTITY  enableXSSFilt.accesskey    "f">
+

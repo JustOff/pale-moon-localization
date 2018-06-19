@@ -16,24 +16,24 @@
 
 <!ENTITY  locationBar.label             "Staðsetningarslá">
 
-<!ENTITY  locbar.suggest.label          "When using the location bar, suggest:">
+
 <!ENTITY  locbar.history.label          "Ferill">
-<!ENTITY  locbar.history.accesskey      "H">
+
 <!ENTITY  locbar.bookmarks.label        "Bókamerki">
-<!ENTITY  locbar.bookmarks.accesskey    "k">
-<!ENTITY  locbar.openpage.label         "Open tabs">
-<!ENTITY  locbar.openpage.accesskey     "O">
+
+
+
 
 <!-- LOCALIZATION NOTE (locbar.pre.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+
 <!-- LOCALIZATION NOTE (locbar.pre.accessKey): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.accessKey          "u">
+
 <!-- LOCALIZATION NOTE (locbar.post.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.post.label             "">
+
 <!-- LOCALIZATION NOTE (locbar.both.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.both.label             "History and Bookmarks">
+
 <!-- LOCALIZATION NOTE (locbar.nothing.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.nothing.label          "Nothing">
+
 
 <!ENTITY  acceptCookies.label           "Þiggja smákökur frá vefsvæðum">
 <!ENTITY  acceptCookies.accesskey       "Þ">
@@ -62,7 +62,7 @@
 <!ENTITY  historyHeader.remember.label     "Geyma feril">
 <!ENTITY  historyHeader.dontremember.label "Aldrei geyma feril">
 <!ENTITY  historyHeader.custom.label       "Nota sérsniðnar stillingar fyrir feril">
-<!ENTITY  historyHeader.post.label         "">
+
 
 <!ENTITY  rememberDescription.label      "&brandShortName; mun geyma vöfrun, niðurhal, eyðublöð og leitarferil, og geyma smákökur frá þeim vefsvæðum sem þú heimsækir.">
 

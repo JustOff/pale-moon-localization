@@ -2,28 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
+
 <!ENTITY minimizeWindow.label     "Minimer">
 <!ENTITY bringAllToFront.label    "Bring alt frem">
-<!ENTITY zoomWindow.label         "Zoom">
+
 <!ENTITY windowMenu.label         "Vindue">
 
 <!ENTITY helpMenu.label           "Hjælp"> 
-<!ENTITY helpMenu.accesskey       "H"> 
+ 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Hjælp"> 
-<!ENTITY helpMenuWin.accesskey    "H">
+
 <!ENTITY aboutProduct.label       "Om &brandShortName;">
 <!ENTITY aboutProduct.accesskey   "O">
 <!ENTITY productHelp.label        "Hjælp til &brandShortName;">
-<!ENTITY productHelp.accesskey    "H">
+
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Restart in Safe Mode…">
+
 <!ENTITY helpSafeMode.accesskey   "G">
 
 <!ENTITY helpTroubleshootingInfo.label      "Teknisk information…">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+
 
 <!ENTITY helpFeedbackPage.label      "Indsend feedback…">
 <!ENTITY helpFeedbackPage.accesskey  "I">
@@ -34,9 +34,9 @@
 <!ENTITY servicesMenuMac.label          "Tjenester">
 
 <!ENTITY hideThisAppCmdMac.label        "Skjul &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
 
 <!ENTITY hideOtherAppsCmdMac.label      "Skjul andre">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
 
 <!ENTITY showAllAppsCmdMac.label        "Vis alle">

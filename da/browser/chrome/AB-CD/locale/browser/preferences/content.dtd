@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  blockPopups.label           "Bloker pop op-vinduer">
-<!ENTITY  blockPopups.accesskey       "B">
+
 <!ENTITY  popupExceptions.label       "Undtagelser…">
 <!ENTITY  popupExceptions.accesskey   "U">
 
-<!ENTITY  loadImages.label            "Load images:">
-<!ENTITY  loadImages.always           "Automatically">
-<!ENTITY  loadImages.never            "Never">
-<!ENTITY  loadImages.no3rdparty       "Originating server only">
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Skrifttyper &amp; farver">
 
@@ -30,14 +30,14 @@
 <!ENTITY  chooseButton.label          "Vælg…">
 <!ENTITY  chooseButton.accesskey      "æ">
 
-<!ENTITY  video.label                 "Video">
-<!ENTITY  videoMSE.label              "Enable Media Source Extensions (MSE)">
-<!ENTITY  videoMSE.accesskey          "M">
-<!ENTITY  videoMSENFR.label           "Use MSE asynchronously">
-<!ENTITY  videoMSENFR.accesskey       "U">
-<!ENTITY  videoMSEMP4.label           "Enable MSE for MP4 video">
+
+
+
+
+
+
 <!ENTITY  videoMSEMP4.accesskey       "4">
-<!ENTITY  videoMSEWebM.label          "Enable MSE for WebM video">
-<!ENTITY  videoMSEWebM.accesskey      "W">
+
+
 
 

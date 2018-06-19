@@ -26,11 +26,11 @@
 <!ENTITY insertRelatedAfterCurrent.label    "ಪ್ರಸ್ತುತ ಟ್ಯಾಬ್ ಪಕ್ಕದಲ್ಲಿ ಸಂಬಂಧಿತ ಟ್ಯಾಬ್ಗಳನ್ನು ಸೇರಿಸಿ">
 <!ENTITY contextLoadInBackground.label      "ಒಂದು ಸನ್ನಿವೇಶ ಹುಡುಕಾಟ ನಡೆಸುತ್ತಿರುವಾಗ, ತಕ್ಷಣ ಹೊಸ ಟ್ಯಾಬ್ಗೆ ಬದಲಾಯಿಸಲು">
 <!ENTITY closeWindowWithLastTab.label       "ಕೊನೆಯ ಟ್ಯಾಬ್ ಮುಚ್ಚಿದಾಗ ವಿಂಡೋವನ್ನು ಮುಚ್ಚಿ">
-<!ENTITY showTabPreviews.label              "Show previews when switching tabs with Ctrl+Tab">
+
 
 <!ENTITY newtabPage.label                   "ಹೊಸ ಟ್ಯಾಬ್ ತೆರೆಯುವಾಗ, ಇದನ್ನು ಪ್ರದರ್ಶನ:">
-<!ENTITY newtabPage.custom.label            "A custom URL">
+
 <!ENTITY newtabPage.blank.label             "ಒಂದು ಖಾಲಿ ಪುಟ">
 <!ENTITY newtabPage.home.label              "ಪೇಲ್ ಮೂನ್ ಆರಂಭ ಪುಟ">
-<!ENTITY newtabPage.myhome.label            "My home page">
+
 <!ENTITY newtabPage.quickdial.label         "ತ್ವರಿತ ಡಯಲ್ ಪುಟ">

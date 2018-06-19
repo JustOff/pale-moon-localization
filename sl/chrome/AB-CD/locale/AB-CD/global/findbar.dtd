@@ -12,9 +12,9 @@
 <!ENTITY previous.accesskey "Z">
 <!ENTITY previous.tooltip "Najdi prejšnjo ponovitev iskanega">
 <!ENTITY findCloseButton.tooltip "Zapre vrstico iskanja">
-<!ENTITY highlightAll.label "Highlight All">
-<!ENTITY highlightAll.accesskey "a">
-<!ENTITY highlightAll.tooltiptext "Highlight all occurrences of the phrase">
-<!ENTITY caseSensitive.label "Match Case">
-<!ENTITY caseSensitive.accesskey "c">
-<!ENTITY caseSensitive.tooltiptext "Search with case sensitivity">
+
+
+
+
+
+

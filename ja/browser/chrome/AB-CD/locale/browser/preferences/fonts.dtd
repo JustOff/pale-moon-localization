@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback.desc        "この文字エンコーディングは、文字エンコーディングが宣言されていない古い Web ページで使用されます。">
 
 <!ENTITY languages.customize.Fallback.auto        "現在のロケール既定値">
-<!ENTITY languages.customize.Fallback.utf8        "UTF-8">
+
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "アラビア語">

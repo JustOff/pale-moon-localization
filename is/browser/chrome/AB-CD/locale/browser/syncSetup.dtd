@@ -43,8 +43,8 @@
 <!ENTITY setup.tosLink.label        "Skilmálana">
 <!ENTITY setup.tosAgree2.label      "og">
 <!ENTITY setup.ppLink.label         "Meðferð persónuupplýsinga">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+
+
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; er umhugað um friðhelgi þína">

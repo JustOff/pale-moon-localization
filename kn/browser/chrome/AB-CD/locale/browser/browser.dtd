@@ -67,8 +67,8 @@ can reach it easily. -->
 <!ENTITY goOfflineCmd.label "ಆಫ್‍ಲೈನ್‍ನಲ್ಲಿ ಕೆಲಸ ಮಾಡು">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY restartCmd.label "Restart…">
-<!ENTITY restartCmd.accesskey "R">
+
+
 
 <!ENTITY menubarCmd.label "ಮೆನು ಪಟ್ಟಿಕೆ">
 <!ENTITY menubarCmd.accesskey "M">
@@ -199,8 +199,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "ಆಡ್-ಆನ್‍ಗಳು">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY permissions.label            "Permissions">
-<!ENTITY permissions.accesskey        "m">
+
+
 
 <!ENTITY webDeveloperMenu.label       "ಜಾಲ ವಿಕಸನೆಗಾರ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -297,8 +297,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "ಎಲ್ಲವನ್ನೂ ಆರಿಸು">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "a"> 
-<!ENTITY preferencesCmd2.label       "Preferences">
-<!ENTITY preferencesCmd2.accesskey     "P">
+
+
 <!ENTITY preferencesCmdUnix.label       "ಆದ್ಯತೆಗಳು">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
@@ -312,7 +312,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "ಬದಿಯ ಪಟ್ಟಿ">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "Customize"> 
+ 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY viewTabsOnTop.label            "ಮೇಲಿರುವ ಟ್ಯಾಬ್‌ಗಳು">
 <!ENTITY viewTabsOnTop.accesskey        "T">
@@ -330,13 +330,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuEdit.label "ಸಂಪಾದನೆ">
 <!ENTITY appMenuCustomize.label "ಇಚ್ಛೆಗೆ ಅನುಸಾರವಾಗಿ ಬದಲಾಯಿಸು">
-<!ENTITY appMenuToolbarLayout.label "Toolbar Layout">
+
 <!ENTITY appMenuSidebars.label "ಬದಿಪಟ್ಟಿಕೆಗಳು">
 <!ENTITY appMenuFind.label "ಹುಡುಕು…">
 <!ENTITY appMenuUnsorted.label "ವಿಂಗಡಿಸದೆ ಇರುವ ಪುಟಗುರುತುಗಳು">
 <!ENTITY appMenuWebDeveloper.label "ಜಾಲ ವಿಕಸನಾಗಾರರು">
 <!ENTITY appMenuGettingStarted.label "ಆರಂಭಿಸುವಿಕೆ">
-<!ENTITY appMenuSafeMode.label "Restart in Safe Mode…">
+
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -521,17 +521,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
 
 <!ENTITY fullZoomReduceCmd.label        "ಕಿರಿದಾಗಿಸು">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
 
 <!ENTITY fullZoomResetCmd.label         "ಮರುಹೊಂದಿಸು">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+
 
 <!ENTITY fullZoomToggleCmd.label        "ಪಠ್ಯವನ್ನು ಮಾತ್ರ ಹಿಗ್ಗಿಸು">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
@@ -552,9 +552,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomInButton.tooltip           "ಹಿಗ್ಗಿಸು">
 <!ENTITY zoomControls.label             "ಗಾತ್ರಬದಲಾವಣೆ ನಿಯಂತ್ರಣಗಳು">
 
-<!ENTITY appMenuRestart.label           "Restart…">
-<!ENTITY appMenuRestart.accesskey       "R">
-<!ENTITY appMenuRestartCmd.commandkey   "R">
+
+
+
 
 <!ENTITY quitApplicationCmdWin.label       "ಹೊರನಡೆ"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -580,8 +580,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageReportIcon.tooltip            "ಈ ಜಾಲ ತಾಣಕ್ಕೆ ಪುಟಿಕೆ ನಿರ್ಬಂಧಿಸುವ ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು">
 
 <!ENTITY allowPopups.accesskey "p">
-<!ENTITY editPopupSettingsUnix.label "Edit Pop-up Blocker Preferences">
-<!ENTITY editPopupSettings.label "Edit Pop-up Blocker Preferences">
+
+
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 

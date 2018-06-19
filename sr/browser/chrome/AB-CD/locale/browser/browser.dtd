@@ -67,8 +67,8 @@ can reach it easily. -->
 <!ENTITY goOfflineCmd.label "Рад ван мреже">
 <!ENTITY goOfflineCmd.accesskey "Н">
 
-<!ENTITY restartCmd.label "Restart…">
-<!ENTITY restartCmd.accesskey "R">
+
+
 
 <!ENTITY menubarCmd.label "Трака са менијем">
 <!ENTITY menubarCmd.accesskey "Т">
@@ -79,8 +79,8 @@ can reach it easily. -->
 <!ENTITY bookmarksToolbarItem.label "Забележи ставке из алатне траке">
 <!ENTITY addonBarCmd.label "Трака са додацима">
 <!ENTITY addonBarCmd.accesskey "д">
-<!ENTITY statusBar.label               "Status Bar">
-<!ENTITY statusBar.accesskey           "S">
+
+
 
 <!ENTITY pageSourceCmd.label "Изворни код стране">
 <!ENTITY pageSourceCmd.accesskey "И">
@@ -127,7 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Претплата на ову страну…">
 <!ENTITY addCurPagesCmd.label "Забележи све језичке…">
 <!ENTITY showAllBookmarks2.label "Прикажи све забелешке">
-<!ENTITY organizeBookmarks.label "Organize Bookmarks">
+
 <!ENTITY unsortedBookmarksCmd.label "Неразврстане забелешке">
 <!ENTITY bookmarksToolbarChevron.tooltip "Прикажи још забелешки">
 
@@ -199,8 +199,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Додаци">
 <!ENTITY addons.accesskey             "Д">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY permissions.label            "Permissions">
-<!ENTITY permissions.accesskey        "m">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Веб развијач">
 <!ENTITY webDeveloperMenu.accesskey   "В">
@@ -224,8 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-<!ENTITY eyedropper.label   "Eyedropper">
-<!ENTITY eyedropper.accesskey "Y">
+
+
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -249,12 +249,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "App Manager">
-<!ENTITY devAppMgrMenu.accesskey           "A">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
+
+
+
+
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Toggle Tools">
@@ -297,8 +297,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Изабери све">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd2.label       "Preferences">
-<!ENTITY preferencesCmd2.accesskey     "P">
+
+
 <!ENTITY preferencesCmdUnix.label       "Поставке">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
@@ -312,7 +312,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "А"> 
 <!ENTITY viewSidebarMenu.label "Бочна трака">
 <!ENTITY viewSidebarMenu.accesskey "Б">
-<!ENTITY viewCustomizeToolbar.label       "Customize"> 
+ 
 <!ENTITY viewCustomizeToolbar.accesskey     "П">
 <!ENTITY viewTabsOnTop.label            "Језичци на врху">
 <!ENTITY viewTabsOnTop.accesskey        "Ј">
@@ -330,13 +330,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuEdit.label "Уређивање">
 <!ENTITY appMenuCustomize.label "Прилагоди">
-<!ENTITY appMenuToolbarLayout.label "Toolbar Layout">
+
 <!ENTITY appMenuSidebars.label "Бочне траке">
 <!ENTITY appMenuFind.label "Пронађи…">
 <!ENTITY appMenuUnsorted.label "Неразврстане забелешке">
 <!ENTITY appMenuWebDeveloper.label "Веб програмер">
 <!ENTITY appMenuGettingStarted.label "Како почети">
-<!ENTITY appMenuSafeMode.label "Restart in Safe Mode…">
+
 <!ENTITY appMenuSafeMode.accesskey "н">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -420,10 +420,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Сачувај страну као…">
 <!ENTITY savePageCmd.accesskey        "С">
-<!ENTITY sendLinkCmd.label            "Send Link…">
-<!ENTITY sendLinkCmd.accesskey        "d">
-<!ENTITY sendPageCmd.label            "Send Page Link…">
-<!ENTITY sendPageCmd.accesskey        "e">
+
+
+
+
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -521,17 +521,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "У">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
 
 <!ENTITY fullZoomReduceCmd.label        "Умањи">
 <!ENTITY fullZoomReduceCmd.accesskey    "У">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
 
 <!ENTITY fullZoomResetCmd.label         "Врати">
 <!ENTITY fullZoomResetCmd.accesskey     "П">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+
 
 <!ENTITY fullZoomToggleCmd.label        "Увећај само текст">
 <!ENTITY fullZoomToggleCmd.accesskey    "т">
@@ -552,9 +552,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomInButton.tooltip           "Увећај">
 <!ENTITY zoomControls.label             "Контроле увећања">
 
-<!ENTITY appMenuRestart.label           "Restart…">
-<!ENTITY appMenuRestart.accesskey       "R">
-<!ENTITY appMenuRestartCmd.commandkey   "R">
+
+
+
 
 <!ENTITY quitApplicationCmdWin.label       "Крај"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "К">
@@ -580,8 +580,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageReportIcon.tooltip            "Промена правила за блокаду искачућих прозора за овај сајт">
 
 <!ENTITY allowPopups.accesskey "p">
-<!ENTITY editPopupSettingsUnix.label "Edit Pop-up Blocker Preferences">
-<!ENTITY editPopupSettings.label "Edit Pop-up Blocker Preferences">
+
+
 <!ENTITY editPopupSettings.accesskey "У">
 <!ENTITY dontShowMessage.accesskey "D">
 

@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback.desc        "Эта кодировка используется для старых веб-страниц, которые не указали свою кодировку.">
 
 <!ENTITY languages.customize.Fallback.auto        "По умолчанию для текущего языка">
-<!ENTITY languages.customize.Fallback.utf8        "UTF-8">
+
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Арабская">

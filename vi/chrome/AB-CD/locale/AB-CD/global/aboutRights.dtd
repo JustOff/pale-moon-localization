@@ -17,14 +17,14 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; hiện hữu trước bạn theo điều khoản ">
 <!ENTITY rights.intro-point1b "Giấy Phép Công Cộng Mozilla">
-<!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others in its source form. Binaries are subject to the Pale Moon redistribution license found on the Pale Moon website. You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
 
-<!ENTITY rights.intro-point2-a "You are, however, not granted any rights or licenses to the intellectual property of Moonchild Productions or any other party, including without limitation the Pale Moon name or logo. Additional information on trademarks may be found ">
+
+
 <!ENTITY rights.intro-point2-b "tại đây">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Some features in &brandShortName; may give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.">
+
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Cách chúng tôi dùng thông tin cá nhân của bạn và phản hồi được gửi tới &vendorShortName; thông qua &brandShortName; được mô tả trong ">
@@ -85,4 +85,4 @@
 <!ENTITY rights.webservices-term4 "Dịch Vụ được cung cấp theo &quot;nguyên trạng&quot; &vendorShortName;, những người đóng góp, các bên cung cấp giấy phép và các bên phân phối không chịu trách nhiệm (trực tiếp hay gián tiếp), bảo đảm bất kỳ điều gì, bao gồm cả việc kinh doanh Dịch Vụ hay đảm bảo Dịch Vụ phục vụ mục đích của bạn. Bạn chịu hoàn toàn rủi ro về chất lượng và hiệu năng của Dịch Vụ khi sử dụng Dịch Vụ cho bất kỳ mục đích nào. Trong một vài phạm vi pháp lý, việc miễn trừ  hoặc giới hạn đối với các trách nhiệm gián tiếp là không được phép, vì vậy văn bản từ chối trách nhiệm này có thể không áp dụng đối với bạn.">
 <!ENTITY rights.webservices-term5 "Trừ khi được yêu cầu bởi luật pháp, &vendorShortName;, những người đóng góp, các bên cung cấp giấy phép và phân phối sẽ không có nghĩa vụ đối với bất kì tổn hại gián tiếp, đặc biệt, vô tình, mang tính hậu quả, mang tính trừng phạt hoặc cảnh cáo nào xảy ra bên ngoài hoặc trong bất kì cách thức nào liên quan đến việc sử dụng &brandShortName; và Dịch Vụ. Tổng các nghĩa vụ tập hợp trong các điều khoản này không vượt quá $500 (năm trăm đôla). Một số luật xét xử không cho phép sự miễn trừ hoặc giới hạn đối với những tổn hại nào đó, cho nên sự miễn trừ và giới hạn này có thể không áp dụng đối với bạn.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; đôi khi có thể cập nhật các điều khoản này khi cần thiết. Các điều khoản này không được sửa đổi hoặc hủy bỏ nếu không có thỏa thuận viết tay của &vendorShortName;.">
-<!ENTITY rights.webservices-term7 "These terms are governed by the laws of Sweden, excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">
+

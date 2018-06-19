@@ -5,7 +5,7 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; Sigurni način rada">
 <!ENTITY window.width                 "38em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
+
 <!ENTITY safeModeDescription2.label   "Možete napraviti neke ili sve ove promjene trajno:">
 
 <!ENTITY disableAddons.label          "Onemogućite sve dodatke">
@@ -17,7 +17,7 @@
 <!ENTITY deleteBookmarks.label        "Brisanje svih zabilješki osim sigurnosne kopije">
 <!ENTITY deleteBookmarks.accesskey    "b">
 
-<!ENTITY resetUserPrefs.label         "Reset all user preferences to &brandShortName; defaults">
+
 <!ENTITY resetUserPrefs.accesskey     "p">
 
 <!ENTITY restoreSearch.label          "Vrati zadane tražilice">

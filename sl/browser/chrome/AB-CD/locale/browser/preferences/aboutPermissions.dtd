@@ -11,15 +11,15 @@
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
 <!ENTITY header.site.start               "Dovoljenja za">
-<!ENTITY header.site.end                 "">
+
 
 <!ENTITY header.defaults                 "Privzeta dovoljenja za vse strani">
 
-<!ENTITY permissions.sitesReload         "Reload list of sites">
+
 
 <!ENTITY permissions.forgetSite          "Pozabi na to stran">
 
-<!ENTITY permission.default              "Use Default">
+
 
 <!ENTITY permission.alwaysAsk            "Vedno vprašaj">
 <!ENTITY permission.allow                "Dovoli">

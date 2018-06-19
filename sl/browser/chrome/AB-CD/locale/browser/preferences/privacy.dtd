@@ -25,15 +25,15 @@
 <!ENTITY  locbar.openpage.accesskey     "O">
 
 <!-- LOCALIZATION NOTE (locbar.pre.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+
 <!-- LOCALIZATION NOTE (locbar.pre.accessKey): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.accessKey          "u">
+
 <!-- LOCALIZATION NOTE (locbar.post.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.post.label             "">
+
 <!-- LOCALIZATION NOTE (locbar.both.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.both.label             "History and Bookmarks">
+
 <!-- LOCALIZATION NOTE (locbar.nothing.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.nothing.label          "Nothing">
+
 
 <!ENTITY  acceptCookies.label           "Dovoli stranem, da ustvarijo piškote.">
 <!ENTITY  acceptCookies.accesskey       "v">
@@ -62,7 +62,7 @@
 <!ENTITY  historyHeader.remember.label     "Shranjuje zgodovino">
 <!ENTITY  historyHeader.dontremember.label "Ne shranjuje zgodovine">
 <!ENTITY  historyHeader.custom.label       "Uporablja posebne nastavitve za zgodovino">
-<!ENTITY  historyHeader.post.label         "">
+
 
 <!ENTITY  rememberDescription.label      "&brandShortName; si bo zapomnil zgodovino brskanja, prenosov, obrazcev in iskanja ter shranil piškote spletnih strani, ki jih obiščete.">
 

@@ -17,7 +17,7 @@
 <!ENTITY            newButton.label        "Stvori profil...">
 <!ENTITY            newButton.accesskey    "p">
 <!ENTITY            renameButton.label     "Preimenuj profil...">
-<!ENTITY            renameButton.accesskey "R">
+
 <!ENTITY            deleteButton.label     "Izbriši profil...">
 <!ENTITY            deleteButton.accesskey "p">
 
@@ -27,5 +27,5 @@
 <!ENTITY            offlineState.label    "Izvanmrežni rad">
 <!ENTITY            offlineState.accesskey "I">
 
-<!ENTITY            useSelected.label       "Use the selected profile without asking at startup">
-<!ENTITY            useSelected.accesskey   "s">
+
+

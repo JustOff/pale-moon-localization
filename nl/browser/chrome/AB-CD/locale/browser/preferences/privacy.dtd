@@ -25,15 +25,15 @@
 <!ENTITY  locbar.openpage.accesskey     "O">
 
 <!-- LOCALIZATION NOTE (locbar.pre.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+
 <!-- LOCALIZATION NOTE (locbar.pre.accessKey): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.accessKey          "u">
+
 <!-- LOCALIZATION NOTE (locbar.post.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.post.label             "">
+
 <!-- LOCALIZATION NOTE (locbar.both.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.both.label             "History and Bookmarks">
+
 <!-- LOCALIZATION NOTE (locbar.nothing.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.nothing.label          "Nothing">
+
 
 <!ENTITY  acceptCookies.label           "Cookies van websites accepteren">
 <!ENTITY  acceptCookies.accesskey       "C">
@@ -62,7 +62,7 @@
 <!ENTITY  historyHeader.remember.label     "Geschiedenis onthouden">
 <!ENTITY  historyHeader.dontremember.label "Nooit geschiedenis onthouden">
 <!ENTITY  historyHeader.custom.label       "Aangepaste instellingen gebruiken voor geschiedenis">
-<!ENTITY  historyHeader.post.label         "">
+
 
 <!ENTITY  rememberDescription.label      "&brandShortName; zal uw navigatie-, download-, formulier- en zoekgeschiedenis onthouden en cookies van websites die u bezoekt bewaren.">
 

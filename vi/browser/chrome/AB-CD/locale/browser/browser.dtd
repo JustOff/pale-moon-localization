@@ -67,8 +67,8 @@ can reach it easily. -->
 <!ENTITY goOfflineCmd.label "Duyệt web Ngoại tuyến">
 <!ENTITY goOfflineCmd.accesskey "w">
 
-<!ENTITY restartCmd.label "Restart…">
-<!ENTITY restartCmd.accesskey "R">
+
+
 
 <!ENTITY menubarCmd.label "Thanh Trình Đơn">
 <!ENTITY menubarCmd.accesskey "a">
@@ -79,8 +79,8 @@ can reach it easily. -->
 <!ENTITY bookmarksToolbarItem.label "Các mục của Thanh Đánh Dấu">
 <!ENTITY addonBarCmd.label "Thanh Tiện Ích">
 <!ENTITY addonBarCmd.accesskey "a">
-<!ENTITY statusBar.label               "Status Bar">
-<!ENTITY statusBar.accesskey           "S">
+
+
 
 <!ENTITY pageSourceCmd.label "Mã nguồn của Trang">
 <!ENTITY pageSourceCmd.accesskey "M">
@@ -127,7 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Đăng kí nhận tin từ Trang Này…">
 <!ENTITY addCurPagesCmd.label "Đánh dấu Tất cả Các thẻ…">
 <!ENTITY showAllBookmarks2.label "Hiển thị Tất cả Dấu trang">
-<!ENTITY organizeBookmarks.label "Organize Bookmarks">
+
 <!ENTITY unsortedBookmarksCmd.label "Dấu trang Chưa Sắp xếp">
 <!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các dấu trang">
 
@@ -199,8 +199,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Tiện ích">
 <!ENTITY addons.accesskey             "T">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY permissions.label            "Permissions">
-<!ENTITY permissions.accesskey        "m">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Nhà phát triển Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -224,8 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-<!ENTITY eyedropper.label   "Eyedropper">
-<!ENTITY eyedropper.accesskey "Y">
+
+
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -249,12 +249,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Đóng thanh Phát triển">
 <!ENTITY devToolbarMenu.label              "Thanh công cụ Phát triển">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "App Manager">
-<!ENTITY devAppMgrMenu.accesskey           "A">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
+
+
+
+
+
+
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Bật tắt công cụ (T)">
@@ -297,8 +297,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Chọn Toàn Bộ">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "B"> 
-<!ENTITY preferencesCmd2.label       "Preferences">
-<!ENTITY preferencesCmd2.accesskey     "P">
+
+
 <!ENTITY preferencesCmdUnix.label       "Tùy chỉnh">
 <!ENTITY preferencesCmdUnix.accesskey     "y"> 
 
@@ -312,7 +312,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "C"> 
 <!ENTITY viewSidebarMenu.label "Thanh Lề">
 <!ENTITY viewSidebarMenu.accesskey "L">
-<!ENTITY viewCustomizeToolbar.label       "Customize"> 
+ 
 <!ENTITY viewCustomizeToolbar.accesskey     "b">
 <!ENTITY viewTabsOnTop.label            "Thẻ nằm Trên cùng">
 <!ENTITY viewTabsOnTop.accesskey        "r">
@@ -330,13 +330,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuEdit.label "Chỉnh sửa">
 <!ENTITY appMenuCustomize.label "Tùy biến">
-<!ENTITY appMenuToolbarLayout.label "Toolbar Layout">
+
 <!ENTITY appMenuSidebars.label "Thanh lề">
 <!ENTITY appMenuFind.label "Tìm…">
 <!ENTITY appMenuUnsorted.label "Dấu trang Chưa Sắp xếp">
 <!ENTITY appMenuWebDeveloper.label "Nhà phát triển Web">
 <!ENTITY appMenuGettingStarted.label "Bắt đầu">
-<!ENTITY appMenuSafeMode.label "Restart in Safe Mode…">
+
 <!ENTITY appMenuSafeMode.accesskey "v">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -420,10 +420,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Lưu Trang dưới dạng…">
 <!ENTITY savePageCmd.accesskey        "r">
-<!ENTITY sendLinkCmd.label            "Send Link…">
-<!ENTITY sendLinkCmd.accesskey        "d">
-<!ENTITY sendPageCmd.label            "Send Page Link…">
-<!ENTITY sendPageCmd.accesskey        "e">
+
+
+
+
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "r">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -521,17 +521,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "P">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
 
 <!ENTITY fullZoomReduceCmd.label        "Thu nhỏ">
 <!ENTITY fullZoomReduceCmd.accesskey    "T">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
 
 <!ENTITY fullZoomResetCmd.label         "Mặc định">
 <!ENTITY fullZoomResetCmd.accesskey     "M">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+
 
 <!ENTITY fullZoomToggleCmd.label        "Chỉ thu phóng Văn bản">
 <!ENTITY fullZoomToggleCmd.accesskey    "V">
@@ -552,9 +552,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomInButton.tooltip           "Phóng to">
 <!ENTITY zoomControls.label             "Điều khiển Thu phóng">
 
-<!ENTITY appMenuRestart.label           "Restart…">
-<!ENTITY appMenuRestart.accesskey       "R">
-<!ENTITY appMenuRestartCmd.commandkey   "R">
+
+
+
 
 <!ENTITY quitApplicationCmdWin.label       "Thoát"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "o">
@@ -580,8 +580,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageReportIcon.tooltip            "Thay đổi thiết lập chặn popup cho trang này">
 
 <!ENTITY allowPopups.accesskey "p">
-<!ENTITY editPopupSettingsUnix.label "Edit Pop-up Blocker Preferences">
-<!ENTITY editPopupSettings.label "Edit Pop-up Blocker Preferences">
+
+
 <!ENTITY editPopupSettings.accesskey "C">
 <!ENTITY dontShowMessage.accesskey "K">
 

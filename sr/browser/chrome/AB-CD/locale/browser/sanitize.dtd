@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "Све">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+
 <!ENTITY clearTimeDuration.dateColumn     "Датум посете">
 <!ENTITY clearTimeDuration.nameColumn     "Назив">
 
@@ -44,8 +44,8 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "ш">
 <!ENTITY itemOfflineApps.label             "Примљене податке са сајтова">
 <!ENTITY itemOfflineApps.accesskey         "П">
-<!ENTITY itemConnectivityData.label        "Site Connectivity Data">
-<!ENTITY itemConnectivityData.accesskey    "N">
+
+
 <!ENTITY itemActiveLogins.label            "Активне пријаве">
 <!ENTITY itemActiveLogins.accesskey        "А">
 <!ENTITY itemSitePreferences.label         "Поставке за веб сајт">

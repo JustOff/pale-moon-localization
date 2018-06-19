@@ -5,7 +5,7 @@
 <!-- extracted from institems.xul -->
 
 <!ENTITY dialog.title            "Потврда поставке за колачић">
-<!ENTITY dialog.style            "width: 45em">
+
 <!ENTITY warningPrimary.label    "Install add-ons only from authors whom you trust.">
 <!ENTITY warningSecondary.label  "Malicious software can damage your computer or violate your privacy.">
 

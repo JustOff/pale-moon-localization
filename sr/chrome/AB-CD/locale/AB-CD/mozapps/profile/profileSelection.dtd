@@ -27,5 +27,5 @@
 <!ENTITY            offlineState.label    "Ради ван мреже">
 <!ENTITY            offlineState.accesskey "Р">
 
-<!ENTITY            useSelected.label       "Use the selected profile without asking at startup">
-<!ENTITY            useSelected.accesskey   "s">
+
+

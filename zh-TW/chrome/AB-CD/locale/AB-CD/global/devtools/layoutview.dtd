@@ -17,7 +17,7 @@
   -  the corresponding box is hovered. -->
 
 <!ENTITY title                  "盒狀模型">
-<!ENTITY margin.tooltip         "margin">
+
 <!ENTITY border.tooltip         "邊框">
 <!ENTITY padding.tooltip        "內距">
 <!ENTITY content.tooltip        "內容">

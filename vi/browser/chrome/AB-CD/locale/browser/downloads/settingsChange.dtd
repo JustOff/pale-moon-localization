@@ -4,4 +4,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  settingsChangePreferences.label  "Thiết lập có thể thay đổi bằng thẻ Chương trình trong Tùy chỉnh của &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "Settings can be changed using the Applications tab in &brandShortName;'s Preferences.">
+

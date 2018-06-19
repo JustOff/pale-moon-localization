@@ -98,10 +98,10 @@
 
 <!ENTITY offlineNotify.label             "Spune-mi când un sait cere să stocheze date pentru uz offline">
 <!ENTITY offlineNotify.accesskey         "t">
-<!ENTITY offlineAppsPermissions.label    "When a website asks to store data for offline use:">
-<!ENTITY offlineAppsPermissions.Allow    "Allow by default">
-<!ENTITY offlineAppsPermissions.Ask      "Always ask">
-<!ENTITY offlineAppsPermissions.Deny     "Deny">
+
+
+
+
 <!ENTITY offlineNotifyExceptions.label   "Excepții...">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 

@@ -11,15 +11,15 @@
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
 <!ENTITY header.site.start               "Дозволе за">
-<!ENTITY header.site.end                 "">
+
 
 <!ENTITY header.defaults                 "Подразумеване дозволе за све сајтове">
 
-<!ENTITY permissions.sitesReload         "Reload list of sites">
+
 
 <!ENTITY permissions.forgetSite          "Занемари овај сајт">
 
-<!ENTITY permission.default              "Use Default">
+
 
 <!ENTITY permission.alwaysAsk            "Увек питај">
 <!ENTITY permission.allow                "Дозволи">
@@ -30,16 +30,16 @@
 <!ENTITY password.label                  "Чувај лозинке">
 <!ENTITY password.manage                 "Управљање лозинкама…">
 
-<!ENTITY image.label                     "Load Images">
+
 
 <!ENTITY cookie.label                    "Постави колачиће">
 <!ENTITY cookie.remove                   "Уклони колачиће">
 <!ENTITY cookie.manage                   "Управљање колачићима…">
 <!ENTITY cookie.removeAll                "Уклони све колачиће">
 
-<!ENTITY desktop-notification.label      "Show Notifications">
 
-<!ENTITY install.label                   "Install Extensions or Themes">
+
+
 
 <!ENTITY geo.label                       "Објави локацију">
 
@@ -53,4 +53,4 @@
 
 <!ENTITY fullscreen.label                "Fullscreen">
 
-<!ENTITY pointerLock.label               "Hide the Mouse Pointer">
+

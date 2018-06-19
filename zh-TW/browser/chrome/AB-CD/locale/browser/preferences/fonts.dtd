@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback.desc        "此字元編碼將套用於未宣告自己為哪種編碼的老舊內容。">
 
 <!ENTITY languages.customize.Fallback.auto        "目前語系的預設值">
-<!ENTITY languages.customize.Fallback.utf8        "UTF-8">
+
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "阿拉伯語">

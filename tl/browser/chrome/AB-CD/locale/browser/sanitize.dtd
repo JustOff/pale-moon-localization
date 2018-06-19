@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "Lahat">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+
 <!ENTITY clearTimeDuration.dateColumn     "Petsa ng Pagbisita">
 <!ENTITY clearTimeDuration.nameColumn     "Pangalan">
 

@@ -56,7 +56,7 @@
 <!ENTITY rights3.webservices-c ". Andre funktioner og tjenester kan deaktiveres i indstillingerne.">
 
 <!-- safe browsing points for branded builds -->
-<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+
 <!ENTITY rights.safebrowsing-b "Deaktivering af Safe Browsing funktionen er ikke anbefalet da det kan resultere i at du besøger usikre websteder. Hvis du ønsker at deaktivere denne funktion fuldstændigt, kan dette gøres ved følgene trin:">
 <!ENTITY rights.safebrowsing-term1 "Åbn programmets indstillinger/præferencer">
 <!ENTITY rights.safebrowsing-term2 "Vælg gruppen Sikkerhed">

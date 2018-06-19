@@ -9,19 +9,19 @@
 <!ENTITY safeModeDescription2.label   "Du kan gøre alle eller nogle af disse ændringer permanente:">
 
 <!ENTITY disableAddons.label          "Deaktiver alle tilføjelser">
-<!ENTITY disableAddons.accesskey      "D">
 
-<!ENTITY resetToolbars.label          "Reset toolbars and controls">
-<!ENTITY resetToolbars.accesskey      "R">
+
+
+
 
 <!ENTITY deleteBookmarks.label        "Slet alle bogmærker bortset fra sikkerhedskopier">
-<!ENTITY deleteBookmarks.accesskey    "b">
+
 
 <!ENTITY resetUserPrefs.label         "Nulstille alle brugerindstillinger til &brandShortName; standard">
-<!ENTITY resetUserPrefs.accesskey     "p">
+
 
 <!ENTITY restoreSearch.label          "Gendan standard søgemaskine">
-<!ENTITY restoreSearch.accesskey      "s">
+
 
 <!ENTITY changeAndRestartButton.label "Foretage ændringer og genstart">
 <!ENTITY continueButton.label         "Fortsæt i fejlsikret tilstand">

@@ -18,7 +18,7 @@
 <!ENTITY browsing.label                  "Browsing">
 
 <!ENTITY useAutoScroll.label             "Anvend auto-rulning">
-<!ENTITY useAutoScroll.accesskey         "a">
+
 <!ENTITY useSmoothScrolling.label        "Anvend blød rulning">
 <!ENTITY useSmoothScrolling.accesskey    "b">
 <!ENTITY allowHWAccel.label              "Brug hardwareacceleration hvor muligt">
@@ -30,7 +30,7 @@
 <!ENTITY alwaysCheckDefault.label        "Undersøg altid om &brandShortName; er standardbrowseren når den startes"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "U">
 <!ENTITY setDefault.label                "Gør &brandShortName; til din standardbrowser">
-<!ENTITY setDefault.accesskey            "d">
+
 <!ENTITY isDefault.label                 "&brandShortName; er sat som din standardbrowser">
 
 <!ENTITY dataChoicesTab.label            "Datadeling">
@@ -76,13 +76,13 @@
      so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
      in preferences.properties -->
 <!ENTITY updateAuto1.label               "Installer opdateringer automatisk (anbefalet, forbedrer sikkerheden)">
-<!ENTITY updateAuto1.accesskey           "A">
+
 <!ENTITY updateAutoMetro.label           "Opdater automatisk (både som almindeligt program og som Windows 8-app)">
-<!ENTITY updateAutoMetro.accesskey       "s">
+
 <!ENTITY updateCheck.label               "Søg efter opdateringer, men lad mig vælge om de skal installeres">
 <!ENTITY updateCheck.accesskey           "S">
 <!ENTITY updateManual.label              "Søg aldrig efter opdateringer (frarådes, sikkerhedsrisiko)">
-<!ENTITY updateManual.accesskey          "N">
+
 
 <!ENTITY updateAutoAddonWarn.label       "Advar mig, hvis dette vil deaktivere nogle af mine tilføjelser">
 <!ENTITY updateAutoAddonWarn.accesskey   "t">
@@ -115,14 +115,14 @@
 <!ENTITY certGroup.label                 "Personligt certifikat">
 <!ENTITY certSelection.description       "Når en server spørger efter mit personlige certifikat:">
 <!ENTITY certs.auto                      "Vælg et automatisk">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "Spørg mig hver gang">
 <!ENTITY certs.ask.accesskey             "p">
 <!ENTITY ocspGroup.label                 "Certifikat validering">
 <!ENTITY enableOCSP.label                "Brug Online Certificate Status Protocol (OCSP) til at bekræfte gyldigheden af certifikater">
 <!ENTITY enableOCSP.accesskey            "B">
 <!ENTITY requireOCSP.label               "Betragt certifikatet som ugyldigt hvis OCSP-serverforbindelsen fejler">
-<!ENTITY requireOCSP.accesskey           "f">
+
 <!ENTITY viewCerts.label                 "Vis certifikater">
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Sikkerhedsmoduler">

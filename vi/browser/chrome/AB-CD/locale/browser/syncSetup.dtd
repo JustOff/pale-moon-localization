@@ -43,8 +43,8 @@
 <!ENTITY setup.tosLink.label        "Điều khoản Dịch vụ">
 <!ENTITY setup.tosAgree2.label      "và">
 <!ENTITY setup.ppLink.label         "Chính sách Riêng tư">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+
+
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; quan tâm đến sự riêng tư của bạn">

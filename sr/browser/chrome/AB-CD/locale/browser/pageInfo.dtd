@@ -56,7 +56,7 @@
 <!ENTITY  permAskAlways              "Увек питај">
 <!ENTITY  permAllow                  "Дозволи">
 <!ENTITY  permAllowSession           "Дозволи за ову сесију">
-<!ENTITY  permAllowFirstPartyOnly    "Allow First Party Only">
+
 <!ENTITY  permBlock                  "Блокирај">
 <!ENTITY  permissionsFor             "Дозволе за:">
 <!ENTITY  permImage                  "Учитавај слике">

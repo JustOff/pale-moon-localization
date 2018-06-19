@@ -11,15 +11,15 @@
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
 <!ENTITY header.site.start               "ಇದಕ್ಕಾಗಿನ ಅನುಮತಿಗಳು">
-<!ENTITY header.site.end                 "">
+
 
 <!ENTITY header.defaults                 "ಎಲ್ಲಾ ತಾಣಗಳಿಗಾಗಿನ ಪೂರ್ವನಿಯೋಜಿತ ಅನುಮತಿಗಳು">
 
-<!ENTITY permissions.sitesReload         "Reload list of sites">
+
 
 <!ENTITY permissions.forgetSite          "ಈ ತಾಣವನ್ನು ಮರೆತುಬಿಡು">
 
-<!ENTITY permission.default              "Use Default">
+
 
 <!ENTITY permission.alwaysAsk            "ಯಾವಾಗಲೂ ಕೇಳು">
 <!ENTITY permission.allow                "ಅನುಮತಿಸು">
@@ -30,16 +30,16 @@
 <!ENTITY password.label                  "ಗುಪ್ತಪದಗಳನ್ನು ಶೇಖರಿಸಿಡು">
 <!ENTITY password.manage                 "ಗುಪ್ತಪದಗಳನ್ನು ವ್ಯವಸ್ಥಾಪಿಸು…">
 
-<!ENTITY image.label                     "Load Images">
+
 
 <!ENTITY cookie.label                    "ಕುಕಿಗಳನ್ನು ಹೊಂದಿಸು">
 <!ENTITY cookie.remove                   "ಕುಕಿಗಳನ್ನು ತೆಗೆದುಹಾಕು">
 <!ENTITY cookie.manage                   "ಕುಕಿಗಳನ್ನು ವ್ಯವಸ್ಥಾಪಿಸು…">
 <!ENTITY cookie.removeAll                "ಎಲ್ಲಾ ಕುಕಿಗಳನ್ನು ತೆಗೆದುಹಾಕು">
 
-<!ENTITY desktop-notification.label      "Show Notifications">
 
-<!ENTITY install.label                   "Install Extensions or Themes">
+
+
 
 <!ENTITY geo.label                       "ತಾಣವನ್ನು ಹಂಚಿಕೊ">
 
@@ -53,4 +53,4 @@
 
 <!ENTITY fullscreen.label                "ಪೂರ್ಣತೆರೆ">
 
-<!ENTITY pointerLock.label               "Hide the Mouse Pointer">
+

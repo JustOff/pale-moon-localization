@@ -23,55 +23,55 @@
 <!ENTITY window.title                 "Kladdeblok">
 
 <!ENTITY fileMenu.label               "Filer">
-<!ENTITY fileMenu.accesskey           "F">
+
 
 <!ENTITY newWindowCmd.label           "Nyt vindue">
-<!ENTITY newWindowCmd.accesskey       "N">
-<!ENTITY newWindowCmd.commandkey      "n">
+
+
 
 <!ENTITY openFileCmd.label            "Åbn fil…">
 <!ENTITY openFileCmd.accesskey        "b">
-<!ENTITY openFileCmd.commandkey       "o">
+
 
 <!ENTITY openRecentMenu.label         "Åbn seneste">
 <!ENTITY openRecentMenu.accesskey     "b">
 
 <!ENTITY revertCmd.label              "Fortryd ændringer…">
-<!ENTITY revertCmd.accesskey          "t">
+
 
 <!ENTITY saveFileCmd.label            "Gem">
 <!ENTITY saveFileCmd.accesskey        "G">
-<!ENTITY saveFileCmd.commandkey       "s">
+
 
 <!ENTITY saveFileAsCmd.label          "Gem som…">
 <!ENTITY saveFileAsCmd.accesskey      "s">
 
 <!ENTITY closeCmd.label               "Luk">
-<!ENTITY closeCmd.key                 "W">
+
 <!ENTITY closeCmd.accesskey           "L">
 
-<!ENTITY viewMenu.label               "View">
-<!ENTITY viewMenu.accesskey           "V">
 
-<!ENTITY lineNumbers.label             "Show Line Numbers">
-<!ENTITY lineNumbers.accesskey         "L">
 
-<!ENTITY wordWrap.label                "Wrap Text">
-<!ENTITY wordWrap.accesskey            "W">
 
-<!ENTITY highlightTrailingSpace.label     "Highlight Trailing Space">
-<!ENTITY highlightTrailingSpace.accesskey "H">
 
-<!ENTITY largerFont.label             "Larger Font">
-<!ENTITY largerFont.accesskey         "a">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY largerFont.commandkey        "+">
 
-<!ENTITY smallerFont.label            "Smaller Font">
-<!ENTITY smallerFont.accesskey        "M">
+
+
 <!ENTITY smallerFont.commandkey       "-">
 
-<!ENTITY normalSize.label             "Normal Size">
-<!ENTITY normalSize.accesskey         "N">
+
+
 <!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "Rediger">
@@ -79,19 +79,19 @@
 
 <!ENTITY run.label                    "Kør">
 <!ENTITY run.accesskey                "ø">
-<!ENTITY run.key                      "r">
+
 
 <!ENTITY inspect.label                "Inspicer">
-<!ENTITY inspect.accesskey            "I">
-<!ENTITY inspect.key                  "i">
+
+
 
 <!ENTITY display.label                "Vis">
 <!ENTITY display.accesskey            "V">
-<!ENTITY display.key                  "l">
 
-<!ENTITY pprint.label                 "Pretty Print">
-<!ENTITY pprint.key                   "p">
-<!ENTITY pprint.accesskey             "P">
+
+
+
+
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -112,19 +112,19 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "Browser">
-<!ENTITY browserContext.accesskey     "B">
+
+
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
 <!ENTITY helpMenu.label               "Hjælp">
-<!ENTITY helpMenu.accesskey           "H">
+
 <!ENTITY helpMenuWin.label            "Hjælp">
-<!ENTITY helpMenuWin.accesskey        "H">
+
 
 <!ENTITY documentationLink.label      "Hjælp til Scratchpad på MDN">
-<!ENTITY documentationLink.accesskey  "D">
+
 
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
@@ -135,7 +135,7 @@
 
 <!ENTITY reloadAndRun.label           "Genindlæs og kør">
 <!ENTITY reloadAndRun.accesskey       "G">
-<!ENTITY reloadAndRun.key             "r">
+
 
 <!ENTITY executeMenu.label            "Eksekver">
 <!ENTITY executeMenu.accesskey        "E">
@@ -149,6 +149,6 @@
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
-<!ENTITY evalFunction.label "Evaluate Current Function">
-<!ENTITY evalFunction.accesskey "v">
-<!ENTITY evalFunction.key "e">
+
+
+

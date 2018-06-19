@@ -17,7 +17,7 @@
   -  the corresponding box is hovered. -->
 
 <!ENTITY title                  "Opret forbindelse">
-<!ENTITY margin.tooltip         "margin">
-<!ENTITY border.tooltip         "border">
-<!ENTITY padding.tooltip        "padding">
+
+
+
 <!ENTITY content.tooltip        "indhold">

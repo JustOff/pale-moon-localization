@@ -65,4 +65,4 @@
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "被保護的 Token 鑑別">
 <!ENTITY protectedAuth.msg "請鑑別此 Token，鑑別方法會隨 Token 類型而不同。">
-<!ENTITY protectedAuth.tokenName.label "Token:">
+

@@ -33,8 +33,8 @@
 <!ENTITY  video.label                 "Video">
 <!ENTITY  videoMSE.label              "Kích hoạt các Phần mở rộng Nguồn Phương tiện (MSE)">
 <!ENTITY  videoMSE.accesskey          "m">
-<!ENTITY  videoMSENFR.label           "Use MSE asynchronously">
-<!ENTITY  videoMSENFR.accesskey       "U">
+
+
 <!ENTITY  videoMSEMP4.label           "Kích hoạt MSE cho video MP4">
 <!ENTITY  videoMSEMP4.accesskey       "4">
 <!ENTITY  videoMSEWebM.label          "Kích hoạt MSE cho video WebM">

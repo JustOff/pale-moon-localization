@@ -11,7 +11,7 @@
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
 <!ENTITY header.site.start               "Mga Pahintulot para sa">
-<!ENTITY header.site.end                 "">
+
 
 <!ENTITY header.defaults                 "Paunang-tukoy na mga Pahintulot para sa Lahat ng mga Site">
 

@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY newWindowsAsTabs.label       "Malfermi novajn fenestrojn en nova langeto anstataŭ">
+
+
+<!ENTITY warnCloseMultipleTabs.label  "Averti min kiam fermi multajn langetojn">
+
+
+<!ENTITY warnOpenManyTabs.label       "Averti min kiam malfermi multajn langetojn povas malakceli &brandShortName;">
+
+
+<!ENTITY restoreTabsOnDemand.label        "Nur ŝarĝi langetojn kiam elektitaj">
+
+
+<!ENTITY switchToNewTabs.label        "Kiam mi malfermas ligilon en nova langeto, montri ĝin senprokraste">
+
+
+<!ENTITY showTabsInTaskbar.label          "Montri langetajn antaŭrigardojn en la Vindoza taskopleto">
+
+
+<!ENTITY showTabBar.label                   "Ĉiam montri la langetobreton">
+
+
+<!ENTITY insertRelatedAfterCurrent.label    "Enmeti rilatitajn langetojn proksima al la nuntempa langeto">
+<!ENTITY contextLoadInBackground.label      "Kiam efektivigante kuntekstan serĉon, ŝalti al la nova langeto senprokraste">
+<!ENTITY closeWindowWithLastTab.label       "Fermi la fenestron kiam la lasta langeto estas fermita">
+
+
+<!ENTITY newtabPage.label                   "Kiam malfermante novan langeton, montru:">
+
+<!ENTITY newtabPage.blank.label             "Malplena paĝo">
+<!ENTITY newtabPage.home.label              "La ĉefpaĝo de Pale Moon">
+
+<!ENTITY newtabPage.quickdial.label         "La Quickdial-a paĝo">

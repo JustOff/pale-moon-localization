@@ -94,7 +94,7 @@
 <!ENTITY corruptedContentError.title "Galat Konten yang Rusak">
 <!ENTITY corruptedContentError.longDesc "<p>Halaman yang anda coba untuk lihat tidak dapat ditampilkan karena adanya kesalahan dalam transmisi data yang terdeteksi.</p><ul><li>Silahkan hubungi pemilik situs web untuk menginformasikan mereka tentang masalah ini.</li></ul>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberi tahu mereka tentang masalah ini.</li></ul></p>">
 
 <!-- Include app-specific error messages - do not change this in localization!

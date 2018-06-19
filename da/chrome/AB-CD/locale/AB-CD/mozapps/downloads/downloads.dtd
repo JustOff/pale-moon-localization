@@ -13,8 +13,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "Filhentning">
 
-<!ENTITY cmd.pause.label                  "Pause">
-<!ENTITY cmd.pause.accesskey              "P">
+
+
 <!ENTITY cmd.resume.label                 "Genoptag">
 <!ENTITY cmd.resume.accesskey             "G">
 <!ENTITY cmd.cancel.label                 "Annuller">
@@ -36,14 +36,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.removeFromList.label         "Fjern fra liste">
 <!ENTITY cmd.removeFromList.accesskey     "F">
 
-<!ENTITY cmd.close.commandKey             "w">
-<!ENTITY cmd.close2.commandKey            "j">
-<!ENTITY cmd.close2Unix.commandKey        "y">
+
+
+
 <!ENTITY cmd.clearList.label              "Ryd liste">
 <!ENTITY cmd.clearList.tooltip            "Fjerner færdige, afbrudte og mislykkedes filhentninger fra listen">
 <!ENTITY cmd.clearList.accesskey          "R">
-<!ENTITY cmd.find.commandKey              "f">
-<!ENTITY cmd.search.commandKey            "k">
+
+
 
 <!ENTITY closeWhenDone.label              "Luk den når filen er hentet færdig">
 <!ENTITY closeWhenDone.tooltip            "Lukker Filhentning, når alle filer er hentet ned">

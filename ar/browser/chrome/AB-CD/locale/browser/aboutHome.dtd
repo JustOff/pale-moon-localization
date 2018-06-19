@@ -15,7 +15,7 @@
 
 <!ENTITY abouthome.bookmarksButton.label "العلامات">
 <!ENTITY abouthome.historyButton.label   "التأريخ">
-<!ENTITY abouthome.settingsButton.label  "Preferences">
+
 <!ENTITY abouthome.addonsButton.label    "الإضافات">
 <!ENTITY abouthome.appsButton.label      "السوق">
 <!ENTITY abouthome.downloadsButton.label "التنزيلات">

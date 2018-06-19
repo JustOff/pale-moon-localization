@@ -27,5 +27,5 @@
 <!ENTITY            offlineState.label    "Vinna án nettengingar">
 <!ENTITY            offlineState.accesskey "n">
 
-<!ENTITY            useSelected.label       "Use the selected profile without asking at startup">
-<!ENTITY            useSelected.accesskey   "s">
+
+

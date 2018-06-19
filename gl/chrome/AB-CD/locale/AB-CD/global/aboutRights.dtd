@@ -17,14 +17,14 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; está dispoñíbel nos termos da ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others in its source form. Binaries are subject to the Pale Moon redistribution license found on the Pale Moon website. You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
 
-<!ENTITY rights.intro-point2-a "You are, however, not granted any rights or licenses to the intellectual property of Moonchild Productions or any other party, including without limitation the Pale Moon name or logo. Additional information on trademarks may be found ">
+
+
 <!ENTITY rights.intro-point2-b "aquí">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Some features in &brandShortName; may give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.">
+
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Como usamos a súa información persoal e as opinións enviadas a &vendorShortName; a través do &brandShortName; descríbese na ">
@@ -86,4 +86,4 @@
 <!ENTITY rights.webservices-term4 "Os Servizos fornécense &quot;tal cal&quot; &vendorShortName;, as persoas colaboradoras, licenciatarias e distribuidoras, renuncian a toda garantía, tanto explícitas como implícitas, incluíndo sen limitación, garantías que os Servizos son comercializábeis e satisfagan os seus propósitos particulares. Vostede asume completamente o risco tanto de seleccionar os Servizos como a súa calidade e desempeño. Algunhas xurisdicións non permiten a exclusión de limitacións ou garantías implicadas, de modo que este rexeite de responsabilidades podería non ser aplicábel no seu caso.">
 <!ENTITY rights.webservices-term5 "Agás requirimento legal, &vendorShortName;, as persoas contribuidoras, licenzatarias e distribuidoras non serán responsábeis de calquera prexuízo indirecto, especial, incidental, consecuente, punitivo ou exemplarizante relacionado co uso de &brandShortName; e os Servizos.  A responsabilidade colectiva baixo estes termos non excederá os 500 $ (cincocentos dólares). Algunhas xurisdicións non permiten a exclusión ou limitación de determinados danos, de modo que esta exclusión e limitación podería non ser aplicábel no seu caso.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; podería actualizar estes termos cando sexa necesario. Os termos non deben ser modificados ou anulados sen consentimento escrito de &vendorShortName;.">
-<!ENTITY rights.webservices-term7 "These terms are governed by the laws of Sweden, excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">
+

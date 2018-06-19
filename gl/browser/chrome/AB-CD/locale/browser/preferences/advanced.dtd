@@ -135,14 +135,14 @@
 <!ENTITY UACompat.Firefox       "Compatibilidade de Firefox">
 
 <!ENTITY scrollparamTab.label               "Desprazamento">
-<!ENTITY smoothscroll.explain.label         "The parameters below only have an effect if smooth scrolling is enabled overall with the checkbox above.">
-<!ENTITY smoothscroll.to                    "to">
+
+
 <!ENTITY smoothscroll.params.label          "Parámetros de desprazamento suave">
 <!ENTITY smoothscroll.mousewheel.label      "Desprazamento suave coa roda do rato">
 <!ENTITY smoothscroll.mousewheel.duration   "Duración do desprazamento coa roda do rato:">
 <!ENTITY smoothscroll.arrowkeys.label       "Desprazamento suave coas teclas das frechas">
 <!ENTITY smoothscroll.arrowkeys.duration    "Duración do desprazamento coas teclas das frechas:">
-<!ENTITY smoothscroll.pagekeys.label        "Smooth scroll page up/down">
-<!ENTITY smoothscroll.pagekeys.duration     "Page up/down scroll duration:">
+
+
 <!ENTITY smoothscroll.scrollbar.label       "Desprazamento suave con barras de desprazamento">
 <!ENTITY smoothscroll.scrollbar.duration    "Duración do desprazamento suave da barra de desprazamento:">

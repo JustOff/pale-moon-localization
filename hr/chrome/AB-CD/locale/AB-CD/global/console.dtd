@@ -19,19 +19,19 @@
 <!ENTITY clear.label        "Očisti">
 <!ENTITY clear.accesskey    "O">
 <!ENTITY codeEval.label     "Kod:">
-<!ENTITY codeEval.accesskey "o">
+
 <!ENTITY evaluate.label     "Ocijeni">
 <!ENTITY evaluate.accesskey "c">
-<!ENTITY filter2.label      "Filter:">
-<!ENTITY filter2.accesskey  "F">
+
+
 
 <!ENTITY copyCmd.label       "Kopiraj">  
 <!ENTITY copyCmd.accesskey   "K"> 
-<!ENTITY copyCmd.commandkey  "C"> 
+ 
 <!ENTITY sortFirst.label     "Prvi &gt; zadnji redoslijed sortiranja">
 <!ENTITY sortFirst.accesskey "P">
 <!ENTITY sortLast.label      "Zadnji &gt; prvi redoslijed sortiranja">
 <!ENTITY sortLast.accesskey  "Z">
-<!ENTITY closeCmd.commandkey "w">  
-<!ENTITY focus1.commandkey   "l">  
-<!ENTITY focus2.commandkey   "d">  
+  
+  
+  

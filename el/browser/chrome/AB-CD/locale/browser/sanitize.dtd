@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "Όλα">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+
 <!ENTITY clearTimeDuration.dateColumn     "Ημ/νία Επίσκεψης">
 <!ENTITY clearTimeDuration.nameColumn     "Όνομα">
 

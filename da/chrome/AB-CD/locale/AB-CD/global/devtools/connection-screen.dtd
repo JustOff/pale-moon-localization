@@ -10,10 +10,10 @@
 <!ENTITY title      "Opret forbindelse">
 <!ENTITY header     "Opret forbindelse til fjern-enhed">
 <!ENTITY host       "Vært:">
-<!ENTITY port       "Port:">
+
 <!ENTITY connect    "Opret forbindelse">
 <!ENTITY connecting "Opretter forbindelse…">
-<!ENTITY availableAddons "Available remote add-ons:">
+
 <!ENTITY availableTabs "Tilgængelige fjern-faneblade:">
 <!ENTITY availableProcesses "Tilgængelige fjern-processer:">
 <!ENTITY connectionError "Fejl:">
@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "The Developer Tools can debug remote devices (Pale Moon for Android, for example). Make sure that you have turned on the 'Remote debugging' option in the remote device. For more, see the ">
-<!ENTITY remoteDocumentation "documentation">
+
+
 <!ENTITY remoteHelpSuffix ".">
 

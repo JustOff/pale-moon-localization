@@ -26,11 +26,11 @@
 <!ENTITY insertRelatedAfterCurrent.label    "Introduceţi filele asociate lângă fila curentă">
 <!ENTITY contextLoadInBackground.label      "Atunci când se efectuează o căutare în context, comută imediat la fila nouă">
 <!ENTITY closeWindowWithLastTab.label       "Închide fereastra atunci când este închisă ultima filă">
-<!ENTITY showTabPreviews.label              "Show previews when switching tabs with Ctrl+Tab">
+
 
 <!ENTITY newtabPage.label                   "La deschiderea unei o file noi, arată:">
-<!ENTITY newtabPage.custom.label            "A custom URL">
+
 <!ENTITY newtabPage.blank.label             "O pagină goală">
 <!ENTITY newtabPage.home.label              "Pagina de pornire Pale Moon">
-<!ENTITY newtabPage.myhome.label            "My home page">
+
 <!ENTITY newtabPage.quickdial.label         "Pagina apelare rapidă">

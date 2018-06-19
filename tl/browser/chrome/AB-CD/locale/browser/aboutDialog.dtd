@@ -7,7 +7,7 @@
 <!ENTITY warningDesc.version        "&brandShortName; ay eksperimental at maaaring hindi maging maayos ang iyong karanasan dito.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
-<!ENTITY community.exp.start        "">
+
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " ay isang ">
@@ -26,7 +26,7 @@
 <!ENTITY contribute.start           "Nakakaaliw pakinggan? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Makisali na!">
-<!ENTITY contribute.end             "">
+
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Impormasyon sa Pag-lisensiya">
@@ -55,14 +55,14 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Nabigo ang pag-update. ">
 <!ENTITY update.failed.linkText     "I-download ang pinakabagong bersiyon">
-<!ENTITY update.failed.end          "">
+
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.manual.start        "Makukuha ang mga update sa ">
-<!ENTITY update.manual.end          "">
+
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -72,7 +72,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "Hindi na puwedeng i-update ang sistemang ito. ">
 <!ENTITY update.unsupported.linkText "Matuto ng higit pa">
-<!ENTITY update.unsupported.end      "">
+
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -80,7 +80,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Nagda-download ng update — ">
-<!ENTITY update.downloading.end     "">
+
 
 <!ENTITY update.applying            "Nilalapat ang update…">
 

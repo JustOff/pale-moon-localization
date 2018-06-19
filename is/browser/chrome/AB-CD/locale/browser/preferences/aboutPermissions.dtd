@@ -11,15 +11,15 @@
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
 <!ENTITY header.site.start               "Heimildir fyrir">
-<!ENTITY header.site.end                 "">
+
 
 <!ENTITY header.defaults                 "Sjálfgefnar heimildir fyrir öll vefsvæði">
 
-<!ENTITY permissions.sitesReload         "Reload list of sites">
+
 
 <!ENTITY permissions.forgetSite          "Gleyma þessu vefsvæði">
 
-<!ENTITY permission.default              "Use Default">
+
 
 <!ENTITY permission.alwaysAsk            "Spyrja alltaf">
 <!ENTITY permission.allow                "Leyfa">
@@ -30,16 +30,16 @@
 <!ENTITY password.label                  "Vista lykilorð">
 <!ENTITY password.manage                 "Stjórna aðgangsorðum…">
 
-<!ENTITY image.label                     "Load Images">
+
 
 <!ENTITY cookie.label                    "Setja smákökur">
 <!ENTITY cookie.remove                   "Fjarlægja smákökur">
 <!ENTITY cookie.manage                   "Sýsla með smákökur…">
 <!ENTITY cookie.removeAll                "Fjarlægja allar smákökur">
 
-<!ENTITY desktop-notification.label      "Show Notifications">
 
-<!ENTITY install.label                   "Install Extensions or Themes">
+
+
 
 <!ENTITY geo.label                       "Deila staðsetningu">
 
@@ -53,4 +53,4 @@
 
 <!ENTITY fullscreen.label                "Allur skjárinn">
 
-<!ENTITY pointerLock.label               "Hide the Mouse Pointer">
+

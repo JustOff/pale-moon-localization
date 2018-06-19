@@ -25,15 +25,15 @@
 <!ENTITY  locbar.openpage.accesskey     "д">
 
 <!-- LOCALIZATION NOTE (locbar.pre.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+
 <!-- LOCALIZATION NOTE (locbar.pre.accessKey): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.accessKey          "u">
+
 <!-- LOCALIZATION NOTE (locbar.post.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.post.label             "">
+
 <!-- LOCALIZATION NOTE (locbar.both.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.both.label             "History and Bookmarks">
+
 <!-- LOCALIZATION NOTE (locbar.nothing.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.nothing.label          "Nothing">
+
 
 <!ENTITY  acceptCookies.label           "Приймати куки від сайтів">
 <!ENTITY  acceptCookies.accesskey       "и">
@@ -62,7 +62,7 @@
 <!ENTITY  historyHeader.remember.label     "Пам’ятати історію">
 <!ENTITY  historyHeader.dontremember.label "Ніколи не запам’ятовувати історію">
 <!ENTITY  historyHeader.custom.label       "Використовувати власні налаштування історії">
-<!ENTITY  historyHeader.post.label         "">
+
 
 <!ENTITY  rememberDescription.label      "&brandShortName; буде пам’ятати вашу історію переглядів, завантажень, пошуку, зберігати дані форм а також зберігати куки з відвідуваних вами сайтів.">
 

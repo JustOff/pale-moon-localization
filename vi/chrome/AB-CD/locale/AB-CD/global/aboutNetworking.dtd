@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Giới thiệu về Mạng">
-<!ENTITY aboutNetworking.warning               "This is very experimental. Do not use without adult supervision.">
+
 <!ENTITY aboutNetworking.showNextTime          "Hiện cảnh báo này vào lần sau">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.http                  "HTTP">
-<!ENTITY aboutNetworking.sockets               "Sockets">
+
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "Tải lại">
@@ -22,10 +22,10 @@
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "Đã gửi">
 <!ENTITY aboutNetworking.received              "Đã nhận">
-<!ENTITY aboutNetworking.family                "Family">
+
 <!ENTITY aboutNetworking.addresses             "Địa chỉ">
 <!ENTITY aboutNetworking.expires               "Hết hạn (Giây)">
-<!ENTITY aboutNetworking.messagesSent          "Messages Sent">
-<!ENTITY aboutNetworking.messagesReceived      "Messages Received">
-<!ENTITY aboutNetworking.bytesSent             "Bytes Sent">
-<!ENTITY aboutNetworking.bytesReceived         "Bytes Received">
+
+
+
+

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "m">
+
 <!ENTITY minimizeWindow.label     "Smanji">
 <!ENTITY bringAllToFront.label    "Postavi sve na vrh">
 <!ENTITY zoomWindow.label         "Uvećanje">
@@ -18,8 +18,8 @@
 <!ENTITY aboutProduct.accesskey   "O">
 <!ENTITY productHelp.label        "&brandShortName; pomoć">
 <!ENTITY productHelp.accesskey    "p">
-<!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Restart in Safe Mode…">
+
+
 <!ENTITY helpSafeMode.accesskey   "v">
 
 <!ENTITY helpTroubleshootingInfo.label      "Rješavanje problema">
@@ -29,14 +29,14 @@
 <!ENTITY helpFeedbackPage.accesskey  "e">
 
 <!ENTITY preferencesCmdMac.label        "Postavke...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
+
 
 <!ENTITY servicesMenuMac.label          "Servisi">
 
 <!ENTITY hideThisAppCmdMac.label        "Sakrij &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
 
 <!ENTITY hideOtherAppsCmdMac.label      "Sakrij ostale">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
 
 <!ENTITY showAllAppsCmdMac.label        "Prikaži sve">

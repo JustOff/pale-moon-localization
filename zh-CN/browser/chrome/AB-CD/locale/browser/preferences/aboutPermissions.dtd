@@ -11,7 +11,7 @@
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
 <!ENTITY header.site.start               "权限">
-<!ENTITY header.site.end                 "">
+
 
 <!ENTITY header.defaults                 "对所有站点的默认权限">
 

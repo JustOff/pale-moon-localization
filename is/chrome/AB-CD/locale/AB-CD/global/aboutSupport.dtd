@@ -11,13 +11,13 @@
   um &brandShortName;, athugaðu þá <a id='supportLink'>stuðningsvefsvæðið okkar</a>.
 ">
 
-<!ENTITY aboutSupport.crashes.title "Crash Reports">
+
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "Report ID">
-<!ENTITY aboutSupport.crashes.sendDate "Submitted">
-<!ENTITY aboutSupport.crashes.allReports "All Crash Reports">
-<!ENTITY aboutSupport.crashes.noConfig "This application has not been configured to display crash reports.">
+
+
+
+
 
 <!ENTITY aboutSupport.extensionsTitle "Viðbætur">
 <!ENTITY aboutSupport.extensionName "Nafn">
@@ -25,23 +25,23 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Útgáfa">
 <!ENTITY aboutSupport.extensionId "Auðkenni">
 
-<!ENTITY aboutSupport.experimentsTitle "Experimental Features">
-<!ENTITY aboutSupport.experimentName "Name">
+
+
 <!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Description">
-<!ENTITY aboutSupport.experimentActive "Active">
-<!ENTITY aboutSupport.experimentEndDate "End Date">
-<!ENTITY aboutSupport.experimentHomepage "Homepage">
+
+
+
+
 
 
 <!ENTITY aboutSupport.appBasicsTitle "Grunnupplýsingar forrits">
 <!ENTITY aboutSupport.appBasicsName "Nafn">
 <!ENTITY aboutSupport.appBasicsVersion "Útgáfa">
-<!ENTITY aboutSupport.appBasicsBuildID "Build ID">
+
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-<!ENTITY aboutSupport.appBasicsUpdateChannel "Update Channel">
+
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Uppfærslusaga">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Sýna uppfærslusögu">
 
@@ -54,12 +54,12 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Virk tengiforrit">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Smíð stillingar">
 <!ENTITY aboutSupport.appBasicsUserAgent "Auðkenni forrits">
-<!ENTITY aboutSupport.appBasicsOS "OS">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "Notað minni">
 
-<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocess Windows">
 
-<!ENTITY aboutSupport.appBasicsSafeMode "Safe Mode">
+
+
 
 <!ENTITY aboutSupport.showDir.label "Opna möppu">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -78,15 +78,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "user.js stillingar">
 <!ENTITY aboutSupport.userJSDescription "Notandamappan þín inniheldur <a id='prefs-user-js-link'>user.js skrá</a>, sem inniheldur stillingar sem voru ekki búnar til af &brandShortName;.">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "Important Locked Preferences">
-<!ENTITY aboutSupport.lockedPrefsName "Name">
-<!ENTITY aboutSupport.lockedPrefsValue "Value">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "Grafík">
 
-<!ENTITY aboutSupport.placeDatabaseTitle "Places Database">
-<!ENTITY aboutSupport.placeDatabaseIntegrity "Integrity">
-<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verify Integrity">
+
+
+
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Stigvaxandi GC">
@@ -103,10 +103,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Afrita texta á klemmuspjald">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Afrita hrá gögn á klemmuspjald">
 
-<!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
-<!ENTITY aboutSupport.safeModeTitle "Try Safe Mode">
-<!ENTITY aboutSupport.restartInSafeMode.label "Restart in Safe Mode…">
 
-<!ENTITY aboutSupport.restartTitle "Try Restart">
-<!ENTITY aboutSupport.restartNormal.label "Restart normally…">
+
+
+
+
+

@@ -18,7 +18,7 @@
 <!ENTITY profilePrompt.label            "輸入新設定檔名稱:">
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "您的使用者設定、偏好設定和其他個人資料會存放於:">
-<!ENTITY profileDefaultName             "Default User">
+
 <!ENTITY button.choosefolder.label      "選擇資料夾…">
 <!ENTITY button.choosefolder.accesskey  "C">
 <!ENTITY button.usedefault.label        "使用預設資料夾">

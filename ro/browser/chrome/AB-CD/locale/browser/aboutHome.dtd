@@ -15,7 +15,7 @@
 
 <!ENTITY abouthome.bookmarksButton.label "Semne de carte">
 <!ENTITY abouthome.historyButton.label   "Istoric">
-<!ENTITY abouthome.settingsButton.label  "Preferences">
+
 <!ENTITY abouthome.addonsButton.label    "Suplimente">
 <!ENTITY abouthome.appsButton.label      "Piața de aplicații">
 <!ENTITY abouthome.downloadsButton.label "Descărcări">

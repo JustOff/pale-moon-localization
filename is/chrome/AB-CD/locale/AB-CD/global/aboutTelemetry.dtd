@@ -12,9 +12,7 @@
   Fjarmæling er <span>óvirk</span>.
 ">
 
-<!ENTITY aboutTelemetry.generalDataSection "
-  General Data
-">
+
 
 <!ENTITY aboutTelemetry.slowSqlSection "
   Sýna hægar SQL tengingar
@@ -24,25 +22,19 @@
   Vafrahrun
 ">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Thread Hangs
-">
+
 
 <!ENTITY aboutTelemetry.histogramsSection "
   Súlurit
 ">
 
-<!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Keyed Histograms
-">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Einfaldar mælingar
 ">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "
-  Add-on Details
-">
+
 
 <!ENTITY aboutTelemetry.lateWritesSection "
   Skrifað seint
@@ -56,9 +48,7 @@
   Súlurit safnað af viðbótum
 ">
 
-<!ENTITY aboutTelemetry.toggle "
-  Click to toggle section
-">
+
 
 <!ENTITY aboutTelemetry.emptySection "
   (Engum gögnum safnað)
@@ -76,6 +66,4 @@
   Sýna hrá gögn frá hruni
 ">
 
-<!ENTITY aboutTelemetry.filterText "
-  Filter (strings or /regexp/)
-">
+

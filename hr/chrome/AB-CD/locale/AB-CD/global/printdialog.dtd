@@ -13,15 +13,15 @@
 <!ENTITY fileCheck.label "Ispis u datoteku">
 <!ENTITY fileCheck.accesskey "d">
 <!ENTITY propertiesButton.label "Postavke...">
-<!ENTITY propertiesButton.accesskey "o">
+
 <!ENTITY descText.label "Opis pisača:">
 <!ENTITY printer.label "Pisač">
 <!ENTITY printerInput.label "Naziv pisača:">
-<!ENTITY printerInput.accesskey "N">
+
 
 <!ENTITY printrangeGroup.label "Opseg ispisa">
 <!ENTITY allpagesRadio.label "Sve stranice">
-<!ENTITY allpagesRadio.accesskey "A">
+
 <!ENTITY rangeRadio.label  "Stranice">
 <!ENTITY rangeRadio.accesskey  "S">
 <!ENTITY frompageInput.label  "od">

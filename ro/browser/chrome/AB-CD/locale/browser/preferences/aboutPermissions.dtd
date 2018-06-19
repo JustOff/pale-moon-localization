@@ -11,15 +11,15 @@
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
 <!ENTITY header.site.start               "Permisiuni pentru">
-<!ENTITY header.site.end                 "">
+
 
 <!ENTITY header.defaults                 "Permisiuni implicite pentru toate saiturile">
 
-<!ENTITY permissions.sitesReload         "Reload list of sites">
+
 
 <!ENTITY permissions.forgetSite          "Uită totul despre acest sait">
 
-<!ENTITY permission.default              "Use Default">
+
 
 <!ENTITY permission.alwaysAsk            "Întreabă mereu">
 <!ENTITY permission.allow                "Permite">

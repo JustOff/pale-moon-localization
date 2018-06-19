@@ -1,0 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAbout.title  "Pri &quot;about&quot;">
+<!ENTITY aboutAbout.note   "Ĉi tiu estas listo de &quot;about&quot;-aj paĝoj por utileco. <br/>
+Kelkaj da tiuj povus esti konfuzanta, kaj kelkaj da tiuj estas nur por diagnozaj motivoj.<br/>
+Kelkaj da tiuj ne estas montrataj ĉar ili bezonas informpetajn ĉenojn.">

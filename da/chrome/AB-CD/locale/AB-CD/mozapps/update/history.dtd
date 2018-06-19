@@ -11,6 +11,6 @@
 
 <!ENTITY  name.header               "Navn på opdatering">
 <!ENTITY  date.header               "Installationsdato">
-<!ENTITY  type.header               "Type">
+
 <!ENTITY  state.header              "Status">
 

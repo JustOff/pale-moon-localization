@@ -12,7 +12,7 @@
 <!ENTITY     button.allow.label             "Tillad">
 <!ENTITY     button.allow.accesskey         "T">
 <!ENTITY     button.session.label           "Tillad for session">
-<!ENTITY     button.session.accesskey       "S">
+
 <!ENTITY     button.deny.label              "Afvis">
 <!ENTITY     button.deny.accesskey          "A">
 

@@ -33,8 +33,8 @@
 <!ENTITY  video.label                 "الفيديو">
 <!ENTITY  videoMSE.label              "تمكين امتدادات مصدر الوسائط (MSE)">
 <!ENTITY  videoMSE.accesskey          "م">
-<!ENTITY  videoMSENFR.label           "Use MSE asynchronously">
-<!ENTITY  videoMSENFR.accesskey       "U">
+
+
 <!ENTITY  videoMSEMP4.label           "تمكين امتدادات مصدر الوسائط (MSE) لفيديو MP4">
 <!ENTITY  videoMSEMP4.accesskey       "4">
 <!ENTITY  videoMSEWebM.label          "تمكين امتدادات مصدر الوسائط (MSE) لفيديو WebM">

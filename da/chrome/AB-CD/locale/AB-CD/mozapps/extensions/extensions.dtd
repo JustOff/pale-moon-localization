@@ -4,10 +4,10 @@
 <!ENTITY addons.windowTitle                   "Tilføjelser">
 
 <!ENTITY search.placeholder                   "Søg i alle tilføjelser">
-<!ENTITY search.buttonlabel                   "Search">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
+
 
 <!ENTITY loading.label                        "Henter…">
 <!ENTITY listEmpty.installed.label            "Du har ikke nogen tilføjelser af denne type installeret">
@@ -17,7 +17,7 @@
 <!ENTITY listEmpty.search.label               "Ingen matchende tilføjelser">
 <!ENTITY listEmpty.button.label               "Lær mere om tilføjelser">
 <!ENTITY installAddonFromFile.label           "Installer tilføjelse fra fil…">
-<!ENTITY installAddonFromFile.accesskey       "I">
+
 <!ENTITY toolsMenu.tooltip                    "Indstillinger for alle tilføjelser">
 
 <!ENTITY cmd.back.tooltip                     "Gå en side tilbage">
@@ -46,7 +46,7 @@
 <!ENTITY updates.checkForUpdates.label        "Søg efter opdateringer">
 <!ENTITY updates.checkForUpdates.accesskey    "T">
 <!ENTITY updates.viewUpdates.label            "Vis seneste opdateringer">
-<!ENTITY updates.viewUpdates.accesskey        "V">
+
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
@@ -75,18 +75,18 @@
 <!ENTITY cmd.showDetails.label                "Vis flere detaljer">
 <!ENTITY cmd.showDetails.accesskey            "V">
 <!ENTITY cmd.findUpdates.label                "Find opdateringer">
-<!ENTITY cmd.findUpdates.accesskey            "F">
+
 <!ENTITY cmd.preferencesWin.label             "Indstillinger">
 <!ENTITY cmd.preferencesWin.accesskey         "I">
 <!ENTITY cmd.preferencesUnix.label            "Præferencer">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
+
 <!ENTITY cmd.about.label                      "Om">
 <!ENTITY cmd.about.accesskey                  "O">
 
 <!ENTITY cmd.enableAddon.label                "Aktiver">
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Deaktiver">
-<!ENTITY cmd.disableAddon.accesskey           "D">
+
 <!ENTITY cmd.enableTheme.label                "Brug tema">
 <!ENTITY cmd.enableTheme.accesskey            "t">
 <!ENTITY cmd.disableTheme.label               "Stop brug af tema">
@@ -99,10 +99,10 @@
 <!ENTITY cmd.neverActivate.tooltip            "Brug aldrig dette plugin">
 <!ENTITY cmd.stateMenu.tooltip                "Vælg hvornår dette plugin må bruges">
 <!ENTITY cmd.installAddon.label               "Installer">
-<!ENTITY cmd.installAddon.accesskey           "I">
+
 <!ENTITY cmd.uninstallAddon.label             "Fjern">
 <!ENTITY cmd.uninstallAddon.accesskey         "j">
-<!ENTITY cmd.debugAddon.label                 "Debug">
+
 <!ENTITY cmd.showPreferencesWin.label         "Indstillinger">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Rediger indstillinger for denne tilføjelse">
 <!ENTITY cmd.showPreferencesUnix.label        "Præferencer">
@@ -127,7 +127,7 @@
   vise nogle af de bedste og mest populære tilføjelser, som du kan prøve af.">
 
 <!-- detail view -->
-<!ENTITY detail.version.label                 "Version">
+
 <!ENTITY detail.lastupdated.label             "Senest opdateret">
 <!ENTITY detail.creator.label                 "Udvikler">
 <!ENTITY detail.homepage.label                "Webside">
@@ -153,7 +153,7 @@
 <!ENTITY detail.showPreferencesWin.accesskey  "I">
 <!ENTITY detail.showPreferencesWin.tooltip    "Rediger indstillinger for denne tilføjelse">
 <!ENTITY detail.showPreferencesUnix.label     "Præferencer">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
+
 <!ENTITY detail.showPreferencesUnix.tooltip   "Rediger præferencer for denne tilføjelse">
 
 
@@ -161,7 +161,7 @@
 <!ENTITY rating2.label                        "Vurdering">
 
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Pause">
+
 <!ENTITY progress.cancel.tooltip              "Afbryd">
 
 
@@ -210,14 +210,14 @@
 <!ENTITY addon.loadingReleaseNotes.label      "Henter…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Beklager, men udgivelsesnoterne kunne ikke hentes.">
 
-<!ENTITY addon.nativeAddon                    "This add-on directly targets Pale Moon">
-<!ENTITY addon.compatAddon                    "This add-on targets Mozilla Firefox and runs in compatibility mode">
+
+
 
 <!ENTITY addon.createdBy.label                "af ">
 
 <!ENTITY eula.title                           "Slutbrugerlicensaftale">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
+
+
 <!ENTITY eula.accept                          "Accepter og installer…">
 
 <!ENTITY settings.path.button.label           "Gennemse…">
@@ -227,10 +227,10 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "What's this? Telemetry may install and run experiments from time to time.">
-<!ENTITY experiment.info.learnmore "Learn More">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Telemetry Settings">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY setting.learnmore "Learn More…">
+
+
+
+
+
+

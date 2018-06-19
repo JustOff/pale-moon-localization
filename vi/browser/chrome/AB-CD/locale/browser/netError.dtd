@@ -14,7 +14,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Địa chỉ này đã bị chặn">
-<!ENTITY deniedPortAccess.longDesc "<p>The requested address specified a port (e.g. <q>palemoon.org:25</q> for port 25 on palemoon.org) normally used for purposes <em>other</em> than Web browsing. The browser has canceled the request for your protection and security.</p>">
+
 
 <!ENTITY dnsNotFound.title "Không tìm thấy máy chủ">
 <!ENTITY dnsNotFound.longDesc "<ul> 
@@ -71,11 +71,7 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Không hiểu địa chỉ">
-<!ENTITY unknownProtocolFound.longDesc "
-<ul>
-  <li>You might need to install other software to open this address.</li>
-</ul>
-">
+
 
 <!ENTITY proxyConnectFailure.title "Máy chủ proxy từ chối kết nối">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
@@ -102,12 +98,7 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "Kết nối An toàn bị Thất bại">
-<!ENTITY nssFailure2.longDesc2 "
-<ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+
 
 <!ENTITY nssBadCert.title "Kết nối An toàn bị Thất bại">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -122,16 +113,13 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "Nghi ngờ Trang web Ác ý!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='https://www.stopbadware.org/request-review' >request a review</a>.</p>
-">
+
 
 <!ENTITY phishingBlocked.title "Nghi ngờ Trang web Giả mạo!">
 <!ENTITY phishingBlocked.longDesc "<p>Nhập bất kì thông tin nào vào trang này có thể dẫn đến việc bị trộm danh tính hoặc gặp các hình thức lừa đảo khác.</p><p>Những kiểu trang web giả mạo này được dùng trong các âm mưu lừa đảo - còn gọi là 'tấn công thả mồi giả' (phishing attack), trong đó chúng thường giả mạo thành các trang web và email mà bạn tin tưởng.</p>">
 
 <!ENTITY cspBlocked.title "Bị chặn bởi Chính sách Bảo mật Nội dung">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
 
 <!ENTITY xssBlockMode.title "Bị chặn bởi bộ lọc XSS">
 <!ENTITY xssBlockMode.longDesc "
@@ -162,7 +150,7 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.title "Báo cáo lỗi này">
-<!ENTITY errorReporting.longDesc "Reporting the address and certificate information for <span id='hostname'></span> will help us identify and block malicious sites. Thanks for helping create a safer web!">
+
 <!ENTITY errorReporting.automatic "Tự động báo cáo lỗi trong tương lai">
 <!ENTITY errorReporting.learnMore "Tìm hiểu thêm…">
 <!ENTITY errorReporting.sending "Đang gửi báo cáo">

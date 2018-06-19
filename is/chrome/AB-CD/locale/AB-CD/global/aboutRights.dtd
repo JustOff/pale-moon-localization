@@ -17,14 +17,14 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; er á boðstólum fyrir þig samkvæmt skilmálum ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others in its source form. Binaries are subject to the Pale Moon redistribution license found on the Pale Moon website. You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
 
-<!ENTITY rights.intro-point2-a "You are, however, not granted any rights or licenses to the intellectual property of Moonchild Productions or any other party, including without limitation the Pale Moon name or logo. Additional information on trademarks may be found ">
+
+
 <!ENTITY rights.intro-point2-b "hérna">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Some features in &brandShortName; may give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.">
+
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Hvernig meðferð persónuupplýsinga og upplýsingar sem eru sendar til &vendorShortName; með &brandShortName; er háttað er líst í ">
@@ -85,4 +85,4 @@
 <!ENTITY rights.webservices-term4 "Þessar þjónustur eru ætlaðar til notkunar án allrar &quot;ábyrgðar.&quot; &vendorShortName;, þátttakendur, leyfisaðilar, og dreifingaraðilar, afsala sér allri ábyrgð, hvort sem það er beint eða óbeint, innifelur það í sér án allra takmarkana, ábyrgðir að þjónusturnar séu seljanlegar og hæfi þínum sérstaka tilgangi.  Þú berð alla ábyrgð á því hvort val þitt á þjónustunum passi þínum tilgangi og hvort gæði eða afköst henti þér. Sum lögsagnarumdæmi leyfa ekki útilokanir eða takmarkanir á ákveðnum ábyrgðum, þannig að þessi riftunarákvæði gætu ekki átt við þig.">
 <!ENTITY rights.webservices-term5 "Nema þess sé krafist af lögum, munu &vendorShortName;, þátttakendur, leyfisaðilar, og meðlimir ekki verða ábyrgir fyrir hverskonar óbeinum, sérstökum, tilfallandi, mikilvægum, refsingum, eða varnaðar skaðabótum sem hljótast af notkun eða tengdri notkunar á &brandShortName; og þjónustum þess.  Heildar skaðabótaskylda með þessum skilmálum mun aldrei verða meiri en $500 (fimm hundruð dollarar). Sum lögsagnarumdæmi leyfa ekki útilokanir eða takmarkanir á ákveðnum skaðabótum, þannig að þessar útilokanir og takmarkanir gætu ekki átt við þig.">
 <!ENTITY rights.webservices-term6 "Öðru hverju gæti &vendorShortName; nauðsynlega þurft að uppfæra þessa skilmála. Þessum skilmálum má ekki breyta eða ógilda án skriflegs leyfis &vendorShortName;.">
-<!ENTITY rights.webservices-term7 "These terms are governed by the laws of Sweden, excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">
+

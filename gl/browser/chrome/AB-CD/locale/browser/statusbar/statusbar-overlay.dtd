@@ -4,7 +4,7 @@
 <!ENTITY status4evar.progress.widget.title "Medidor de progreso">
 <!ENTITY status4evar.throbber.widget.title "Indicador de actividade">
 <!ENTITY status4evar.download.widget.title "Estado de descarga">
-<!ENTITY status4evar.options.widget.title "Status Bar Preferences">
+
 <!ENTITY status4evar.options.widget.label "Barra de estado de Pale Moon">
-<!ENTITY status4evar.menu.options.label "Status Bar Preferences">
+
 

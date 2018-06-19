@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback.desc        "Cách mã hóa kỹ tự này được dùng cho những nội dung, ký tự cũ mà không có cách mã hóa.">
 
 <!ENTITY languages.customize.Fallback.auto        "Mặc định cho Địa phương Hiện tại">
-<!ENTITY languages.customize.Fallback.utf8        "UTF-8">
+
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Ả Rập">

@@ -43,8 +43,8 @@
 <!ENTITY setup.tosLink.label        "podmienkami používania služby">
 <!ENTITY setup.tosAgree2.label      "a">
 <!ENTITY setup.ppLink.label         "zásadami ochrany súkromia">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+
+
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; sa stará o vaše súkromie">

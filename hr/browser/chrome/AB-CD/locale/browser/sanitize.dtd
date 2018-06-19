@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "sve">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+
 <!ENTITY clearTimeDuration.dateColumn     "Datum posjete">
 <!ENTITY clearTimeDuration.nameColumn     "Naziv">
 
@@ -27,7 +27,7 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detalji">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+
 
 <!ENTITY historySection.label         "Povijest">
 <!ENTITY dataSection.label            "Podaci">
@@ -35,17 +35,17 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.label     "Povijest pretraživanja i preuzimanja">
 <!ENTITY itemHistoryAndDownloads.accesskey "v">
 <!ENTITY itemFormSearchHistory.label       "Povijest formi i traženja">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
+
 <!ENTITY itemPasswords.label               "Spremljene lozinke">
-<!ENTITY itemPasswords.accesskey           "P">
+
 <!ENTITY itemCookies.label                 "Kolačići">
 <!ENTITY itemCookies.accesskey             "K">
 <!ENTITY itemCache.label                   "Međuspremnik">
 <!ENTITY itemCache.accesskey               "s">
 <!ENTITY itemOfflineApps.label             "Podaci izvanmreženih stranica">
 <!ENTITY itemOfflineApps.accesskey         "n">
-<!ENTITY itemConnectivityData.label        "Site Connectivity Data">
-<!ENTITY itemConnectivityData.accesskey    "N">
+
+
 <!ENTITY itemActiveLogins.label            "Aktivne prijave">
 <!ENTITY itemActiveLogins.accesskey        "A">
 <!ENTITY itemSitePreferences.label         "Postavke stranice">
@@ -60,5 +60,5 @@ that require it.  -->
      Clear History on Shutdown dialogs.  Should be large enough to contain
      the item* strings above on a single line.  The column width should be set
      at half of the dialog width. -->
-<!ENTITY dialog.width2                 "34em">
-<!ENTITY column.width2                 "17em">
+
+

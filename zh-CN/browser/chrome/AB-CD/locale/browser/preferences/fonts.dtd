@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback.desc        "这个字符编码用于传统内容没有有效声明其编码的时候。">
 
 <!ENTITY languages.customize.Fallback.auto        "使用当前区域设置的默认值">
-<!ENTITY languages.customize.Fallback.utf8        "UTF-8">
+
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "阿拉伯语">

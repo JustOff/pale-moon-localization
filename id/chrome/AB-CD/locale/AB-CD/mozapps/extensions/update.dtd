@@ -32,18 +32,15 @@
 <!ENTITY  installing.top.label            "Mengunduh dan memasang pembaruan ke pengaya anda…">
 
 <!ENTITY  noupdates.wizard.title          "Pengaya Tidak Kompatibel Ditemukan">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; was unable to find updates to your
-                                           incompatible add-ons.">
+
 <!ENTITY  noupdates.error.desc            "Beberapa masalah ditemukan saat mencoba mencari pembaruan.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; will check periodically and inform you
-                                           when compatible updates for these add-ons are found.">
+
 
 <!ENTITY  finished.wizard.title           "Pengaya yang Kompatibel Terpasang">
 <!ENTITY  finished.top.label              "&brandShortName; telah memasang pembaruan untuk pengaya Anda.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; dapat memeriksa secara berkala dan memberitahu Anda
                                             saat pembaruani untuk pengaya ditemukan.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; will check periodically and inform you
-                                           when updates for add-ons are found.">
+
 
 <!ENTITY  adminDisabled.wizard.title      "Tidak dapat memeriksa pembaruan">
 <!ENTITY  adminDisabled.warning.label     "Tidak mungkin memeriksa pembaruan pengaya yang tidak kompatibel

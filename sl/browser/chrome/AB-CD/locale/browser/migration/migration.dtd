@@ -5,7 +5,7 @@
 
 <!ENTITY migrationWizard.title          "Čarovnik za uvoz">
 
-<!ENTITY importFrom.label               "Import Preferences, Bookmarks, History, Passwords and other data from:">
+
 <!ENTITY importFromUnix.label           "Uvozi nastavitve, zaznamke, zgodovino, gesla in ostale podatke iz:">
 <!ENTITY importFromBookmarks.label      "Uvozi zaznamke iz:">
 

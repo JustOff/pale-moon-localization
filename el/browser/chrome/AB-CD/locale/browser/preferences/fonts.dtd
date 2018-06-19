@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback.desc        "Αυτή η κωδικοποίηση χαρακτήρων χρησιμοποιείται για  περιεχόμενο παλαιών σελίδων που δεν δηλώνουν την κωδικοποίηση τους.">
 
 <!ENTITY languages.customize.Fallback.auto        "Προεπιλογή για την τρέχουσα γλώσσα">
-<!ENTITY languages.customize.Fallback.utf8        "UTF-8">
+
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Αραβικά">

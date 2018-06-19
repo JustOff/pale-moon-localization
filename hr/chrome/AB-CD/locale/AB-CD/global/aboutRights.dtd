@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
-<!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
+
+
 <!ENTITY rights.intro-header    "O vašim pravima">
 <!ENTITY rights.intro "&brandFullName; je slobodan program otvorenog koda, izgrađen od strane zajednice tisuća programera iz cijelog svijeta. Trebali biste znati neke podatke:">
 
@@ -17,19 +17,19 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; vam je dostupan pod uvjetima ">
 <!ENTITY rights.intro-point1b "Mozilla Public licence">
-<!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others in its source form. Binaries are subject to the Pale Moon redistribution license found on the Pale Moon website. You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
 
-<!ENTITY rights.intro-point2-a "You are, however, not granted any rights or licenses to the intellectual property of Moonchild Productions or any other party, including without limitation the Pale Moon name or logo. Additional information on trademarks may be found ">
+
+
 <!ENTITY rights.intro-point2-b "ovdje">
-<!ENTITY rights.intro-point2-c ".">
+
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Some features in &brandShortName; may give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.">
+
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Način na koji koristimo vaše osobne informacije i povratne informacije poslane na &vendorShortName; kroz &brandShortName; je opisan u ">
 <!ENTITY rights2.intro-point3b "&brandShortName; politici privatnosti">
-<!ENTITY rights.intro-point3c ".">
+
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Bilo koje primjenjivo pravilo privatnosti za ovaj proizvod mora biti navedeno ovdje.">
@@ -37,7 +37,7 @@
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "Neke &brandShortName; mogućnosti koriste informacijske usluge na webu, međutim, ne možemo jamčiti da su one 100&#37; točne i bez grešaka. Više detalja, uključujući i informacije kako onemogućiti ovu mogućnosti koje koriste te usluge možete pronaći u ">
 <!ENTITY rights.intro-point4b "uvjetima usluga">
-<!ENTITY rights.intro-point4c ".">
+
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Ukoliko ovaj proizvod uključuje web usluge, svi primjenjivi uvjeti za tu uslugu bi trebali biti povezani na ">
@@ -56,7 +56,7 @@
 <!ENTITY rights3.webservices-c ". Druge mogućnosti i usluge se mogu onemogućiti u postavkama programa.">
 
 <!-- safe browsing points for branded builds -->
-<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+
 <!ENTITY rights.safebrowsing-b "Onemogućavanjem Safe Browsing mogućnosti nije preporučljivo zbog mogućeg pristupa nesigurnim stranicama.  Ako želite u potpunosti onemogućiti ovu mogućnost, slijedite ove korake:">
 <!ENTITY rights.safebrowsing-term1 "Otvorite postavke aplikacije">
 <!ENTITY rights.safebrowsing-term2 "Odaberite kategoriju Sigurnost">
@@ -67,7 +67,7 @@
 <!ENTITY rights.locationawarebrowsing-a "Geolokacijsko pretraživanje: ">
 <!ENTITY rights.locationawarebrowsing-b "je uvijek dobrovoljno.  Informacije o lokaciji se nikada ne šalju bez vašeg dopuštenja.  Ako želite u potpunosti onemogućiti ovu mogućnost, slijedite ove korake:">
 <!ENTITY rights.locationawarebrowsing-term1a "U adresnu traku upišite ">
-<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+
 <!ENTITY rights.locationawarebrowsing-term2 "Upišite geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Dvaput kliknite na postavku geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term4 "Geolokacijsko pretraživanje je sada isključeno">
@@ -85,4 +85,4 @@
 <!ENTITY rights.webservices-term4 "Usluge su pružete &quot;kakve jesu&quot;. &vendorShortName;, njegovi razvijatelji, vlasnici licenca i distributeri, poriču sva jamstva, izražena ili podrazumijevana, uključujući bez ograničenja, jamstva da su usluge uporabljive kvalitete i da su primjenjive vašim potrebama. Snosite cijeli rizik odabira Usluga za svoje potrebe i kvalitete i performansi Usluga. Neki entiteti ne dozvoljavaju izizueće ili ograničavanje podrazumijevanih jamstava, pa se ovo odricanje možda ne primjenjuje i na vas.">
 <!ENTITY rights.webservices-term5 "Osim kada to zahtijeva zakon, &vendorShortName;, njegovi razvijatelji, vlasnici licenca i distributeri neće biti odgovorni za nikakvu indirektnu, posebnu, slučajnu, posljedičnu, kaznenu ili primjernu štetu nastalu od ili na bilo koji način povezano uz uporabu &brandShortName; i njegovih Usluge. Ukupna odgovornost pod ovim uvjetima neće prelaziti $500 (pet stotina dolara). Neki entiteti ne dozvoljavaju izizueće ili ograničavanje podrazumijevanih jamstava, pa se ovo odricanje možda ne primjenjuje i na vas.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; može izmijeniti ove uvjete s vremena na vrijeme, ukoliko je to potrebno. Ovi se uvjeti ne mogu promijeniti  ili ukinuti bez pisanog sporazuma s &vendorShortName;.">
-<!ENTITY rights.webservices-term7 "These terms are governed by the laws of Sweden, excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">
+

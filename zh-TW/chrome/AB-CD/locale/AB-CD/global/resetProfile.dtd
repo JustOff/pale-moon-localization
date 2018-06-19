@@ -4,12 +4,12 @@
 
 <!ENTITY refreshProfile.dialog.title         "重新整理 &brandShortName;">
 <!ENTITY refreshProfile.dialog.description1  "為了開始修正問題與恢復應有的效能，現在開始回復原廠設定。">
-<!ENTITY refreshProfile.dialog.description2  "This will:">
+
 <!ENTITY refreshProfile.dialog.items.label1  "刪除附加元件與個人化設定">
-<!ENTITY refreshProfile.dialog.items.label2  "Restore your browser settings to their defaults">
-<!ENTITY refreshProfile.dialog.button.label  "Refresh &brandShortName;">
 
-<!ENTITY refreshProfile.title                "Give &brandShortName; a tune up">
-<!ENTITY refreshProfile.button.label         "Refresh &brandShortName;…">
 
-<!ENTITY refreshProfile.cleaning.description "Almost done…">
+
+
+
+
+

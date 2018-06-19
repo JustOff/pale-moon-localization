@@ -27,5 +27,5 @@
 <!ENTITY            offlineState.label    "ಆಫ್‍ಲೈನ್‍ನಲ್ಲಿ ಕೆಲಸ ಮಾಡು">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            useSelected.label       "Use the selected profile without asking at startup">
-<!ENTITY            useSelected.accesskey   "s">
+
+

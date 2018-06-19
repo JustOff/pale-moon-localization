@@ -5,7 +5,7 @@
 
 <!ENTITY migrationWizard.title          "مرشِد الاستيراد">
 
-<!ENTITY importFrom.label               "Import Preferences, Bookmarks, History, Passwords and other data from:">
+
 <!ENTITY importFromUnix.label           "استورد التّفضيلات، العلامات، التّاريخ، كلمات السرّ و بيانات أخرى من:">
 <!ENTITY importFromBookmarks.label      "استورد العلامات من:">
 

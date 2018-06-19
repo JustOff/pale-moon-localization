@@ -6,20 +6,20 @@
 <!ENTITY window.width                 "47em">
 
 <!ENTITY treehead.sitename.label      "Websted">
-<!ENTITY treehead.status.label        "Status">
+
 <!ENTITY removepermission.label       "Fjern websted">
 <!ENTITY removepermission.accesskey   "F">
 <!ENTITY removeallpermissions.label   "Fjern alle websteder">
 <!ENTITY removeallpermissions.accesskey "a">
 <!ENTITY address.label                "Adresse på websted:">
-<!ENTITY address.accesskey            "d">
+
 <!ENTITY block.label                  "Bloker">
-<!ENTITY block.accesskey              "B">
+
 <!ENTITY session.label                "Tillad for session">
 <!ENTITY session.accesskey            "s">
 <!ENTITY allow.label                  "Tillad">
 <!ENTITY allow.accesskey              "T">
-<!ENTITY windowClose.key              "w">
+
 
 <!ENTITY button.close.label           "Luk">
 <!ENTITY button.close.accesskey       "L">

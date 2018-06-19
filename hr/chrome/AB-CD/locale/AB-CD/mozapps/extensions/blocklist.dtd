@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY blocklist.title             "Dodaci mogu prouzročiti probleme">
-<!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause issues:">
-<!ENTITY blocklist.softblocked       "It is highly recommended, but not required, that you restart with these add-ons disabled.">
+
+
+
 <!ENTITY blocklist.hardblocked       "Ovi dodaci predstavljaju visoki rizik za stabilnost i sigurnost, te su zbog toga blokirani. Međutim, ponovno pokretanje je nužno kako bi u potpunosti bili onemogućeni.">
-<!ENTITY blocklist.softandhard       "Some listed add-ons have a high risk of causing stability or security problems and have been blocked. For the others it is highly recommended, but not required, that you restart with them disabled.">
+
 <!ENTITY blocklist.moreinfo          "Više informacija">
 
 <!ENTITY blocklist.accept.label      "Ponovo pokreni &brandShortName;">
-<!ENTITY blocklist.accept.accesskey  "R">
+
 
 <!ENTITY blocklist.blocked.label     "Blokirano">
 <!ENTITY blocklist.checkbox.label    "Onemogući">

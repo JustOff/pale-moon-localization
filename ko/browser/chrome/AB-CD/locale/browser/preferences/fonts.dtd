@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback.desc        "인코딩 선언이 되어있지 않은 레거시 콘텐츠에 사용할 문자 인코딩입니다.">
 
 <!ENTITY languages.customize.Fallback.auto        "현재 언어의 기본값">
-<!ENTITY languages.customize.Fallback.utf8        "UTF-8">
+
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "아랍어">

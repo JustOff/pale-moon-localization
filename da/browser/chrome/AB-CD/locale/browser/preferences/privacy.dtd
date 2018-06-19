@@ -5,7 +5,7 @@
 <!ENTITY tracking.label                 "Sporing">
 
 <!ENTITY dntTrackingNopref.label2       "Fortæl ikke websteder, om jeg vil spores eller ej">
-<!ENTITY dntTrackingNopref.accesskey    "o">
+
 <!ENTITY dntTrackingNotOkay.label2      "Fortæl websteder, at jeg ikke vil spores">
 <!ENTITY dntTrackingNotOkay.accesskey   "i">
 <!ENTITY dntTrackingOkay.label2         "Fortæl websteder, at jeg gerne vil spores">
@@ -16,24 +16,24 @@
 
 <!ENTITY  locationBar.label             "Adresselinje">
 
-<!ENTITY  locbar.suggest.label          "When using the location bar, suggest:">
+
 <!ENTITY  locbar.history.label          "Historik">
-<!ENTITY  locbar.history.accesskey      "H">
+
 <!ENTITY  locbar.bookmarks.label        "Bogmærker">
-<!ENTITY  locbar.bookmarks.accesskey    "k">
-<!ENTITY  locbar.openpage.label         "Open tabs">
-<!ENTITY  locbar.openpage.accesskey     "O">
+
+
+
 
 <!-- LOCALIZATION NOTE (locbar.pre.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+
 <!-- LOCALIZATION NOTE (locbar.pre.accessKey): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.accessKey          "u">
+
 <!-- LOCALIZATION NOTE (locbar.post.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.post.label             "">
+
 <!-- LOCALIZATION NOTE (locbar.both.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.both.label             "History and Bookmarks">
+
 <!-- LOCALIZATION NOTE (locbar.nothing.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.nothing.label          "Nothing">
+
 
 <!ENTITY  acceptCookies.label           "Accepter cookies fra sider">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -62,7 +62,7 @@
 <!ENTITY  historyHeader.remember.label     "Gemme historik">
 <!ENTITY  historyHeader.dontremember.label "Aldrig gemme historik">
 <!ENTITY  historyHeader.custom.label       "Bruge tilpassede indstillinger for historik">
-<!ENTITY  historyHeader.post.label         "">
+
 
 <!ENTITY  rememberDescription.label      "&brandShortName; vil gemme din browser-, filhentnings-, formular- og søgehistorik, samt gemme cookies fra de websteder, du besøger.">
 
@@ -87,10 +87,10 @@
 <!ENTITY  privateBrowsingPermanent2.accesskey "P">
 
 <!ENTITY  rememberHistory2.label      "Husk min browser- og filhentningshistorik">
-<!ENTITY  rememberHistory2.accesskey  "b">
+
 
 <!ENTITY  rememberSearchForm.label       "Husk formular- og søgehistorik">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+
 
 <!ENTITY  clearOnClose.label             "Ryd historik når &brandShortName; lukkes">
 <!ENTITY  clearOnClose.accesskey         "R">

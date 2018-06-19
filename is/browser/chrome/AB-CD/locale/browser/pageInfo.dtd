@@ -56,7 +56,7 @@
 <!ENTITY  permAskAlways              "Spyrja alltaf">
 <!ENTITY  permAllow                  "Leyfa">
 <!ENTITY  permAllowSession           "Leyfa í þessari vafralotu">
-<!ENTITY  permAllowFirstPartyOnly    "Allow First Party Only">
+
 <!ENTITY  permBlock                  "Loka á">
 <!ENTITY  permissionsFor             "Heimildir fyrir:">
 <!ENTITY  permImage                  "Sækja myndir">

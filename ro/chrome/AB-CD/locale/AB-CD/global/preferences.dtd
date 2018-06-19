@@ -4,6 +4,6 @@
 
 <!ENTITY  windowClose.key                         "w">
 <!ENTITY  preferencesDefaultTitleMac.title        "Preferințe">
-<!ENTITY  preferencesDefaultTitleWin.title        "Preferences">
+
 <!ENTITY  preferencesCloseButton.label            "Închide">
 <!ENTITY  preferencesCloseButton.accesskey        "d">

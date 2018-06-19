@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     props.name.label               "Nomo:">
+<!ENTITY     props.value.label              "Enhavo:">
+
+<!ENTITY     props.path.label               "Vojo:">
+<!ENTITY     props.secure.label             "Sendu ĉe:">
+<!ENTITY     props.expires.label            "Elfluos je:">
+
+<!ENTITY     button.allow.label             "Permesi">
+<!ENTITY     button.allow.accesskey         "A">
+<!ENTITY     button.session.label           "Ebligi por sesio">
+<!ENTITY     button.session.accesskey       "S">
+<!ENTITY     button.deny.label              "Malakcepti">
+<!ENTITY     button.deny.accesskey          "D">
+
+<!ENTITY     dialog.title                   "Konfirmi agordadon de keksoj">
+<!ENTITY     dialog.remember.label          "Uzi por ĉiuj keksoj en tiu retejo">
+<!ENTITY     dialog.remember.accesskey      "U">

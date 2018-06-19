@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  addons.label                  "Add-ons">
+
 
 <!ENTITY  warnAddonInstall.label        "Vara við þegar vefsvæði reynir að setja inn viðbætur">
 <!ENTITY  warnAddonInstall.accesskey    "V">
@@ -23,11 +23,11 @@
 <!ENTITY  addonExceptions.label         "Undanþágur…">
 <!ENTITY  addonExceptions.accesskey     "U">
 
-<!ENTITY  addonSecuritylevel            "Add-on security level:">
-<!ENTITY  addonSecurityLevel_Off        "Off: No add-ons will be blocked (dangerous)">
-<!ENTITY  addonSecurityLevel_Low        "Low: Block only add-ons with severe security and stability issues">
-<!ENTITY  addonSecurityLevel_High       "Medium: Block all harmful add-ons (default, recommended)">
-<!ENTITY  addonSecurityLevel_Extreme    "High: Block all add-ons with known issues">
+
+
+
+
+
 
 <!ENTITY  passwords.label               "Lykilorð">
 
@@ -36,8 +36,8 @@
 <!ENTITY  passwordExceptions.label      "Undanþágur…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 
-<!ENTITY  autofillPasswords.label       "Automatically fill in log-in details">
-<!ENTITY  autofillPasswords.accesskey   "A">
+
+
 
 <!ENTITY  useMasterPassword.label        "Nota aðallykilorð">
 <!ENTITY  useMasterPassword.accesskey    "o">
@@ -47,11 +47,11 @@
 <!ENTITY  savedPasswords.label            "Vistuð lykilorð…">
 <!ENTITY  savedPasswords.accesskey        "l">
 
-<!ENTITY  SecProto.label             "Security Protocols">
-<!ENTITY  enableHSTS.label           "Enable Strict Transport Security (HSTS)">
-<!ENTITY  enableHSTS.accesskey       "S">
-<!ENTITY  enableHPKP.label           "Enable Certificate Key Pinning (HPKP)">
-<!ENTITY  enableHPKP.accesskey       "C">
+
+
+
+
+
 
 <!ENTITY  XSSFilt.label              "XSS Filter">
 <!ENTITY  enableXSSFilt.label        "Enable XSS filter">

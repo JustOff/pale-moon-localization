@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "Mọi thứ">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+
 <!ENTITY clearTimeDuration.dateColumn     "Ngày Xem">
 <!ENTITY clearTimeDuration.nameColumn     "Tên">
 
@@ -44,8 +44,8 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "m">
 <!ENTITY itemOfflineApps.label             "Dữ liệu Trang web Ngoại tuyến">
 <!ENTITY itemOfflineApps.accesskey         "o">
-<!ENTITY itemConnectivityData.label        "Site Connectivity Data">
-<!ENTITY itemConnectivityData.accesskey    "N">
+
+
 <!ENTITY itemActiveLogins.label            "Đăng nhập đang Hoạt động">
 <!ENTITY itemActiveLogins.accesskey        "H">
 <!ENTITY itemSitePreferences.label         "Tùy chỉnh cho Site">

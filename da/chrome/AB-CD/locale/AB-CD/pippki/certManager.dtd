@@ -17,14 +17,14 @@
 <!ENTITY certmgr.orphans                      "Du har certifikater liggende, som ikke passer ind i nogen anden kategori:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Generelt">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
+
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detaljer">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+
 
 <!ENTITY certmgr.pending.label                "Verificerer certifikat…">
 <!ENTITY certmgr.subjectinfo.label            "Udstedt til">
 <!ENTITY certmgr.issuerinfo.label             "Udstedt af">
-<!ENTITY certmgr.periodofvalidity.label       "Period of Validity" >
+
 <!ENTITY certmgr.fingerprints.label           "Fingeraftryk">
 <!ENTITY certmgr.certdetail.title             "Certifikatdetalje">
 <!ENTITY certmgr.certdetail.cn                "Normalt Navn (CN)">
@@ -47,10 +47,10 @@
 <!ENTITY certmgr.deletecert.title             "Slet certifikat">
 
 <!ENTITY certmgr.certname                     "Certifikatnavn">
-<!ENTITY certmgr.certserver                   "Server">
+
 <!ENTITY certmgr.override_lifetime            "Levetid">
 <!ENTITY certmgr.tokenname                    "Sikkerhedsenhed">
-<!ENTITY certmgr.begins                       "Begins On">
+
 <!ENTITY certmgr.expires                      "Udløber den">
 <!ENTITY certmgr.email                        "Mailadresse">
 <!ENTITY certmgr.serial                       "Serienummer">
@@ -58,11 +58,11 @@
 <!ENTITY certmgr.close.label                  "Luk">
 <!ENTITY certmgr.close.accesskey              "L">
 <!ENTITY certmgr.view2.label                  "Vis…">
-<!ENTITY certmgr.view2.accesskey              "V">
+
 <!ENTITY certmgr.edit3.label                  "Rediger tillid…">
 <!ENTITY certmgr.edit3.accesskey              "R">
 <!ENTITY certmgr.editca.label                 "Rediger CA-tillid">
-<!ENTITY certmgr.editca.accesskey             "d">
+
 <!ENTITY certmgr.export.label                 "Eksporter…">
 <!ENTITY certmgr.export.accesskey             "E">
 <!ENTITY certmgr.delete2.label                "Slet…">
@@ -80,7 +80,7 @@
 <!ENTITY certmgr.fields.label                 "Feltværdi">
 <!ENTITY certmgr.fields.accesskey             "e">
 <!ENTITY certmgr.hierarchy.label              "Certifikathierarki">
-<!ENTITY certmgr.hierarchy.accesskey2         "H">
+
 <!ENTITY certmgr.addException.label           "Tilføj undtagelse…">
 <!ENTITY certmgr.addException.accesskey       "U">
 
@@ -88,12 +88,12 @@
 <!ENTITY exceptionMgr.exceptionButton.label   "Bekræft sikkerhedsundtagelse">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "B">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitime banker, forretninger og andre offentlige websteder vil ikke bede dig om at gøre dette.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Server">
+
 <!ENTITY exceptionMgr.certlocation.url        "Adresse:">
 <!ENTITY exceptionMgr.certlocation.download   "Hent certifikat">
 <!ENTITY exceptionMgr.certlocation.accesskey  "H">
 <!ENTITY exceptionMgr.certstatus.caption      "Certifikatstatus">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Vis…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "V">
+
 <!ENTITY exceptionMgr.permanent.label         "Gem denne undtagelse permanent">
 <!ENTITY exceptionMgr.permanent.accesskey     "p">

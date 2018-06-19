@@ -11,10 +11,10 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Povezivanje nije moguće">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
 
 <!ENTITY deniedPortAccess.title "Port je ograničen radi sigurnosnih razloga">
-<!ENTITY deniedPortAccess.longDesc "<p>The requested address specified a port (e.g. <q>palemoon.org:25</q> for port 25 on palemoon.org) normally used for purposes <em>other</em> than Web browsing. The browser has canceled the request for your protection and security.</p>">
+
 
 <!ENTITY dnsNotFound.title "Adresa nije pronađena">
 <!ENTITY dnsNotFound.longDesc "
@@ -37,7 +37,7 @@
 <!ENTITY malformedURI.longDesc "<p>Dana adresa nije u prepoznatljivom formatu. Molim vas provjerite lokacijsku traku za pogreške i pokušajte ponovno.</p>">
 
 <!ENTITY netInterrupt.title "Podatkovni prijenos je prekinut">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
 
 <!ENTITY notCached.title "Dokument je istekao">
 <!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName;ovoj priručnoj memoriji.</p><ul><li>. Radi mjere sigurnosti, &brandShortName; neće automatski ponovno zatražiti osjetljive dokumente.</li><li>Kliknite na Pokušaj ponovno da biste zatražili dokument od web stranice.</li></ul>">
@@ -64,17 +64,13 @@
 ">
 
 <!ENTITY netReset.title "Veza je prekinuta">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
 
 <!ENTITY netTimeout.title "Vezi je isteklo vrijeme">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "The address wasn't understood">
-<!ENTITY unknownProtocolFound.longDesc "
-<ul>
-  <li>You might need to install other software to open this address.</li>
-</ul>
-">
+
+
+
 
 <!ENTITY proxyConnectFailure.title "Proxy poslužitelj odbio vezu">
 <!ENTITY proxyConnectFailure.longDesc "<p>Preglednik je podešen za korištenje proxy poslužitelja, no proxy je odbio vezu.</p><ul><li>Jesu li proxy postavke u pregledniku ispravne? Provjerite postavke i pokušajte ponovno.</li><li>Dopušta li proxy servis veze iz ove mreže?</li><li>Još uvijek imate problema? Konzultirajte se sa svojim mrežnim administratorom ili pružateljem internet usluga za pomoć.</li></ul>">
@@ -94,12 +90,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Stranica je odgovorila na mrežni zahtjev na neočekivan način, stoga preglednik ne može nastaviti.</p>">
 
 <!ENTITY nssFailure2.title "Neuspjeh otvaranja sigurne veze">
-<!ENTITY nssFailure2.longDesc2 "
-<ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+
 
 <!ENTITY nssBadCert.title "Neuspjeh otvaranja sigurne veze">
 <!ENTITY nssBadCert.longDesc2 "
@@ -123,10 +114,7 @@ može biti privremena, pa možete pokušati ponovno kasnije.</li>
 ">
 
 <!ENTITY malwareBlocked.title "Potencijalno zloćudna stranica!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='https://www.stopbadware.org/request-review' >request a review</a>.</p>
-">
+
 
 <!ENTITY phishingBlocked.title "Potencijalna web krivotvorina!">
 <!ENTITY phishingBlocked.longDesc "
@@ -134,19 +122,11 @@ može biti privremena, pa možete pokušati ponovno kasnije.</li>
 <p>Ovakve se vrste web krivotvorina koriste u prijevarama poznatim kao lažno predstavljanje, u kojima se koriste stranice i adrese e-pošte vrlo sličnima izvorima kojima vjerujete.</p>
 ">
 
-<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<!ENTITY xssBlockMode.title "Blocked by XSS Filter">
-<!ENTITY xssBlockMode.longDesc "
-<ul>
-  <li>&brandShortName; blocked further actions on this page, because it contains 
-    injected JavaScript code.</li>
-  <li>Loading of this page has been suspended because of either the explicit request
-    by the website to block this page in case of XSS attacks, or because &brandShortName;
-    has been configured to block pages in that situation.</li>
-</ul>
-">
+
+
+
+
 
 <!ENTITY corruptedContentError.title "Greška oštećenog sadržajaCorrupted Content Error">
 <!ENTITY corruptedContentError.longDesc "<p>Stranicu kojoj pokušavate pristupiti nije moguće prikazati zbog greške u prijenosu podataka.</p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
@@ -183,5 +163,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Nije moguće sigurno povezivanje">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.longDesc "Advanced info: ssl_error_unsupported_version">
+
 <!ENTITY sslv3Used.learnMore "Saznaj više…">

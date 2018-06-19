@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "التأريخ كله">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+
 <!ENTITY clearTimeDuration.dateColumn     "تاريخ الزيارة">
 <!ENTITY clearTimeDuration.nameColumn     "الاسم">
 
@@ -44,8 +44,8 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "ة">
 <!ENTITY itemOfflineApps.label             "بيانات المواقع للعمل دون اتصال">
 <!ENTITY itemOfflineApps.accesskey         "ب">
-<!ENTITY itemConnectivityData.label        "Site Connectivity Data">
-<!ENTITY itemConnectivityData.accesskey    "N">
+
+
 <!ENTITY itemActiveLogins.label            "تسجيلات الدخول النشِطة">
 <!ENTITY itemActiveLogins.accesskey        "ش">
 <!ENTITY itemSitePreferences.label         "تفضيلات الموقع">

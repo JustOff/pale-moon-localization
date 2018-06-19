@@ -4,10 +4,10 @@
 
 <!ENTITY blocklist.title             "Viðbætur gætu verið að valda vandræðum">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause issues:">
-<!ENTITY blocklist.softblocked       "It is highly recommended, but not required, that you restart with these add-ons disabled.">
+
+
 <!ENTITY blocklist.hardblocked       "Miklar líkur eru á að þessar viðbætur valdi hruni eða öryggisvandamálum og hafa þær því verið gerðar óvirkar, en til þess að gera þær alveg óvirkar er nauðsynlegt að endurræsa.">
-<!ENTITY blocklist.softandhard       "Some listed add-ons have a high risk of causing stability or security problems and have been blocked. For the others it is highly recommended, but not required, that you restart with them disabled.">
+
 <!ENTITY blocklist.moreinfo          "Meiri upplýsingar">
 
 <!ENTITY blocklist.accept.label      "Endurræsa &brandShortName;">

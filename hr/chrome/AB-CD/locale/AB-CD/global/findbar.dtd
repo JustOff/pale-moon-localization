@@ -9,12 +9,12 @@
 <!ENTITY next.accesskey "d">
 <!ENTITY next.tooltip "Pronađi iduće javljanje ovog izraza">
 <!ENTITY previous.label "Prethodno">
-<!ENTITY previous.accesskey "P">
+
 <!ENTITY previous.tooltip "Pronađi prethodno javljanje ovog izraza">
 <!ENTITY findCloseButton.tooltip "Zatvori traku pretraživanja">
-<!ENTITY highlightAll.label "Highlight All">
-<!ENTITY highlightAll.accesskey "a">
-<!ENTITY highlightAll.tooltiptext "Highlight all occurrences of the phrase">
-<!ENTITY caseSensitive.label "Match Case">
-<!ENTITY caseSensitive.accesskey "c">
-<!ENTITY caseSensitive.tooltiptext "Search with case sensitivity">
+
+
+
+
+
+

@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "附加元件管理員">
 
 <!ENTITY search.placeholder                   "搜尋所有附加元件">
-<!ENTITY search.buttonlabel                   "Search">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -102,7 +102,7 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "移除">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "Debug">
+
 <!ENTITY cmd.showPreferencesWin.label         "選項">
 <!ENTITY cmd.showPreferencesWin.tooltip       "修改此附加元件的選項">
 <!ENTITY cmd.showPreferencesUnix.label        "偏好設定">
@@ -209,14 +209,14 @@
 <!ENTITY addon.loadingReleaseNotes.label      "載入中…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "抱歉，載入新鮮事時發生錯誤。">
 
-<!ENTITY addon.nativeAddon                    "This add-on directly targets Pale Moon">
-<!ENTITY addon.compatAddon                    "This add-on targets Mozilla Firefox and runs in compatibility mode">
+
+
 
 <!ENTITY addon.createdBy.label                "作者：">
 
 <!ENTITY eula.title                           "終端使用者授權合約">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
+
+
 <!ENTITY eula.accept                          "接受並安裝…">
 
 <!ENTITY settings.path.button.label           "瀏覽…">
@@ -226,10 +226,10 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "What's this? Telemetry may install and run experiments from time to time.">
-<!ENTITY experiment.info.learnmore "Learn More">
+
+
 <!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Telemetry Settings">
+
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY setting.learnmore "Learn More…">
+

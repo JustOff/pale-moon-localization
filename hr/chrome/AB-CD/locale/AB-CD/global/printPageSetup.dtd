@@ -8,7 +8,7 @@
 
 <!ENTITY basic.tab           "Format &amp; Opcije">
 
-<!ENTITY formatGroup.label   "Format">
+
 
 <!ENTITY orientation.label   "Orijentacija:">
 <!ENTITY portrait.label      "Uspravno">
@@ -18,7 +18,7 @@
 
 <!ENTITY scale.label         "Omjer:">
 <!ENTITY scale.accesskey     "O">
-<!ENTITY scalePercent        "&#37;">
+
 
 <!ENTITY shrinkToFit.label   "Smanji da pristaje širini stranice">
 <!ENTITY shrinkToFit.accesskey "š">
@@ -26,7 +26,7 @@
 <!ENTITY optionsGroup.label  "Mogućnosti">
 
 <!ENTITY printBG.label       "Ispiši pozadinu (boje &amp; slike)">
-<!ENTITY printBG.accesskey   "B">
+
 
 <!ENTITY advanced.tab        "Margine &amp; Zaglavlje/Podnožje">
 
@@ -38,7 +38,7 @@
 <!ENTITY marginBottom.label  "Dno:">
 <!ENTITY marginBottom.accesskey "D">
 <!ENTITY marginLeft.label    "Lijevo:">
-<!ENTITY marginLeft.accesskey "L">
+
 <!ENTITY marginRight.label   "Desno:">
 <!ENTITY marginRight.accesskey "D">
 
@@ -55,7 +55,7 @@
 <!ENTITY footerRight.tip     "Podnožje desno">
 
 <!ENTITY hfTitle             "Naslov">
-<!ENTITY hfURL               "URL">
+
 <!ENTITY hfDateAndTime       "Datum/Vrijeme">
 <!ENTITY hfPage              "Stranica #">
 <!ENTITY hfPageAndTotal      "Stranica # od #">

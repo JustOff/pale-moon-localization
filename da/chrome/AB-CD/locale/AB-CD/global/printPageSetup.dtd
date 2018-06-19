@@ -12,13 +12,13 @@
 
 <!ENTITY orientation.label   "Orientering:">
 <!ENTITY portrait.label      "Portræt">
-<!ENTITY portrait.accesskey  "P">
+
 <!ENTITY landscape.label     "Landskab">
-<!ENTITY landscape.accesskey "L">
+
 
 <!ENTITY scale.label         "Skaler:">
-<!ENTITY scale.accesskey     "S">
-<!ENTITY scalePercent        "&#37;">
+
+
 
 <!ENTITY shrinkToFit.label   "Tilpas til sidebredden">
 <!ENTITY shrinkToFit.accesskey "i">
@@ -34,9 +34,9 @@
 <!ENTITY marginUnits.inches  "tommer">
 <!ENTITY marginUnits.metric  "millimeter">
 <!ENTITY marginTop.label     "Top">
-<!ENTITY marginTop.accesskey "T">
+
 <!ENTITY marginBottom.label  "Bund">
-<!ENTITY marginBottom.accesskey "B">
+
 <!ENTITY marginLeft.label    "Venstre">
 <!ENTITY marginLeft.accesskey "V">
 <!ENTITY marginRight.label   "Højre">
@@ -59,7 +59,7 @@
 <!ENTITY hfDateAndTime       "Dato/Tid">
 <!ENTITY hfPage              "Side #">
 <!ENTITY hfPageAndTotal      "Side # af #">
-<!ENTITY hfBlank             "--blank--">
+
 <!ENTITY hfCustom            "Brugerdefineret…">
 
 <!ENTITY customPrompt.title  "Brugerdefineret…">

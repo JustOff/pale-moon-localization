@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback.desc        "Ova kôdna stranica se koristi za zastarjeli sadržaj, koji ne može definirati vlastitu kôdnu stranicu.">
 
 <!ENTITY languages.customize.Fallback.auto        "Zadano za trenutni jezik">
-<!ENTITY languages.customize.Fallback.utf8        "UTF-8">
+
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arapski">

@@ -4,10 +4,10 @@
 <!ENTITY addons.windowTitle                   "Upravitelj dodacima">
 
 <!ENTITY search.placeholder                   "Pretraži sve dodatke">
-<!ENTITY search.buttonlabel                   "Search">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
+
 
 <!ENTITY loading.label                        "Učitavanje…">
 <!ENTITY listEmpty.installed.label            "Nemate instaliran nijedan dodatak ove vrste">
@@ -17,7 +17,7 @@
 <!ENTITY listEmpty.search.label               "Nisu pronađeni dodaci koji se podudaraju">
 <!ENTITY listEmpty.button.label               "Saznajte više o dodacima">
 <!ENTITY installAddonFromFile.label           "Instaliraj dodatak iz datoteke…">
-<!ENTITY installAddonFromFile.accesskey       "I">
+
 <!ENTITY toolsMenu.tooltip                    "Alati za sve dodatke">
 
 <!ENTITY cmd.back.tooltip                     "Povratak na prethodnu stranicu">
@@ -99,10 +99,10 @@
 <!ENTITY cmd.neverActivate.tooltip            "Nikada ne koristi ovaj dodatak">
 <!ENTITY cmd.stateMenu.tooltip                "Promijeni kada se ovaj dodatak pokreće">
 <!ENTITY cmd.installAddon.label               "Instaliraj">
-<!ENTITY cmd.installAddon.accesskey           "I">
+
 <!ENTITY cmd.uninstallAddon.label             "Ukloni">
 <!ENTITY cmd.uninstallAddon.accesskey         "U">
-<!ENTITY cmd.debugAddon.label                 "Debug">
+
 <!ENTITY cmd.showPreferencesWin.label         "Mogućnosti">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Promijeni mogućnosti ovog dodatka">
 <!ENTITY cmd.showPreferencesUnix.label        "Osobitosti">
@@ -150,7 +150,7 @@
 <!ENTITY detail.checkForUpdates.accesskey     "r">
 <!ENTITY detail.checkForUpdates.tooltip       "Provjeri dostupnost dopuna za ovaj dodatak">
 <!ENTITY detail.showPreferencesWin.label      "Mogućnosti">
-<!ENTITY detail.showPreferencesWin.accesskey  "O">
+
 <!ENTITY detail.showPreferencesWin.tooltip    "Promijenite mogućnosti ovog dodatka">
 <!ENTITY detail.showPreferencesUnix.label     "Osobitosti">
 <!ENTITY detail.showPreferencesUnix.accesskey "t">
@@ -210,14 +210,14 @@
 <!ENTITY addon.loadingReleaseNotes.label      "Učitavanje…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Došlo je do greške pri učitavanju bilješki izdanja.">
 
-<!ENTITY addon.nativeAddon                    "This add-on directly targets Pale Moon">
-<!ENTITY addon.compatAddon                    "This add-on targets Mozilla Firefox and runs in compatibility mode">
+
+
 
 <!ENTITY addon.createdBy.label                "Od ">
 
 <!ENTITY eula.title                           "Licenčni ugovor za krajnjeg korisnika">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
+
+
 <!ENTITY eula.accept                          "Prihvati i instaliraj…">
 
 <!ENTITY settings.path.button.label           "Pretraži…">
@@ -227,10 +227,10 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "What's this? Telemetry may install and run experiments from time to time.">
-<!ENTITY experiment.info.learnmore "Learn More">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Telemetry Settings">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY setting.learnmore "Learn More…">
+
+
+
+
+
+

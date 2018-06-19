@@ -8,25 +8,25 @@
 
 <!ENTITY status4evar.tab.general "Umum">
 <!ENTITY status4evar.tab.toolbar "Status bar">
-<!ENTITY status4evar.tab.urlbar "Address Bar">
+
 <!ENTITY status4evar.tab.popup "Muncul">
 <!ENTITY status4evar.tab.tabs "Tab">
 
 <!ENTITY status4evar.option.none "Tak satupun">
 <!ENTITY status4evar.option.nothing "Tidak ada">
 <!ENTITY status4evar.option.toolbar "Status bar">
-<!ENTITY status4evar.option.urlbar "Address Bar">
+
 <!ENTITY status4evar.option.popup "Muncul">
 <!ENTITY status4evar.option.tooltip "Keterangan alat">
 <!ENTITY status4evar.option.bottom "Bawah">
 <!ENTITY status4evar.option.top "Puncak">
-<!ENTITY status4evar.option.fill "Fill">
+
 <!ENTITY status4evar.option.dlcount "Jumlah mengunduh">
 <!ENTITY status4evar.option.dltime "Waktu yang tersisa">
 <!ENTITY status4evar.option.both "Kedua">
 <!ENTITY status4evar.option.right "Kanan">
 <!ENTITY status4evar.option.left "Kiri">
-<!ENTITY status4evar.option.fixed "Fixed">
+
 <!ENTITY status4evar.option.simple "Sederhana">
 <!ENTITY status4evar.option.advanced "Maju">
 <!ENTITY status4evar.option.browse "Jelajahi">
@@ -61,10 +61,10 @@
 
 <!ENTITY status4evar.status.toolbar.maxLength.label "Panjang teks status maksimal:">
 
-<!ENTITY status4evar.status.urlbar.align.label "Status alignment:">
-<!ENTITY status4evar.status.urlbar.color.label "Status color:">
-<!ENTITY status4evar.status.currentUrl "Current Location">
-<!ENTITY status4evar.status.statusText "Status Text">
+
+
+
+
 
 <!ENTITY status4evar.status.urlbar.firefox.builtin.caption "Fitur kompatibilitas Firefox">
 <!ENTITY browser.urlbar.formatting.enabled.label "Aktifkan penyorotan domain">
@@ -75,8 +75,8 @@
 
 <!ENTITY status4evar.progress.style.label "Gunakan gaya khusus">
 
-<!ENTITY status4evar.progress.urlbar.enable.label "Show progress in the Address Bar">
-<!ENTITY status4evar.progress.urlbar.line.label "Line style:">
+
+
 
 <!ENTITY status4evar.progress.toolbar.force.label "Selalu tampilkan progress meter">
 
@@ -107,10 +107,10 @@
 <!ENTITY status4evar.addonbar.windowGripper "Tunjukkan jendela re-size gripper">
 <!ENTITY status4evar.addonbar.closeButton "Tampilkan tombol tutup">
 
-<!ENTITY status4evar.advanced.warning "These advanced settings may cause issues with Pale Moon or other extensions. Modify at your own risk.">
 
-<!ENTITY status4evar.advanced.urlbar.forceBinding "Attempt to force the Address Bar XBL binding.">
-<!ENTITY status4evar.advanced.urlbar.forceBinding.desc "Only select this if you have problems with the Address Bar progress or status text being displaying correctly. This will potentially break other extensions that try to set an XBL binding on the Address Bar.">
+
+
+
 
 <!ENTITY status4evar.advanced.status.detectFullScreen "Deteksi mode layar penuh dan tampilkan link / status dengan tepat.">
 <!ENTITY status4evar.advanced.status.detectVideo "Sembunyikan status popup di video HTML5 layar penuh.">

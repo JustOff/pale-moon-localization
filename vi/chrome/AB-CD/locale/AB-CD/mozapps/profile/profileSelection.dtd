@@ -27,5 +27,5 @@
 <!ENTITY            offlineState.label    "Làm việc ngoại tuyến">
 <!ENTITY            offlineState.accesskey "v">
 
-<!ENTITY            useSelected.label       "Use the selected profile without asking at startup">
-<!ENTITY            useSelected.accesskey   "s">
+
+

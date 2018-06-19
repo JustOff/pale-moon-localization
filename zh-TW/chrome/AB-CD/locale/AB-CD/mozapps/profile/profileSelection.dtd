@@ -27,5 +27,5 @@
 <!ENTITY            offlineState.label    "離線模式">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            useSelected.label       "Use the selected profile without asking at startup">
+
 <!ENTITY            useSelected.accesskey   "s">

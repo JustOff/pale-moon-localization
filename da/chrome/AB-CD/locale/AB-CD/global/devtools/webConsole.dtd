@@ -32,7 +32,7 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 <!ENTITY saveBodies.label     "Logfør request og response bodies">
-<!ENTITY saveBodies.accesskey "L">
+
 
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
@@ -43,21 +43,21 @@
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
-<!ENTITY btnPageNet.label   "Net">
+
 <!ENTITY btnPageNet.tooltip "Logfør netværksaktivitet">
-<!ENTITY btnPageNet.accesskey "N">
+
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
-<!ENTITY btnPageNet.accesskeyMacOSX "t">
-<!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip2 "Log CSS errors and warnings">
-<!ENTITY btnPageCSS.accesskey "C">
-<!ENTITY btnPageJS.label    "JS">
+
+
+
+
+
 <!ENTITY btnPageJS.tooltip  "Logfør JavaScript-undtagelser">
-<!ENTITY btnPageJS.accesskey  "J">
+
 <!ENTITY btnPageSecurity.label "Sikkerhed">
 <!ENTITY btnPageSecurity.tooltip "Logfør sikkerhedsfejl og -advarsler">
 <!ENTITY btnPageSecurity.accesskey "S">
@@ -68,13 +68,13 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Logning">
 <!ENTITY btnPageLogging.tooltip "Logfør beskeder sendt til window.console-objektet">
-<!ENTITY btnPageLogging.accesskey3 "L">
+
 <!ENTITY btnConsoleErrors       "Fejl">
-<!ENTITY btnConsoleInfo         "Info">
+
 <!ENTITY btnConsoleWarnings     "Advarsler">
-<!ENTITY btnConsoleLog          "Log">
+
 <!ENTITY btnConsoleXhr          "XHR">
-<!ENTITY btnConsoleReflows      "Reflows">
+
 
 <!ENTITY filterOutput.placeholder "Filtrer output">
 <!ENTITY btnClear.label        "Ryd">
@@ -83,17 +83,17 @@
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+
 
 <!ENTITY copyURLCmd.label     "Kopier linkadresse">
-<!ENTITY copyURLCmd.accesskey "a">
 
-<!ENTITY closeCmd.key         "W">
-<!ENTITY findCmd.key          "F">
-<!ENTITY clearOutputCtrl.key  "L">
+
+
+
+

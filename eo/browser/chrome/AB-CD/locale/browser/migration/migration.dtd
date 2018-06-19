@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY migrationWizard.title          "Instala Asistanto">
+
+<!ENTITY importFrom.label               "Importi Agordojn, Paĝosignojn, Historion, Pasvortojn kaj aliajn datumojn de:">
+<!ENTITY importFromUnix.label           "Importi Agordojn, Paĝosignojn, Historion, Pasvortojn kaj aliajn datumojn de:">
+<!ENTITY importFromBookmarks.label      "Importi Paĝosignojn de:">
+
+<!ENTITY importFromIE.label             "Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromNothing.label        "Ne import ion ajn">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "X">
+
+<!ENTITY noMigrationSources.label       "Neniu programaro kiu enhavas paĝosignojn, historion aŭ pasvortajn datumojn povis esti trovita.">
+
+<!ENTITY importSource.title             "Importi Agordojn kaj Datumojn">
+<!ENTITY importItems.title              "Ero por importi">
+<!ENTITY importItems.label              "Elekti kiujn erojn por importi:">
+
+<!ENTITY migrating.title                "Importante…">
+<!ENTITY migrating.label                "La sekvantaj eroj estas nune importataj…">
+
+<!ENTITY selectProfile.title            "Elekti Profilon">
+<!ENTITY selectProfile.label            "La sekvantaj profiloj estas disponeblaj por import el:">
+
+<!ENTITY done.title                     "Importo estas kompletita">
+<!ENTITY done.label                     "La sekvantaj eroj estis sukcese importita:">
+

@@ -5,8 +5,8 @@
 <!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
 close to the golden ratio (1.618:1) while making sure it's wide enough for long
 file names and tall enough to hint that there are more downloads in the list -->
-<!ENTITY window.width2                    "485">
-<!ENTITY window.height                    "300"> 
+
+ 
 
 <!ENTITY starting.label                   "Krećem...">
 <!ENTITY scanning.label                   "Traženje virusa…">
@@ -14,7 +14,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY downloads.title                  "Preuzimanja">
 
 <!ENTITY cmd.pause.label                  "Pauziraj">
-<!ENTITY cmd.pause.accesskey              "P">
+
 <!ENTITY cmd.resume.label                 "Nastavi">
 <!ENTITY cmd.resume.accesskey             "N">
 <!ENTITY cmd.cancel.label                 "Otkaži">
@@ -22,9 +22,9 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.show.label                   "Otvori direktorij preuzimanja">
 <!ENTITY cmd.show.accesskey               "t">
 <!ENTITY cmd.showMac.label                "Prikaži u Finderu">
-<!ENTITY cmd.showMac.accesskey            "F">
+
 <!ENTITY cmd.open.label                   "Otvori">
-<!ENTITY cmd.open.accesskey               "O">
+
 <!ENTITY cmd.openWith.label               "Otvori s...">
 <!ENTITY cmd.openWith.accesskey           "s">
 <!ENTITY cmd.retry.label                  "Pokušaj ponovno">
@@ -36,14 +36,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.removeFromList.label         "Ukloni s popisa">
 <!ENTITY cmd.removeFromList.accesskey     "U">
 
-<!ENTITY cmd.close.commandKey             "w">
-<!ENTITY cmd.close2.commandKey            "j">
-<!ENTITY cmd.close2Unix.commandKey        "y">
+
+
+
 <!ENTITY cmd.clearList.label              "Očisti popis">
 <!ENTITY cmd.clearList.tooltip            "Uklanja završena, prekinuta i neuspjela preuzimanja s popisa">
 <!ENTITY cmd.clearList.accesskey          "č">
-<!ENTITY cmd.find.commandKey              "f">
-<!ENTITY cmd.search.commandKey            "k">
+
+
 
 <!ENTITY closeWhenDone.label              "Zatvori kada sva preuzimanja završe">
 <!ENTITY closeWhenDone.tooltip            "Zatvara prozor preuzimanja kad se dovrši preuzimanje svih datoteka">

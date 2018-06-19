@@ -29,7 +29,7 @@
 <!-- LOCALIZATION NOTE (locbar.pre.accessKey): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
 <!ENTITY  locbar.pre.accessKey          "u">
 <!-- LOCALIZATION NOTE (locbar.post.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.post.label             "">
+
 <!-- LOCALIZATION NOTE (locbar.both.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
 <!ENTITY  locbar.both.label             "Kasaysayan at mga Bookmark">
 <!-- LOCALIZATION NOTE (locbar.nothing.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
@@ -62,7 +62,7 @@
 <!ENTITY  historyHeader.remember.label     "Tandaan ang kasaysayan">
 <!ENTITY  historyHeader.dontremember.label "Huwag tandaan ang kasaysayan">
 <!ENTITY  historyHeader.custom.label       "Gumamit ng mga custom setting para sa kasaysayan">
-<!ENTITY  historyHeader.post.label         "">
+
 
 <!ENTITY  rememberDescription.label      "Tatandaan ng &brandShortName; ang iyong pagba-browse, pag-download, kasaysayan sa form at paghahanap, at pananatilihin ang mga cookie mula sa mga website na iyong binisita.">
 

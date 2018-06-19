@@ -24,11 +24,11 @@
 <!ENTITY saveButton.tooltip         "將此樣式表另存為檔案">
 <!ENTITY saveButton.accesskey       "S">
 
-<!ENTITY optionsButton.tooltip      "Style Editor options">
+
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.label     "Show original sources">
+
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
      the menu item to toggle showing original sources in the editor. -->
@@ -36,7 +36,7 @@
 
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
-<!ENTITY showMediaSidebar.label     "Show @media sidebar">
+
 
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
      the menu item to toggle showing the @media sidebar. -->
@@ -44,7 +44,7 @@
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
-<!ENTITY mediaRules.label           "@media rules">
+
 
 <!ENTITY editorTextbox.placeholder  "在此輸入 CSS。">
 
@@ -60,4 +60,4 @@
      link that triggers creation of a new stylesheet. -->
 <!ENTITY noStyleSheet-tip-action.label "附加全新的樣式表">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
-<!ENTITY noStyleSheet-tip-end.label    "?">
+

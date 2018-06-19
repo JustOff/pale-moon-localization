@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback.desc        "Denne tegnkodning bruges for indhold, som mangler en erklæring om tegnkodning.">
 
 <!ENTITY languages.customize.Fallback.auto        "Standard for aktuel lokation">
-<!ENTITY languages.customize.Fallback.utf8        "UTF-8">
+
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arabisk">

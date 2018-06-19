@@ -67,8 +67,8 @@ can reach it easily. -->
 <!ENTITY goOfflineCmd.label "Vinna án nettengingar">
 <!ENTITY goOfflineCmd.accesskey "g">
 
-<!ENTITY restartCmd.label "Restart…">
-<!ENTITY restartCmd.accesskey "R">
+
+
 
 <!ENTITY menubarCmd.label "Valmyndaslá">
 <!ENTITY menubarCmd.accesskey "V">
@@ -79,8 +79,8 @@ can reach it easily. -->
 <!ENTITY bookmarksToolbarItem.label "Hlutir í bókamerkjaslá">
 <!ENTITY addonBarCmd.label "Viðbótarslá">
 <!ENTITY addonBarCmd.accesskey "a">
-<!ENTITY statusBar.label               "Status Bar">
-<!ENTITY statusBar.accesskey           "S">
+
+
 
 <!ENTITY pageSourceCmd.label "Frumkóði síðu">
 <!ENTITY pageSourceCmd.accesskey "k">
@@ -127,7 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Gerast áskrifandi að þessari síðu…">
 <!ENTITY addCurPagesCmd.label "Setja flipa í bókamerki…">
 <!ENTITY showAllBookmarks2.label "Sýna öll bókamerki">
-<!ENTITY organizeBookmarks.label "Organize Bookmarks">
+
 <!ENTITY unsortedBookmarksCmd.label "Óröðuð bókamerki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sýna fleiri bókamerki">
 
@@ -199,8 +199,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Viðbætur">
 <!ENTITY addons.accesskey             "i">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY permissions.label            "Permissions">
-<!ENTITY permissions.accesskey        "m">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Vefforritari">
 <!ENTITY webDeveloperMenu.accesskey   "f">
@@ -224,8 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "r">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-<!ENTITY eyedropper.label   "Eyedropper">
-<!ENTITY eyedropper.accesskey "Y">
+
+
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -249,10 +249,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Loka tækjaslá forritara">
 <!ENTITY devToolbarMenu.label              "Tækjaslá forritara">
 <!ENTITY devToolbarMenu.accesskey          "f">
-<!ENTITY devAppMgrMenu.label               "App Manager">
-<!ENTITY devAppMgrMenu.accesskey           "A">
+
+
 <!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
+
 <!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
@@ -297,8 +297,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Velja allt">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "j"> 
-<!ENTITY preferencesCmd2.label       "Preferences">
-<!ENTITY preferencesCmd2.accesskey     "P">
+
+
 <!ENTITY preferencesCmdUnix.label       "Valkostir">
 <!ENTITY preferencesCmdUnix.accesskey     "V"> 
 
@@ -312,7 +312,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "V"> 
 <!ENTITY viewSidebarMenu.label "Hliðslá">
 <!ENTITY viewSidebarMenu.accesskey "H">
-<!ENTITY viewCustomizeToolbar.label       "Customize"> 
+ 
 <!ENTITY viewCustomizeToolbar.accesskey     "S">
 <!ENTITY viewTabsOnTop.label            "Flipar efst">
 <!ENTITY viewTabsOnTop.accesskey        "t">
@@ -330,13 +330,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuEdit.label "Breyta">
 <!ENTITY appMenuCustomize.label "Sérsníða">
-<!ENTITY appMenuToolbarLayout.label "Toolbar Layout">
+
 <!ENTITY appMenuSidebars.label "Hliðarslá">
 <!ENTITY appMenuFind.label "Finna…">
 <!ENTITY appMenuUnsorted.label "Óröðuð bókamerki">
 <!ENTITY appMenuWebDeveloper.label "Vefforritari">
 <!ENTITY appMenuGettingStarted.label "Hafist handa">
-<!ENTITY appMenuSafeMode.label "Restart in Safe Mode…">
+
 <!ENTITY appMenuSafeMode.accesskey "r">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -420,10 +420,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Vista síðu sem…">
 <!ENTITY savePageCmd.accesskey        "V">
-<!ENTITY sendLinkCmd.label            "Send Link…">
-<!ENTITY sendLinkCmd.accesskey        "d">
-<!ENTITY sendPageCmd.label            "Send Page Link…">
-<!ENTITY sendPageCmd.accesskey        "e">
+
+
+
+
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "V">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -521,17 +521,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "S">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
 
 <!ENTITY fullZoomReduceCmd.label        "Minnka">
 <!ENTITY fullZoomReduceCmd.accesskey    "M">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
 
 <!ENTITY fullZoomResetCmd.label         "Endursetja">
 <!ENTITY fullZoomResetCmd.accesskey     "E">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+
 
 <!ENTITY fullZoomToggleCmd.label        "Stækka/minnka einungis texta">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
@@ -552,9 +552,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomInButton.tooltip           "Auka aðdrátt">
 <!ENTITY zoomControls.label             "Aðdráttar stýringar">
 
-<!ENTITY appMenuRestart.label           "Restart…">
-<!ENTITY appMenuRestart.accesskey       "R">
-<!ENTITY appMenuRestartCmd.commandkey   "R">
+
+
+
 
 <!ENTITY quitApplicationCmdWin.label       "Hætta"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "H">
@@ -580,8 +580,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageReportIcon.tooltip            "Breyta stillingum sprettigluggabana fyrir þennan vef">
 
 <!ENTITY allowPopups.accesskey "L">
-<!ENTITY editPopupSettingsUnix.label "Edit Pop-up Blocker Preferences">
-<!ENTITY editPopupSettings.label "Edit Pop-up Blocker Preferences">
+
+
 <!ENTITY editPopupSettings.accesskey "B">
 <!ENTITY dontShowMessage.accesskey "E">
 

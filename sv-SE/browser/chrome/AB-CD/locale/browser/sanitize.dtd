@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "All historik">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+
 <!ENTITY clearTimeDuration.dateColumn     "Besöksdatum">
 <!ENTITY clearTimeDuration.nameColumn     "Namn">
 

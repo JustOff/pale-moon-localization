@@ -20,78 +20,78 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Scratchpad">
+
 
 <!ENTITY fileMenu.label               "Datoteka">
 <!ENTITY fileMenu.accesskey           "D">
 
 <!ENTITY newWindowCmd.label           "Novi prozor">
-<!ENTITY newWindowCmd.accesskey       "N">
-<!ENTITY newWindowCmd.commandkey      "n">
+
+
 
 <!ENTITY openFileCmd.label            "Otvori datoteku...">
-<!ENTITY openFileCmd.accesskey        "O">
-<!ENTITY openFileCmd.commandkey       "o">
+
+
 
 <!ENTITY openRecentMenu.label         "Otvori nedavno">
 <!ENTITY openRecentMenu.accesskey     "r">
 
 <!ENTITY revertCmd.label              "Vrati…">
-<!ENTITY revertCmd.accesskey          "t">
+
 
 <!ENTITY saveFileCmd.label            "Spremi">
-<!ENTITY saveFileCmd.accesskey        "S">
-<!ENTITY saveFileCmd.commandkey       "s">
+
+
 
 <!ENTITY saveFileAsCmd.label          "Spremi kao…">
 <!ENTITY saveFileAsCmd.accesskey      "a">
 
 <!ENTITY closeCmd.label               "Zatvori">
-<!ENTITY closeCmd.key                 "W">
+
 <!ENTITY closeCmd.accesskey           "Z">
 
-<!ENTITY viewMenu.label               "View">
-<!ENTITY viewMenu.accesskey           "V">
 
-<!ENTITY lineNumbers.label             "Show Line Numbers">
-<!ENTITY lineNumbers.accesskey         "L">
 
-<!ENTITY wordWrap.label                "Wrap Text">
-<!ENTITY wordWrap.accesskey            "W">
 
-<!ENTITY highlightTrailingSpace.label     "Highlight Trailing Space">
-<!ENTITY highlightTrailingSpace.accesskey "H">
 
-<!ENTITY largerFont.label             "Larger Font">
-<!ENTITY largerFont.accesskey         "a">
-<!ENTITY largerFont.commandkey        "+">
 
-<!ENTITY smallerFont.label            "Smaller Font">
-<!ENTITY smallerFont.accesskey        "M">
-<!ENTITY smallerFont.commandkey       "-">
 
-<!ENTITY normalSize.label             "Normal Size">
-<!ENTITY normalSize.accesskey         "N">
-<!ENTITY normalSize.commandkey        "0">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY editMenu.label               "Uredi">
-<!ENTITY editMenu.accesskey           "E">
+
 
 <!ENTITY run.label                    "Pokreni">
 <!ENTITY run.accesskey                "r">
-<!ENTITY run.key                      "r">
+
 
 <!ENTITY inspect.label                "Ispitaj">
-<!ENTITY inspect.accesskey            "I">
-<!ENTITY inspect.key                  "i">
+
+
 
 <!ENTITY display.label                "Prikaži">
 <!ENTITY display.accesskey            "k">
 <!ENTITY display.key                  "k">
 
-<!ENTITY pprint.label                 "Pretty Print">
-<!ENTITY pprint.key                   "p">
-<!ENTITY pprint.accesskey             "P">
+
+
+
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -135,7 +135,7 @@
 
 <!ENTITY reloadAndRun.label           "Ponovno učitaj i pokreni">
 <!ENTITY reloadAndRun.accesskey       "e">
-<!ENTITY reloadAndRun.key             "r">
+
 
 <!ENTITY executeMenu.label            "Izvrši">
 <!ENTITY executeMenu.accesskey        "z">
@@ -144,11 +144,11 @@
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
   -->
-<!ENTITY errorConsoleCmd.commandkey   "j">
+
 
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
-<!ENTITY evalFunction.label "Evaluate Current Function">
-<!ENTITY evalFunction.accesskey "v">
-<!ENTITY evalFunction.key "e">
+
+
+

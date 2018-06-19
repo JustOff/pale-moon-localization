@@ -12,7 +12,7 @@
 <!ENTITY wrapCheckbox.label "Ombryd linjer">
 <!ENTITY wrapCheckbox.accesskey "m">
 <!ENTITY findButton.label "Find næste">
-<!ENTITY findButton.accesskey "F">
+
 <!ENTITY cancelButton.label "Annuller">
 <!ENTITY closeButton.label "Luk">
 <!ENTITY up.label "Flyt op">

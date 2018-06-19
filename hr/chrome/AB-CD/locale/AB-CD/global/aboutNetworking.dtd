@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutNetworking.title                 "About Networking">
+
 <!ENTITY aboutNetworking.warning               "Ovo je vrlo eksperimentalno. Ne koristite bez nadzora odraslih.">
 <!ENTITY aboutNetworking.showNextTime          "Prikaži ovo upozorenje sljedeći put">
 <!ENTITY aboutNetworking.ok                    "U redu">
 <!ENTITY aboutNetworking.http                  "Http">
-<!ENTITY aboutNetworking.sockets               "Sockets">
+
 <!ENTITY aboutNetworking.dns                   "DNS">
-<!ENTITY aboutNetworking.websockets            "WebSockets">
+
 <!ENTITY aboutNetworking.refresh               "Osvježi">
-<!ENTITY aboutNetworking.autoRefresh           "Autorefresh every 3 seconds">
-<!ENTITY aboutNetworking.hostname              "Hostname">
+
+
 <!ENTITY aboutNetworking.port                  "Port">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktivni">
 <!ENTITY aboutNetworking.idle                  "U mirovanju">
-<!ENTITY aboutNetworking.host                  "Host">
+
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "Poslano">
 <!ENTITY aboutNetworking.received              "Primljeno">
@@ -27,5 +27,5 @@
 <!ENTITY aboutNetworking.expires               "Istječe (sekunde)">
 <!ENTITY aboutNetworking.messagesSent          "Poslane poruke">
 <!ENTITY aboutNetworking.messagesReceived      "Primljene poruke">
-<!ENTITY aboutNetworking.bytesSent             "Bytes Sent">
-<!ENTITY aboutNetworking.bytesReceived         "Bytes Received">
+
+

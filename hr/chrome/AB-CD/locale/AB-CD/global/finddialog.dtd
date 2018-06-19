@@ -6,7 +6,7 @@
 
 <!ENTITY findDialog.title "Pronađi na ovoj stranici">
 <!ENTITY findField.label "Pronaći što:">
-<!ENTITY findField.accesskey "n">
+
 <!ENTITY caseSensitiveCheckbox.label "Osjetljivo na veličinu slova">
 <!ENTITY caseSensitiveCheckbox.accesskey "s">
 <!ENTITY wrapCheckbox.label "Prelomi">
@@ -18,5 +18,5 @@
 <!ENTITY up.label "Gore">
 <!ENTITY up.accesskey "G">
 <!ENTITY down.label "Dolje">
-<!ENTITY down.accesskey "D">
+
 <!ENTITY direction.label "Smjer">

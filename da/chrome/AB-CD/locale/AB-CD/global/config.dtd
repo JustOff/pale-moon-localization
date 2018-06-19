@@ -6,18 +6,18 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful, not a literal translation -->
-<!ENTITY aboutWarningTitle.label "There be dragons here!">
-<!ENTITY aboutWarningText.label "Changing these advanced settings can be (severely) harmful to the stability, security, and performance of this application. You should only continue if you know what you are doing.">
-<!ENTITY aboutWarningButton.label "I promise to be careful!">
+
+
+
 <!ENTITY aboutWarningCheckbox.label "Vis mig denne advarsel næste gang">
 
 <!ENTITY searchPrefs.label "Søg:">
 <!ENTITY searchPrefs.accesskey "s">
-<!ENTITY focusSearch.key "r">
+
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Indstillingsnavn">
-<!ENTITY lockColumn.label "Status">
+
 <!ENTITY typeColumn.label "Indholdstype">
 <!ENTITY valueColumn.label "Værdi">
 
@@ -42,8 +42,8 @@
 <!ENTITY new.label "Ny nøgle">
 <!ENTITY new.accesskey "N">
 <!ENTITY string.label "Streng">
-<!ENTITY string.accesskey "S">
+
 <!ENTITY integer.label "Heltal">
 <!ENTITY integer.accesskey "H">
 <!ENTITY boolean.label "Boolsk værdi">
-<!ENTITY boolean.accesskey "B">
+

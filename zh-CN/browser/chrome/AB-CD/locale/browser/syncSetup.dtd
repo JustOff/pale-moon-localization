@@ -43,8 +43,8 @@
 <!ENTITY setup.tosLink.label        "服务条款">
 <!ENTITY setup.tosAgree2.label      "以及">
 <!ENTITY setup.ppLink.label         "隐私条款">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+
+
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; 致力于保护您的隐私">

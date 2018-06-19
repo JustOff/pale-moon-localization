@@ -15,7 +15,7 @@
 <!ENTITY setup.choicePage.existing2.label "Jeg bruger allerede &syncBrand.shortName.label; på en anden enhed">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Server">
+
 <!ENTITY serverType.default.label      "Standard: Mozilla &syncBrand.fullName.label;-server">
 <!ENTITY serverType.custom2.label   "Brug en anden server…">
 <!ENTITY signIn.account2.label      "Konto">
@@ -34,7 +34,7 @@
 <!ENTITY setup.confirmPassword.label     "Bekræft adgangskode">
 <!ENTITY setup.confirmPassword.accesskey "a">
 <!ENTITY setup.setupMetro.label     "Synkroniser med Windows 8-stil &brandShortName;">
-<!ENTITY setup.setupMetro.accesskey "S">
+
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -43,8 +43,8 @@
 <!ENTITY setup.tosLink.label        "vilkår">
 <!ENTITY setup.tosAgree2.label      "og">
 <!ENTITY setup.ppLink.label         "privatlivspolitik">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+
+
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; bekymrer sig om sikringen af dine private oplysninger">

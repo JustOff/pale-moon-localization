@@ -16,24 +16,24 @@
 
 <!ENTITY  locationBar.label             "Трака са местом">
 
-<!ENTITY  locbar.suggest.label          "When using the location bar, suggest:">
+
 <!ENTITY  locbar.history.label          "Историјат">
-<!ENTITY  locbar.history.accesskey      "H">
+
 <!ENTITY  locbar.bookmarks.label        "Забелешке">
-<!ENTITY  locbar.bookmarks.accesskey    "k">
-<!ENTITY  locbar.openpage.label         "Open tabs">
-<!ENTITY  locbar.openpage.accesskey     "O">
+
+
+
 
 <!-- LOCALIZATION NOTE (locbar.pre.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+
 <!-- LOCALIZATION NOTE (locbar.pre.accessKey): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.accessKey          "u">
+
 <!-- LOCALIZATION NOTE (locbar.post.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.post.label             "">
+
 <!-- LOCALIZATION NOTE (locbar.both.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.both.label             "History and Bookmarks">
+
 <!-- LOCALIZATION NOTE (locbar.nothing.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.nothing.label          "Nothing">
+
 
 <!ENTITY  acceptCookies.label           "Прихватај колачиће са сајтова">
 <!ENTITY  acceptCookies.accesskey       "П">
@@ -62,7 +62,7 @@
 <!ENTITY  historyHeader.remember.label     "Бележи историјат">
 <!ENTITY  historyHeader.dontremember.label "Никада не бележи историјат">
 <!ENTITY  historyHeader.custom.label       "Користи посебна подешавања за историјат">
-<!ENTITY  historyHeader.post.label         "">
+
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ће запамтити историјат читања, пријема, формулара и претраге, и чуваће колачиће са веб сајтова које посећујете.">
 

@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "Her şey">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+
 <!ENTITY clearTimeDuration.dateColumn     "Ziyaret tarihi">
 <!ENTITY clearTimeDuration.nameColumn     "Adı">
 

@@ -5,7 +5,7 @@
 
 <!ENTITY migrationWizard.title          "Asistente de importación">
 
-<!ENTITY importFrom.label               "Import Preferences, Bookmarks, History, Passwords and other data from:">
+
 <!ENTITY importFromUnix.label           "Importar preferencias, marcadores, historial, contrasinais e outros datos de:">
 <!ENTITY importFromBookmarks.label      "Importar marcadores de:">
 

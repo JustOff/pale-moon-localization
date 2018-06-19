@@ -10,7 +10,7 @@
 <!ENTITY  loadImages.label            "Učitaj slike:">
 <!ENTITY  loadImages.always           "Automatski">
 <!ENTITY  loadImages.never            "Nikada">
-<!ENTITY  loadImages.no3rdparty       "Originating server only">
+
 
 <!ENTITY  fontsAndColors.label        "Fontovi &amp; Boje">
 
@@ -31,10 +31,10 @@
 <!ENTITY  chooseButton.accesskey      "d">
 
 <!ENTITY  video.label                 "Videozapis">
-<!ENTITY  videoMSE.label              "Enable Media Source Extensions (MSE)">
+
 <!ENTITY  videoMSE.accesskey          "M">
-<!ENTITY  videoMSENFR.label           "Use MSE asynchronously">
-<!ENTITY  videoMSENFR.accesskey       "U">
+
+
 <!ENTITY  videoMSEMP4.label           "Omogući MSE za MP4 video">
 <!ENTITY  videoMSEMP4.accesskey       "4">
 <!ENTITY  videoMSEWebM.label          "Omogući MSE za WebM video">

@@ -8,13 +8,13 @@
 <!ENTITY aboutSupport.pageSubtitle "   Ова страна садржи техничке податке који вам могу бити корисни када покушавате да решите неки проблем.  Ако вам требају одговори на често постављана питања о програму &brandShortName;, прегледајте наш <a id='supportLink'>веб сајт за подршку</a>.
 ">
 
-<!ENTITY aboutSupport.crashes.title "Crash Reports">
+
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "Report ID">
-<!ENTITY aboutSupport.crashes.sendDate "Submitted">
-<!ENTITY aboutSupport.crashes.allReports "All Crash Reports">
-<!ENTITY aboutSupport.crashes.noConfig "This application has not been configured to display crash reports.">
+
+
+
+
 
 <!ENTITY aboutSupport.extensionsTitle "Проширења">
 <!ENTITY aboutSupport.extensionName "Назив">
@@ -22,23 +22,23 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Издање">
 <!ENTITY aboutSupport.extensionId "ИД">
 
-<!ENTITY aboutSupport.experimentsTitle "Experimental Features">
-<!ENTITY aboutSupport.experimentName "Name">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Description">
-<!ENTITY aboutSupport.experimentActive "Active">
-<!ENTITY aboutSupport.experimentEndDate "End Date">
-<!ENTITY aboutSupport.experimentHomepage "Homepage">
+
+
+
+
+
+
+
 
 
 <!ENTITY aboutSupport.appBasicsTitle "Основе апликације">
 <!ENTITY aboutSupport.appBasicsName "Назив">
 <!ENTITY aboutSupport.appBasicsVersion "Издање">
-<!ENTITY aboutSupport.appBasicsBuildID "Build ID">
+
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-<!ENTITY aboutSupport.appBasicsUpdateChannel "Update Channel">
+
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Update History">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Show Update History">
 
@@ -51,12 +51,12 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Активирани прикључци">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Конфигурација изградње">
 <!ENTITY aboutSupport.appBasicsUserAgent "Корисник">
-<!ENTITY aboutSupport.appBasicsOS "OS">
+
 <!ENTITY aboutSupport.appBasicsMemoryUse "Меморија">
 
-<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocess Windows">
 
-<!ENTITY aboutSupport.appBasicsSafeMode "Safe Mode">
+
+
 
 <!ENTITY aboutSupport.showDir.label "Отвори директоријум">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -75,15 +75,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "user.js Preferences">
 <!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "Important Locked Preferences">
-<!ENTITY aboutSupport.lockedPrefsName "Name">
-<!ENTITY aboutSupport.lockedPrefsValue "Value">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "Графика">
 
-<!ENTITY aboutSupport.placeDatabaseTitle "Places Database">
-<!ENTITY aboutSupport.placeDatabaseIntegrity "Integrity">
-<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verify Integrity">
+
+
+
 
 <!ENTITY aboutSupport.jsTitle "Јаваскрипт">
 <!ENTITY aboutSupport.jsIncrementalGC "Инкрементални скупљач ђубрета (GC)">
@@ -100,10 +100,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
 
-<!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
-<!ENTITY aboutSupport.safeModeTitle "Try Safe Mode">
-<!ENTITY aboutSupport.restartInSafeMode.label "Restart in Safe Mode…">
 
-<!ENTITY aboutSupport.restartTitle "Try Restart">
-<!ENTITY aboutSupport.restartNormal.label "Restart normally…">
+
+
+
+
+

@@ -19,9 +19,9 @@
 <!ENTITY  autoTypeRadio.label           "Automatisk proxy-konfigurations-URL:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Genindlæs">
-<!ENTITY  reload.accesskey              "e">
+
 <!ENTITY  ftp.label                     "FTP-proxy:">
-<!ENTITY  ftp.accesskey                 "F">
+
 <!ENTITY  http.label                    "HTTP-proxy:">
 <!ENTITY  http.accesskey                "T">
 <!ENTITY  ssl.label                     "SSL-proxy:">
@@ -33,17 +33,17 @@
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "5">
 <!ENTITY  socksRemoteDNS.label          "Brug proxy til at udføre DNS-forespørgsler (kun SOCKS v5)">
-<!ENTITY  socksRemoteDNS.accesskey      "d">
+
 <!ENTITY  port.label                    "Port:">
-<!ENTITY  HTTPport.accesskey            "P">
-<!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  FTPport.accesskey             "r">
-<!ENTITY  SOCKSport.accesskey           "t">
+
+
+
+
 <!ENTITY  noproxy.label                 "Ingen proxy for:">
-<!ENTITY  noproxy.accesskey             "n">
+
 <!ENTITY  noproxyExplain.label          "Fx .mozilla.org, .net.dk, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Brug denne proxy-server for alle protokoller">
 <!ENTITY  shareproxy.accesskey          "r">
 <!ENTITY  autologinproxy.label          "Spørg ikke om godkendelse, hvis password er gemt">
-<!ENTITY  autologinproxy.accesskey      "i">
+
 <!ENTITY  autologinproxy.tooltip        "Denne indstilling godkender stille iproxier når du har gemt legitimationsoplysninger for dem. Du vil blive bedt om oplysninger, hvis godkendelse mislykkes.">

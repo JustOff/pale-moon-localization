@@ -3,16 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY charsetMenu.label             "Tegnsæt">
-<!ENTITY charsetMenu.accesskey         "C">
-<!ENTITY charsetMenuAutodet.label      "Find automatisk">
-<!ENTITY charsetMenuAutodet.accesskey  "D"><!-- A reserved for Arabic -->
 
-<!ENTITY charsetMenuAutodet.off.label     "(off)">
-<!ENTITY charsetMenuAutodet.off.accesskey "o">
+<!ENTITY charsetMenuAutodet.label      "Find automatisk">
+<!-- A reserved for Arabic -->
+
+
+
 <!ENTITY charsetMenuAutodet.ja.label      "Japansk">
-<!ENTITY charsetMenuAutodet.ja.accesskey  "J">
+
 <!ENTITY charsetMenuAutodet.ru.label      "Russisk">
-<!ENTITY charsetMenuAutodet.ru.accesskey  "R">
+
 <!ENTITY charsetMenuAutodet.uk.label      "Ukrainsk">
-<!ENTITY charsetMenuAutodet.uk.accesskey  "U">
+
 

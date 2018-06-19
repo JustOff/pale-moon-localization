@@ -19,7 +19,7 @@
 <!ENTITY productHelp.label        "Axuda do &brandShortName;">
 <!ENTITY productHelp.accesskey    "x">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Restart in Safe Mode…">
+
 <!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "Información para solucionar problemas">

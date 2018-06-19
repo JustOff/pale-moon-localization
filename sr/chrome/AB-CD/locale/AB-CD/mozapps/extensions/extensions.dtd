@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Управљач додацима">
 
 <!ENTITY search.placeholder                   "Претражи све додатке">
-<!ENTITY search.buttonlabel                   "Search">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -102,7 +102,7 @@
 <!ENTITY cmd.installAddon.accesskey           "П">
 <!ENTITY cmd.uninstallAddon.label             "Уклони">
 <!ENTITY cmd.uninstallAddon.accesskey         "и">
-<!ENTITY cmd.debugAddon.label                 "Debug">
+
 <!ENTITY cmd.showPreferencesWin.label         "Могућности">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Промени опције овог додатка">
 <!ENTITY cmd.showPreferencesUnix.label        "Поставке">
@@ -210,8 +210,8 @@
 <!ENTITY addon.loadingReleaseNotes.label      "Учитавање…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "жао нам је, али дошло је до грешке приликом учитавања напомене о издању.">
 
-<!ENTITY addon.nativeAddon                    "This add-on directly targets Pale Moon">
-<!ENTITY addon.compatAddon                    "This add-on targets Mozilla Firefox and runs in compatibility mode">
+
+
 
 <!ENTITY addon.createdBy.label                "Аутор ">
 
@@ -227,10 +227,10 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "What's this? Telemetry may install and run experiments from time to time.">
-<!ENTITY experiment.info.learnmore "Learn More">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Telemetry Settings">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY setting.learnmore "Learn More…">
+
+
+
+
+
+

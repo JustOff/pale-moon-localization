@@ -32,7 +32,7 @@
 <!ENTITY status4evar.option.browse "Duyệt">
 <!ENTITY status4evar.option.clear "Xóa">
 <!ENTITY status4evar.option.center "Giữa">
-<!ENTITY status4evar.option.offset "Offset">
+
 <!ENTITY status4evar.option.repeat "Lặp lại">
 <!ENTITY status4evar.option.no-repeat "Không Lặp lại">
 <!ENTITY status4evar.option.space "Khoảng trống">
@@ -78,14 +78,14 @@
 <!ENTITY status4evar.progress.urlbar.enable.label "Hiển thị quá trình tải ở thanh địa chỉ">
 <!ENTITY status4evar.progress.urlbar.line.label "Kiểu dòng:">
 
-<!ENTITY status4evar.progress.toolbar.force.label "Always show the progress meter">
+
 
 <!ENTITY status4evar.editor.label "Trình biên tập:">
 <!ENTITY status4evar.editor.css.color.label "Màu:">
 <!ENTITY status4evar.editor.css.image.label "Hình ảnh:">
 <!ENTITY status4evar.editor.css.image.repeat "Lặp lại">
 <!ENTITY status4evar.editor.css.image.position "Vị trí">
-<!ENTITY status4evar.editor.css.image.offset "Offset">
+
 
 
 
@@ -98,19 +98,19 @@
 <!ENTITY status4evar.download.progress.average.label "Hiển thị thời gian tải xong trung bình">
 <!ENTITY status4evar.download.progress.max.label "Hiển thị tải về xong sớm nhất">
 <!ENTITY status4evar.download.progress.min.label "Hiển thị tải về xong muộn nhất">
-<!ENTITY status4evar.download.color.active.label "Progress color for active downloads:">
-<!ENTITY status4evar.download.color.paused.label "Progress color for paused downloads:">
-<!ENTITY status4evar.download.notify.animate.label "Animate button when download completes">
-<!ENTITY status4evar.download.notify.timeout.label "Highlight button when download completes:">
 
-<!ENTITY status4evar.addonbar.borderStyle "Use alternate toolbar borders">
-<!ENTITY status4evar.addonbar.windowGripper "Show the window re-size gripper">
-<!ENTITY status4evar.addonbar.closeButton "Show the close button">
 
-<!ENTITY status4evar.advanced.warning "These advanced settings may cause issues with Pale Moon or other extensions. Modify at your own risk.">
 
-<!ENTITY status4evar.advanced.urlbar.forceBinding "Attempt to force the Address Bar XBL binding.">
-<!ENTITY status4evar.advanced.urlbar.forceBinding.desc "Only select this if you have problems with the Address Bar progress or status text being displaying correctly. This will potentially break other extensions that try to set an XBL binding on the Address Bar.">
 
-<!ENTITY status4evar.advanced.status.detectFullScreen "Detect full-screen mode and show links/status appropriately.">
-<!ENTITY status4evar.advanced.status.detectVideo "Hide status popup in full-screen HTML5 video.">
+
+
+
+
+
+
+
+
+
+
+
+

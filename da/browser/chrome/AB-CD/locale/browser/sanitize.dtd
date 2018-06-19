@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "hele min historik">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+
 <!ENTITY clearTimeDuration.dateColumn     "Senest besøgt">
 <!ENTITY clearTimeDuration.nameColumn     "Navn">
 
@@ -30,22 +30,22 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.accesskey "D">
 
 <!ENTITY historySection.label         "Historik">
-<!ENTITY dataSection.label            "Data">
+
 
 <!ENTITY itemHistoryAndDownloads.label     "Browser- og filhentningshistorik">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
+
 <!ENTITY itemFormSearchHistory.label       "Formular- og søgehistorik">
 <!ENTITY itemFormSearchHistory.accesskey   "s">
 <!ENTITY itemPasswords.label               "Gemte adgangskoder">
 <!ENTITY itemPasswords.accesskey           "G">
-<!ENTITY itemCookies.label                 "Cookies">
-<!ENTITY itemCookies.accesskey             "C">
-<!ENTITY itemCache.label                   "Cache">
+
+
+
 <!ENTITY itemCache.accesskey               "h">
 <!ENTITY itemOfflineApps.label             "Offline webapplikationsdata">
-<!ENTITY itemOfflineApps.accesskey         "O">
-<!ENTITY itemConnectivityData.label        "Site Connectivity Data">
-<!ENTITY itemConnectivityData.accesskey    "N">
+
+
+
 <!ENTITY itemActiveLogins.label            "Aktive login">
 <!ENTITY itemActiveLogins.accesskey        "A">
 <!ENTITY itemSitePreferences.label         "Webstedsspecifikke indstillinger">
@@ -60,5 +60,5 @@ that require it.  -->
      Clear History on Shutdown dialogs.  Should be large enough to contain
      the item* strings above on a single line.  The column width should be set
      at half of the dialog width. -->
-<!ENTITY dialog.width2                 "34em">
+
 <!ENTITY column.width2                 "17em">

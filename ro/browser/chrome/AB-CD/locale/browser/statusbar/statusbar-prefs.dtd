@@ -78,7 +78,7 @@
 <!ENTITY status4evar.progress.urlbar.enable.label "Arată progresul în bara de adrese">
 <!ENTITY status4evar.progress.urlbar.line.label "Stil linie:">
 
-<!ENTITY status4evar.progress.toolbar.force.label "Always show the progress meter">
+
 
 <!ENTITY status4evar.editor.label "Editor:">
 <!ENTITY status4evar.editor.css.color.label "Culoare:">

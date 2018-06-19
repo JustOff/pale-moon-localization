@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Viðbótastjóri">
 
 <!ENTITY search.placeholder                   "Leita í öllum viðbótum">
-<!ENTITY search.buttonlabel                   "Search">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -102,7 +102,7 @@
 <!ENTITY cmd.installAddon.accesskey           "t">
 <!ENTITY cmd.uninstallAddon.label             "Fjarlægja">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
-<!ENTITY cmd.debugAddon.label                 "Debug">
+
 <!ENTITY cmd.showPreferencesWin.label         "Valkostir">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Breyta stillingum fyrir þessa viðbót">
 <!ENTITY cmd.showPreferencesUnix.label        "Valkostir">
@@ -210,8 +210,8 @@
 <!ENTITY addon.loadingReleaseNotes.label      "Hleður…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Því miður kom upp villa við að sýna útgáfuupplýsingar.">
 
-<!ENTITY addon.nativeAddon                    "This add-on directly targets Pale Moon">
-<!ENTITY addon.compatAddon                    "This add-on targets Mozilla Firefox and runs in compatibility mode">
+
+
 
 <!ENTITY addon.createdBy.label                "Frá ">
 
@@ -227,10 +227,10 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "What's this? Telemetry may install and run experiments from time to time.">
-<!ENTITY experiment.info.learnmore "Learn More">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Telemetry Settings">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY setting.learnmore "Learn More…">
+
+
+
+
+
+

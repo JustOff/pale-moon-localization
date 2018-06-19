@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+
 
 <!-- The page shown when logged in... -->
 
@@ -14,22 +14,22 @@
 <!ENTITY resetPass.label              "Restabelecer">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "View Quota">
+
+
+
 <!ENTITY changePassword2.label        "Cambiar contrasinal…">
-<!ENTITY myRecoveryKey.label          "My Recovery Key">
-<!ENTITY resetSync2.label             "Reset Sync…">
+
+
 
 <!ENTITY pairDevice.label             "Asociar un dispositivo">
 
-<!ENTITY syncMy.label               "Sync My">
+
 <!ENTITY engine.bookmarks.label     "Marcadores">
-<!ENTITY engine.bookmarks.accesskey "m">
+
 <!ENTITY engine.tabs.label          "Lapelas">
-<!ENTITY engine.tabs.accesskey      "T">
+
 <!ENTITY engine.history.label       "Historial">
-<!ENTITY engine.history.accesskey   "r">
+
 <!ENTITY engine.passwords.label     "Contrasinais">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Preferencias">

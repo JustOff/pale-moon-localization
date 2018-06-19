@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Glasno">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Celoten zaslon">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Končaj celoten zaslon">
-<!ENTITY castingButton.castingLabel "Cast to Screen">
+
 
 <!ENTITY stats.media "Vsebina">
 <!ENTITY stats.size "Velikost">

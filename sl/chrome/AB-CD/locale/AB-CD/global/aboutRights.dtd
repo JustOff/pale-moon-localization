@@ -24,7 +24,7 @@
 <!ENTITY rights.intro-point2-c " najdete tukaj. ">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Some features in &brandShortName; may give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.">
+
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Kako uporabljamo vaše osebne podatke in povratne informacije, ki jih &brandShortName; pošlje organizaciji &vendorShortName;, je opisano na strani ">
@@ -85,4 +85,4 @@
 <!ENTITY rights.webservices-term4 "Storitve so na voljo &quot;kot take.&quot; in &vendorShortName;, skupaj s sodelavci, licenčniki in partnerji, vam ne zagotavlja nikakršne izrecne ali implicitne garancije, med drugim brez kakršnih omejitev nobene garancije, da so Storitve primerne in uporabne za vaše namene. Ne glede na kakovost in zmogljivost storitev nosite vso odgovornost za uporabo za svoje namene vi sami Zakonodaja nekaterih držav ne dovoljuje izločevanja ali omejevanja garancije, zato ta pogoj morda ne velja za vas.">
 <!ENTITY rights.webservices-term5 "Razen če tako zahteva zakon, &vendorShortName;, skupaj s sodelavci, licenčniki in partnerji ne odgovarja za nobeno posredno, posebno, posledično ali vzročno škodo, ki izhaja ali je na kakršenkoli način povezana z uporabo programa &brandShortName; in storitev. Skupna odgovornost pod temi pogoji ne bo presegala 500$ (petsto dolarjev). Zakonodaja nekaterih držav ne dovoljuje izločevanja ali omejevanja nekaterih škod, zato ta pogoj morda ne velja za vas.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; lahko od časa do časa po potrebi te pogoje posodobi. Brez pisnega soglasja &vendorShortName; pa jih ni dovoljeno spreminjati ali preklicati.">
-<!ENTITY rights.webservices-term7 "These terms are governed by the laws of Sweden, excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">
+

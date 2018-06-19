@@ -43,8 +43,8 @@
 <!ENTITY setup.tosLink.label        "Услови коришћења услуге">
 <!ENTITY setup.tosAgree2.label      "и">
 <!ENTITY setup.ppLink.label         "Полиса о приватности">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+
+
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; брине о вашој приватности">

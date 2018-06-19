@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY blocklist.title             "Tilføjelser kan være skyld i problemer">
-<!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause issues:">
-<!ENTITY blocklist.softblocked       "It is highly recommended, but not required, that you restart with these add-ons disabled.">
+
+
+
 <!ENTITY blocklist.hardblocked       "Disse tilføjelser har en stor risiko for at være kilde til stabilitets- eller sikkerhedsproblemer og er blevet blokeret, men genstart er nødvendig for at deaktivere dem fuldstændigt.">
-<!ENTITY blocklist.softandhard       "Some listed add-ons have a high risk of causing stability or security problems and have been blocked. For the others it is highly recommended, but not required, that you restart with them disabled.">
+
 <!ENTITY blocklist.moreinfo          "Flere informationer">
 
 <!ENTITY blocklist.accept.label      "Genstart &brandShortName;">

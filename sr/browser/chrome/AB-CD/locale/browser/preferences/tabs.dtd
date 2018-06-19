@@ -20,17 +20,17 @@
 <!ENTITY showTabsInTaskbar.label          "Прикажи преглед језичка у виндовсовој (Windows) траци задатака">
 <!ENTITY showTabsInTaskbar.accesskey      "П">
 
-<!ENTITY showTabBar.label                   "Always show the tab bar">
-<!ENTITY showTabBar.accesskey               "b">
 
-<!ENTITY insertRelatedAfterCurrent.label    "Insert related tabs next to the current tab">
-<!ENTITY contextLoadInBackground.label      "When performing a context search, switch to the new tab immediately">
-<!ENTITY closeWindowWithLastTab.label       "Close the window when the last tab is closed">
-<!ENTITY showTabPreviews.label              "Show previews when switching tabs with Ctrl+Tab">
 
-<!ENTITY newtabPage.label                   "When opening a new tab, show:">
-<!ENTITY newtabPage.custom.label            "A custom URL">
-<!ENTITY newtabPage.blank.label             "A blank page">
-<!ENTITY newtabPage.home.label              "The Pale Moon start page">
-<!ENTITY newtabPage.myhome.label            "My home page">
-<!ENTITY newtabPage.quickdial.label         "The Quickdial page">
+
+
+
+
+
+
+
+
+
+
+
+

@@ -19,7 +19,7 @@
 <!ENTITY productHelp.label        "&brandShortName; ನೆರವು">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Restart in Safe Mode…">
+
 <!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "ದೋಷನಿವಾರಣ ಮಾಹಿತಿ">

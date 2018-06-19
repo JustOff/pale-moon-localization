@@ -19,7 +19,7 @@
 <!ENTITY productHelp.label        "Pomoč za &brandShortName;">
 <!ENTITY productHelp.accesskey    "P">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Restart in Safe Mode…">
+
 <!ENTITY helpSafeMode.accesskey   "z">
 
 <!ENTITY helpTroubleshootingInfo.label      "Reševanje težav …">

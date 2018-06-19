@@ -65,4 +65,4 @@
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Zaštićena token autentifikacija">
 <!ENTITY protectedAuth.msg "Molim, autentificirajte se tokenu. Metoda autentifikacije ovisi o tipu vašeg tokena.">
-<!ENTITY protectedAuth.tokenName.label "Token:">
+

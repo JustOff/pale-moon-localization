@@ -7,32 +7,32 @@
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organiser">
-<!ENTITY organize.accesskey    "O">
+
 <!ENTITY organize.tooltip      "Hold styr på dine bogmærker">
 
 <!ENTITY file.close.label               "Luk">
 <!ENTITY file.close.accesskey           "L">
-<!ENTITY cmd.close.key                  "w">
+
 <!ENTITY views.label                    "Visning">
-<!ENTITY views.accesskey                "V">
+
 <!ENTITY views.tooltip                  "Ændr din visning">
 <!ENTITY view.columns.label             "Vis kolonner">
 <!ENTITY view.columns.accesskey         "k">
 <!ENTITY view.sort.label                "Sorter">
-<!ENTITY view.sort.accesskey            "S">
+
 <!ENTITY view.unsorted.label            "Usorteret">
-<!ENTITY view.unsorted.accesskey        "U">
+
 <!ENTITY view.sortAscending.label       "Stigende sorteringsorden">
 <!ENTITY view.sortAscending.accesskey   "S">
 <!ENTITY view.sortDescending.label      "Faldende sorteringsorden">
 <!ENTITY view.sortDescending.accesskey  "F">
 
 <!ENTITY importBookmarksFromHTML.label     "Importer bogmærker fra HTML…">
-<!ENTITY importBookmarksFromHTML.accesskey "I">
+
 <!ENTITY exportBookmarksToHTML.label       "Eksporter bogmærker til HTML…">
-<!ENTITY exportBookmarksToHTML.accesskey   "E">
+
 <!ENTITY importOtherBrowser.label          "Importer data fra en anden browser…">
-<!ENTITY importOtherBrowser.accesskey      "A">
+
 
 <!ENTITY cmd.backup.label               "Sikkerhedskopier…">
 <!ENTITY cmd.backup.accesskey           "S">
@@ -42,7 +42,7 @@
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
 <!ENTITY cmd.bookmarkLink.label         "Bogmærk denne side…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
+
 <!ENTITY cmd.delete.label               "Slet denne side">
 <!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Glem alt om dette websted">
@@ -53,21 +53,21 @@
 <!ENTITY cmd.open_window.label             "Åbn i et nyt vindue">
 <!ENTITY cmd.open_window.accesskey         "v">
 <!ENTITY cmd.open_private_window.label     "Åbn et nyt privat vindue">
-<!ENTITY cmd.open_private_window.accesskey "P">
+
 <!ENTITY cmd.open_tab.label                "Åbn i et nyt faneblad">
 <!ENTITY cmd.open_tab.accesskey            "f">
 <!ENTITY cmd.open_all_in_tabs.label        "Åbn alle i faneblade">
 <!ENTITY cmd.open_all_in_tabs.accesskey    "a">
 
 <!ENTITY cmd.openParentFolder.label      "Åbn indholdsmappe">
-<!ENTITY cmd.openParentFolder.accesskey  "F">
+
 
 <!ENTITY cmd.properties.label      "Egenskaber">
 <!ENTITY cmd.properties.accesskey  "E">
 
 <!ENTITY cmd.sortby_name.label              "Sorter efter navn">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+
 
 <!ENTITY cmd.new_bookmark.label            "Nyt bogmærke…">
 <!ENTITY cmd.new_bookmark.accesskey        "b">
@@ -96,21 +96,21 @@
 <!ENTITY col.parentfolderpath.label  "Indholdholdsmappens sti">
 
 <!ENTITY search.label                              "Søgning">
-<!ENTITY search.accesskey                          "S">
+
 
 <!ENTITY search.in.label                           "Søg i:">
 <!ENTITY search.scopeFolder.label                  "Valgt mappe">
-<!ENTITY search.scopeFolder.accesskey              "r">
-<!ENTITY search.scopeBookmarks.label               "Bogmærker">
-<!ENTITY search.scopeBookmarks.accesskey           "k">
-<!ENTITY search.scopeDownloads.label               "Filhentninger">
-<!ENTITY search.scopeDownloads.accesskey           "D">
-<!ENTITY search.scopeHistory.label                 "Historik">
-<!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY saveSearch.label                          "Gem">
-<!ENTITY saveSearch.accesskey                      "S">
 
-<!ENTITY cmd.find.key  "f">
+<!ENTITY search.scopeBookmarks.label               "Bogmærker">
+
+<!ENTITY search.scopeDownloads.label               "Filhentninger">
+
+<!ENTITY search.scopeHistory.label                 "Historik">
+
+<!ENTITY saveSearch.label                          "Gem">
+
+
+
 
 <!ENTITY maintenance.label      "Funktioner">
 <!ENTITY maintenance.accesskey  "u">
@@ -121,13 +121,13 @@
 <!ENTITY forwardButton.tooltip  "Gå en side fremad">
 
 <!ENTITY detailsPane.more.label "Mere">
-<!ENTITY detailsPane.more.accesskey "e">
+
 <!ENTITY detailsPane.less.label "Mindre">
-<!ENTITY detailsPane.less.accesskey "e">
+
 <!ENTITY detailsPane.selectAnItemText.description "Vælg et element til visning og redigering af dets egenskaber">
 
 <!ENTITY find.label               "Søg:">
-<!ENTITY find.accesskey           "S">
+
 <!ENTITY view.label               "Vis">
 <!ENTITY view.accesskey           "V">
 <!ENTITY byDate.label             "efter dato">

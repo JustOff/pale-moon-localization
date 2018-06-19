@@ -11,15 +11,15 @@
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
 <!ENTITY header.site.start               "Quyền hạn cho">
-<!ENTITY header.site.end                 "">
+
 
 <!ENTITY header.defaults                 "Quyền hạn Mặc định cho Tất cả Trang web">
 
-<!ENTITY permissions.sitesReload         "Reload list of sites">
+
 
 <!ENTITY permissions.forgetSite          "Quên Trang Này">
 
-<!ENTITY permission.default              "Use Default">
+
 
 <!ENTITY permission.alwaysAsk            "Luôn Hỏi">
 <!ENTITY permission.allow                "Cho phép">
@@ -37,7 +37,7 @@
 <!ENTITY cookie.manage                   "Quản lí Cookie…">
 <!ENTITY cookie.removeAll                "Xóa Toàn Bộ Cookie">
 
-<!ENTITY desktop-notification.label      "Show Notifications">
+
 
 <!ENTITY install.label                   "Cài đặt Tiện ích mở rộng hoặc Chủ đề">
 

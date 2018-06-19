@@ -7,13 +7,13 @@
 <!ENTITY printJobOptions.title "Svojstva pisača">
 
 <!ENTITY paperInput.label "Dimenzije papira:">
-<!ENTITY paperInput.accesskey "P">
+
 
 <!ENTITY plexInput.label "Način ispisa:">
 <!ENTITY plexInput.accesskey "N">
 
 <!ENTITY resolutionInput.label "Razlučivost/kvaliteta:">
-<!ENTITY resolutionInput.accesskey "e">
+
 
 <!ENTITY cmdInput.label "Naredba ispisa:">
 <!ENTITY cmdInput.accesskey "r">
@@ -28,7 +28,7 @@
 <!ENTITY colorRadio.accesskey "b">
 
 <!ENTITY colorspaceInput.label "Prostor boja:">
-<!ENTITY colorspaceInput.accesskey "s">
+
 
 <!ENTITY fontsGroup.label "Pisma:">
 <!ENTITY downloadFonts.label "Preuzeti pisma na pisač?">
@@ -40,6 +40,6 @@
 <!ENTITY bottomInput.label "Dno:">
 <!ENTITY bottomInput.accesskey "D">
 <!ENTITY leftInput.label "Lijevo:">
-<!ENTITY leftInput.accesskey "L">
+
 <!ENTITY rightInput.label "Desno:">
 <!ENTITY rightInput.accesskey "D">

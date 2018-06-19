@@ -4,10 +4,10 @@
 
 <!ENTITY blocklist.title             "Suplimentele pot cauza probleme">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause issues:">
-<!ENTITY blocklist.softblocked       "It is highly recommended, but not required, that you restart with these add-ons disabled.">
+
+
 <!ENTITY blocklist.hardblocked       "Există un risc mare ca aceste suplimente să cauzeze probleme de stabilitate sau securitate și ca atare au fost blocate; totuși e necesară o repornire pentru a le dezactiva.">
-<!ENTITY blocklist.softandhard       "Some listed add-ons have a high risk of causing stability or security problems and have been blocked. For the others it is highly recommended, but not required, that you restart with them disabled.">
+
 <!ENTITY blocklist.moreinfo          "Mai multe informații">
 
 <!ENTITY blocklist.accept.label      "Repornește &brandShortName;">

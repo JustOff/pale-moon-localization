@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY playButton.playLabel "Afspil">
-<!ENTITY playButton.pauseLabel "Pause">
+
 <!ENTITY muteButton.muteLabel "Slå lyd fra">
 <!ENTITY muteButton.unmuteLabel "Slå lyd til">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Fuld skærm">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Forlad fuld skærm">
-<!ENTITY castingButton.castingLabel "Cast to Screen">
+
 
 <!ENTITY stats.media "Medie">
 <!ENTITY stats.size "Størrelse">

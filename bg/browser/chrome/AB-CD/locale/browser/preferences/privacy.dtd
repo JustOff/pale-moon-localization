@@ -25,15 +25,15 @@
 <!ENTITY  locbar.openpage.accesskey     "О">
 
 <!-- LOCALIZATION NOTE (locbar.pre.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+
 <!-- LOCALIZATION NOTE (locbar.pre.accessKey): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.pre.accessKey          "u">
+
 <!-- LOCALIZATION NOTE (locbar.post.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.post.label             "">
+
 <!-- LOCALIZATION NOTE (locbar.both.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.both.label             "History and Bookmarks">
+
 <!-- LOCALIZATION NOTE (locbar.nothing.label): This is left for Pale Moon <= 27.0.2 and will be deleted soon -->
-<!ENTITY  locbar.nothing.label          "Nothing">
+
 
 <!ENTITY  acceptCookies.label           "Приемай бисквитки от сайтовете">
 <!ENTITY  acceptCookies.accesskey       "б">
@@ -62,7 +62,7 @@
 <!ENTITY  historyHeader.remember.label     "Помни историята">
 <!ENTITY  historyHeader.dontremember.label "Не помни историята">
 <!ENTITY  historyHeader.custom.label       "Използвай потребителски настройки за историята">
-<!ENTITY  historyHeader.post.label         "">
+
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ще помни историята на посещенията, свалените файлове, история на писане и търсене, и бисквитки от уеб сайтовете, които сте посетили.">
 

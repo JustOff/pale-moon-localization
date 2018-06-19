@@ -43,8 +43,8 @@
 <!ENTITY setup.tosLink.label        "Mga Tuntunin ng Serbisyo">
 <!ENTITY setup.tosAgree2.label      "at sa">
 <!ENTITY setup.ppLink.label         "Mga Patakaran sa Paglilihim">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+
+
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ay Nagmamalasakit Sa Iyong Paglilihim">

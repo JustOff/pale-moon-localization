@@ -4,7 +4,7 @@
 <!ENTITY status4evar.progress.widget.title "Kemajuan Meter">
 <!ENTITY status4evar.throbber.widget.title "Indikator Aktivitas">
 <!ENTITY status4evar.download.widget.title "Mengunduh status">
-<!ENTITY status4evar.options.widget.title "Status Bar Preferences">
+
 <!ENTITY status4evar.options.widget.label "Bilah status Bulan Pucat">
-<!ENTITY status4evar.menu.options.label "Status Bar Preferences">
+
 
